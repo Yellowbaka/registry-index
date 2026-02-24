@@ -8,6 +8,7 @@ license: ALL-RIGHTS-RESERVED
 homepage: >-
   https://github.com/cataclysmroguelikegallery/Cata-Rogall-Modpack/tree/main/BN/ER_cosplay
 version: 0.0.0
+last_updated: "2026-02-25T03:34:46+09:00"
 dependencies:
   bn: ">=0.9.1"
 categories:
