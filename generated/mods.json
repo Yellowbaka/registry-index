@@ -1279,6 +1279,30 @@
   },
   {
     "schema_version": "1.0",
+    "id": "er_cosplay",
+    "display_name": "ER Cosplay",
+    "short_description": "Adds 14 survivor-inspired hairstyles and Debi/Marlene hats.",
+    "author": [
+      "NakedJake"
+    ],
+    "license": "ALL-RIGHTS-RESERVED",
+    "homepage": "https://github.com/cataclysmroguelikegallery/Cata-Rogall-Modpack/tree/main/BN/ER_cosplay",
+    "version": "0.0.0",
+    "dependencies": {
+      "bn": ">=0.9.1"
+    },
+    "source": {
+      "type": "github_archive",
+      "url": "https://github.com/cataclysmroguelikegallery/Cata-Rogall-Modpack/archive/refs/heads/main.zip",
+      "commit_sha": "508d3ebb020e656edc7b01de29118e51061e181b",
+      "extract_path": "Cata-Rogall-Modpack-main/BN/ER_cosplay"
+    },
+    "categories": [
+      "graphics"
+    ]
+  },
+  {
+    "schema_version": "1.0",
     "id": "etc_handguns_etc",
     "display_name": "ETC Handguns etc",
     "short_description": "Adds new high muzzle velocity, UPS-consuming guns ammo of which can be hand-loaded mostly from disassembled same-caliber conventional bullets, etc. INCLUDES PATCH OPTION in gun folder which is in item",
