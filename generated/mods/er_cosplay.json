@@ -15,7 +15,7 @@
   "source": {
     "type": "github_archive",
     "url": "https://github.com/cataclysmroguelikegallery/Cata-Rogall-Modpack/archive/refs/heads/main.zip",
-    "commit_sha": "508d3ebb020e656edc7b01de29118e51061e181b",
+    "commit_sha": "2b767bdb800949caa1207d8bb571e9c456ee6dc4",
     "extract_path": "Cata-Rogall-Modpack-main/BN/ER_cosplay"
   },
   "categories": [
