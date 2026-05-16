@@ -1,0 +1,22 @@
+schema_version: "1.0"
+package_type: soundpack
+id: co_ag_soundpack
+display_name: CC-Sounds / CO.AG Soundpack
+short_description: "CO.AG-based soundpack for Cataclysm: Bright Nights."
+author:
+  - Fris0uman
+  - CO.AG
+license: CC-BY-SA-4.0
+homepage: "https://github.com/Fris0uman/CDDA-Soundpacks/releases/tag/2025-11-15"
+version: 2025.11.15
+source:
+  type: direct_url
+  url: >-
+    https://github.com/Fris0uman/CDDA-Soundpacks/releases/download/2025-11-15/CC-Sounds.zip
+  extract_path: CC-Sounds
+categories:
+  - sound
+tags:
+  - soundpack
+  - music
+last_updated: "2026-05-16T09:25:33.709Z"

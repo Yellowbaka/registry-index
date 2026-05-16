@@ -1,0 +1,24 @@
+schema_version: "1.0"
+id: gun_bow
+display_name: Gunbow
+short_description: adds one rare bow with custom-made sound fx
+author:
+  - hamatk
+license: ALL-RIGHTS-RESERVED
+homepage: "https://github.com/hamatk/CataclysmBN_Mod_MachineBow/tree/main/gun_bow"
+version: 0.0.0
+source:
+  type: github_archive
+  url: >-
+    https://github.com/hamatk/CataclysmBN_Mod_MachineBow/archive/refs/heads/main.zip
+  commit_sha: a7ad0a631fb7dfdd07f6de249971c3699d584509
+  extract_path: gun_bow
+description: adds one rare bow with custom-made sound fx
+categories:
+  - content
+dependencies:
+  bn: ">=0.9.1"
+autoupdate:
+  type: commit
+  branch: main
+last_updated: "2026-05-16T09:25:29.560Z"

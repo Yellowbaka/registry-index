@@ -1,0 +1,25 @@
+schema_version: "1.0"
+id: realdarkskies
+display_name: Really Dark Skies
+short_description: >-
+  A supplement mod that increments the Cataclysm Bright Nights experience by
+  adding an inscrutable evil, extra-terrestrial humanoid paramilitary
+  expeditionary force to your typical survival scenario. /n
+author:
+  - Zlorthishen
+license: ALL-RIGHTS-RESERVED
+homepage: "https://github.com/Zlorthishen/Really_Dark_Skies/tree/main/Really_Dark_Skies"
+version: 0.0.0
+source:
+  type: github_archive
+  url: "https://github.com/Zlorthishen/Really_Dark_Skies/archive/refs/heads/main.zip"
+  commit_sha: 4e6abff37d33cfaac6cc43ff1eedcdf5abea17ea
+  extract_path: Really_Dark_Skies
+categories:
+  - content
+dependencies:
+  bn: ">=0.9.1"
+autoupdate:
+  type: commit
+  branch: main
+last_updated: "2026-05-16T09:25:54.228Z"

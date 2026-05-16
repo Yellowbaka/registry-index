@@ -1,0 +1,29 @@
+schema_version: "1.0"
+id: xl_armors_bl9_175monres
+display_name: XL Armors for BL9-175%-monster-resilience-version
+short_description: >-
+  This is an extension that adds XL armors for the
+  BL9-175%-monster-resilience-version mod.
+author:
+  - leoCottret
+license: ALL-RIGHTS-RESERVED
+homepage: >-
+  https://github.com/leoCottret/cbn-leocottret-mods/tree/main/MODS/XL_ARMORS_KENAN_MODPACK/XL_Armors_BL9-175%_monster_resilience_version
+version: 0.0.0
+source:
+  type: github_archive
+  url: >-
+    https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip
+  commit_sha: 57778ad68c1271f1e7069e5c6a0cebdfd40fa01a
+  extract_path: MODS/XL_ARMORS_KENAN_MODPACK/XL_Armors_BL9-175%_monster_resilience_version
+description: >-
+  This is an extension that adds XL armors for the
+  BL9-175%-monster-resilience-version mod.
+categories:
+  - content
+dependencies:
+  bl9_175monres: "*"
+autoupdate:
+  type: commit
+  branch: main
+last_updated: "2026-05-16T09:24:44.650Z"

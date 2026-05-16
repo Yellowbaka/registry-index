@@ -1,0 +1,24 @@
+schema_version: "1.0"
+id: chorus_arcana_addon
+display_name: Chorus's Arcana Addon
+short_description: "Various things added to Arcana, some pulled from other mods."
+author:
+  - ChorusSystem
+license: ALL-RIGHTS-RESERVED
+homepage: "https://github.com/yay855/ChorusMod/tree/main/Chorus Arcana Addon"
+version: 0.0.0
+source:
+  type: github_archive
+  url: "https://github.com/yay855/ChorusMod/archive/refs/heads/main.zip"
+  commit_sha: 77f71e190c6bb430da393eb06ee49f336221715e
+  extract_path: Chorus Arcana Addon
+description: "Various things added to Arcana, some pulled from other mods."
+categories:
+  - content
+dependencies:
+  bn: ">=0.9.1"
+  arcana: "*"
+autoupdate:
+  type: commit
+  branch: main
+last_updated: "2026-05-16T09:24:48.905Z"

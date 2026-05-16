@@ -1,0 +1,27 @@
+schema_version: "1.0"
+id: pm_mr
+display_name: PM-Militia Rifleman
+short_description: >-
+  A civilian militia rifleman, lower tier than a proper soldier. dont use with
+  the all in one variant
+author:
+  - Some Dumbass
+license: ALL-RIGHTS-RESERVED
+homepage: "https://github.com/Shad0wBlad321/Profession-Mod/tree/main/Militia Rifleman"
+version: 0.0.0
+source:
+  type: github_archive
+  url: "https://github.com/Shad0wBlad321/Profession-Mod/archive/refs/heads/main.zip"
+  commit_sha: be2f1f958c17fbf2a5dbdff05ca45e690533fce5
+  extract_path: Militia Rifleman
+description: >-
+  A civilian militia rifleman, lower tier than a proper soldier. dont use with
+  the all in one variant
+categories:
+  - misc_additions
+dependencies:
+  bn: ">=0.9.1"
+autoupdate:
+  type: commit
+  branch: main
+last_updated: "2026-05-16T09:25:07.173Z"

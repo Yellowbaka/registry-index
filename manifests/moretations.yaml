@@ -1,0 +1,31 @@
+schema_version: "1.0"
+id: moretations
+display_name: MOREtations
+short_description: >-
+  A variety of mutations to make your thresholds more mobile, flavourful and
+  utilitarian. Jumping? Climbing? Digging? Releasing strange substances? Growing
+  bizarre apendices? (almost)Everybody gets one!
+author:
+  - tangy
+license: ALL-RIGHTS-RESERVED
+homepage: "https://github.com/bingosta/Moretations---More-unbalanced-mutations"
+version: 0.0.0
+source:
+  type: github_archive
+  url: >-
+    https://github.com/bingosta/Moretations---More-unbalanced-mutations/archive/refs/heads/main.zip
+  commit_sha: 069acb87dffe0e5c4e3c920f990d6ef7c6b318ed
+description: >-
+  A variety of mutations to make your thresholds more mobile, flavourful and
+  utilitarian. Jumping? Climbing? Digging? Releasing strange substances? Growing
+  bizarre apendices? (almost)Everybody gets one! Some vanilla mutations also
+  have been modified for a bigger threshold range. Check PDF for specific
+  changes.
+categories:
+  - mutations
+dependencies:
+  bn: ">=0.9.1"
+autoupdate:
+  type: commit
+  branch: main
+last_updated: "2026-05-16T09:25:12.885Z"

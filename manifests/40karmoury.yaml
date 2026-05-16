@@ -1,0 +1,29 @@
+schema_version: "1.0"
+id: 40karmoury
+display_name: Warhammer 40K Imperial Armoury
+short_description: >-
+  Adds Imperial weapons from the Warhammer 40K universe. It was originally made
+  by Wulfle, or so the modinfo says.
+author:
+  - Kingcat
+license: ALL-RIGHTS-RESERVED
+homepage: >-
+  https://github.com/kingcet/WH40K-Imperial-Armoury/tree/main/WH_40K_Imperial_Armoury
+version: 0.0.0
+source:
+  type: github_archive
+  url: >-
+    https://github.com/kingcet/WH40K-Imperial-Armoury/archive/refs/heads/main.zip
+  commit_sha: f863f21df6a9b72bc1287a28cf8885c8aeeeddc2
+  extract_path: WH_40K_Imperial_Armoury
+description: >-
+  Adds Imperial weapons from the Warhammer 40K universe. It was originally made
+  by Wulfle, or so the modinfo says.
+categories:
+  - items
+dependencies:
+  bn: ">=0.9.1"
+autoupdate:
+  type: commit
+  branch: main
+last_updated: "2026-05-16T09:24:23.160Z"

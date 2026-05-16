@@ -1,0 +1,30 @@
+schema_version: "1.0"
+id: realdarkskies_robots_reprogrammed
+display_name: Really Dark Skies - Robots Reprogrammed
+short_description: >-
+  A patchmod for Really Dark Skies which changes all robots to be neutral to the
+  Xenoid Invaders.
+author:
+  - Zlorthishen
+license: ALL-RIGHTS-RESERVED
+homepage: >-
+  https://github.com/Zlorthishen/Really_Dark_Skies/tree/main/Patch_mods/RDS_Robots_Reprogrammed
+version: 0.0.0
+source:
+  type: github_archive
+  url: "https://github.com/Zlorthishen/Really_Dark_Skies/archive/refs/heads/main.zip"
+  commit_sha: 4e6abff37d33cfaac6cc43ff1eedcdf5abea17ea
+  extract_path: Patch_mods/RDS_Robots_Reprogrammed
+description: >-
+  A patchmod for Really Dark Skies which changes all robots to be neutral to the
+  Xenoid Invaders.
+categories:
+  - monster_exclude
+dependencies:
+  bn: ">=0.9.1"
+  realdarkskies: "*"
+autoupdate:
+  type: commit
+  branch: main
+last_updated: "2026-05-16T09:24:59.310Z"
+parent: realdarkskies

@@ -1,0 +1,23 @@
+schema_version: "1.0"
+id: fluid_cows
+display_name: Fluid Cows
+short_description: Adds mutated cows that produce exotic fluids obtained through catalyst cows.
+author:
+  - Kota
+license: ALL-RIGHTS-RESERVED
+homepage: "https://github.com/shmakota/Material-Plants/tree/master/Fluid Cows"
+version: 0.0.0
+source:
+  type: github_archive
+  url: "https://github.com/shmakota/Material-Plants/archive/refs/heads/master.zip"
+  commit_sha: 309366505af01c607bdd2db28d08b5c2fad98bba
+  extract_path: Fluid Cows
+description: Adds mutated cows that produce exotic fluids obtained through catalyst cows.
+categories:
+  - items
+dependencies:
+  bn: ">=0.9.1"
+autoupdate:
+  type: commit
+  branch: master
+last_updated: "2026-05-16T09:25:08.890Z"

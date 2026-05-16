@@ -1,0 +1,31 @@
+schema_version: "1.0"
+id: realdarkskies_advtech_patchmod
+display_name: Really Dark Skies plus Advanced Technologies
+short_description: >-
+  A patchmod for Really Dark Skies which adds increased support for Advanced
+  Technologies mod
+author:
+  - Zlorthishen
+license: ALL-RIGHTS-RESERVED
+homepage: >-
+  https://github.com/Zlorthishen/Really_Dark_Skies/tree/main/Patch_mods/RDS_plus_AdvancedTech
+version: 0.0.0
+source:
+  type: github_archive
+  url: "https://github.com/Zlorthishen/Really_Dark_Skies/archive/refs/heads/main.zip"
+  commit_sha: 4e6abff37d33cfaac6cc43ff1eedcdf5abea17ea
+  extract_path: Patch_mods/RDS_plus_AdvancedTech
+description: >-
+  A patchmod for Really Dark Skies which adds increased support for Advanced
+  Technologies mod
+categories:
+  - misc_additions
+dependencies:
+  bn: ">=0.9.1"
+  realdarkskies: "*"
+  advtech: "*"
+autoupdate:
+  type: commit
+  branch: main
+last_updated: "2026-05-16T09:24:59.310Z"
+parent: realdarkskies

@@ -1,0 +1,24 @@
+schema_version: "1.0"
+id: mountain_dew
+display_name: Moutain dew
+short_description: A mod that add mountain dew to the game
+author:
+  - Goldendragon
+license: ALL-RIGHTS-RESERVED
+homepage: "https://github.com/goldendragon900/cdda-bn-mountain-dew/tree/main/Mountain_dew"
+version: 0.0.0
+source:
+  type: github_archive
+  url: >-
+    https://github.com/goldendragon900/cdda-bn-mountain-dew/archive/refs/heads/main.zip
+  commit_sha: 90d710957e988bc589cc53677480a1ef4c79aad6
+  extract_path: Mountain_dew
+description: A mod that add mountain dew to the game
+categories:
+  - items
+dependencies:
+  bn: ">=0.9.1"
+autoupdate:
+  type: commit
+  branch: main
+last_updated: "2026-05-16T09:24:25.841Z"

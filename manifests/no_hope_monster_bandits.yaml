@@ -1,0 +1,29 @@
+schema_version: "1.0"
+id: no_hope_monster_bandits
+display_name: No Hope Monster Bandits
+short_description: >-
+  No Hope, but bandit npcs are replaced with monster bandits from "Compatible
+  Add Bandits" by Malkeus
+author:
+  - Night_Pryanik
+  - echoloth
+license: ALL-RIGHTS-RESERVED
+homepage: "https://github.com/btseytlin/Cataclysm-BN---No-Hope-Monster-Bandits-mod"
+version: 0.0.0
+source:
+  type: github_archive
+  url: >-
+    https://github.com/btseytlin/Cataclysm-BN---No-Hope-Monster-Bandits-mod/archive/refs/heads/main.zip
+  commit_sha: 13dfa70c98063827d03f827629495b7058f8dc1a
+description: >-
+  No Hope, but bandit npcs are replaced with monster bandits from "Compatible
+  Add Bandits" by Malkeus
+categories:
+  - content
+dependencies:
+  bn: ">=0.9.1"
+  gov_bandits: "*"
+autoupdate:
+  type: commit
+  branch: main
+last_updated: "2026-05-16T09:24:24.484Z"

@@ -1,0 +1,25 @@
+schema_version: "1.0"
+id: xl_armors_thermal_ups
+display_name: XL Armors for Thermal Electric UPS
+short_description: This is an extension that adds XL armors for the Thermal Electric UPS mod.
+author:
+  - leoCottret
+license: ALL-RIGHTS-RESERVED
+homepage: >-
+  https://github.com/leoCottret/cbn-leocottret-mods/tree/main/MODS/XL_ARMORS_KENAN_MODPACK/XL_Armors_thermal_ups
+version: 0.0.0
+source:
+  type: github_archive
+  url: >-
+    https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip
+  commit_sha: 57778ad68c1271f1e7069e5c6a0cebdfd40fa01a
+  extract_path: MODS/XL_ARMORS_KENAN_MODPACK/XL_Armors_thermal_ups
+description: This is an extension that adds XL armors for the Thermal Electric UPS mod.
+categories:
+  - content
+dependencies:
+  thermal_ups: "*"
+autoupdate:
+  type: commit
+  branch: main
+last_updated: "2026-05-16T09:24:44.658Z"

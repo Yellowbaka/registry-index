@@ -1,0 +1,25 @@
+schema_version: "1.0"
+id: xl_armors_fallout
+display_name: XL Armors for Fallout New England
+short_description: This is an extension that adds XL armors for the Fallout New England mod.
+author:
+  - leoCottret
+license: ALL-RIGHTS-RESERVED
+homepage: >-
+  https://github.com/leoCottret/cbn-leocottret-mods/tree/main/MODS/XL_ARMORS_KENAN_MODPACK/XL_Armors_Fallout_CDDA_BrightNights
+version: 0.0.0
+source:
+  type: github_archive
+  url: >-
+    https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip
+  commit_sha: 57778ad68c1271f1e7069e5c6a0cebdfd40fa01a
+  extract_path: MODS/XL_ARMORS_KENAN_MODPACK/XL_Armors_Fallout_CDDA_BrightNights
+description: This is an extension that adds XL armors for the Fallout New England mod.
+categories:
+  - content
+dependencies:
+  fallout: "*"
+autoupdate:
+  type: commit
+  branch: main
+last_updated: "2026-05-16T09:24:44.652Z"

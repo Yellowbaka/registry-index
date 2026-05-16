@@ -1,0 +1,22 @@
+schema_version: "1.0"
+id: lolita_fashion
+display_name: Lolita Fashion
+short_description: "Adds survivor lolita coords, for all your fancy needs."
+author:
+  - Alec White
+license: ALL-RIGHTS-RESERVED
+homepage: "https://github.com/AlecWhite/Lolita_Fashion"
+version: 0.0.0
+source:
+  type: github_archive
+  url: "https://github.com/AlecWhite/Lolita_Fashion/archive/refs/heads/main.zip"
+  commit_sha: 933eab00c9d546d5d63a94929a9d2fdc70602d04
+description: "Adds survivor lolita coords, for all your fancy needs."
+categories:
+  - content
+dependencies:
+  bn: ">=0.9.1"
+autoupdate:
+  type: commit
+  branch: main
+last_updated: "2026-05-16T09:25:17.375Z"

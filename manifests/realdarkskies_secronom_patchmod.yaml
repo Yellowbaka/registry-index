@@ -1,0 +1,28 @@
+schema_version: "1.0"
+id: realdarkskies_secronom_patchmod
+display_name: Really Dark Skies plus Secronom
+short_description: A patchmod for Really Dark Skies which adds increased support for Secronom
+author:
+  - Zlorthishen
+license: ALL-RIGHTS-RESERVED
+homepage: >-
+  https://github.com/Zlorthishen/Really_Dark_Skies/tree/main/Patch_mods/RDS_plus_Secronom
+version: 0.0.0
+source:
+  type: github_archive
+  url: "https://github.com/Zlorthishen/Really_Dark_Skies/archive/refs/heads/main.zip"
+  commit_sha: 4e6abff37d33cfaac6cc43ff1eedcdf5abea17ea
+  extract_path: Patch_mods/RDS_plus_Secronom
+description: A patchmod for Really Dark Skies which adds increased support for Secronom
+categories:
+  - misc_additions
+dependencies:
+  bn: ">=0.9.1"
+  realdarkskies: "*"
+  secronom: "*"
+  secronom_lore_expansion: "*"
+autoupdate:
+  type: commit
+  branch: main
+last_updated: "2026-05-16T09:24:59.313Z"
+parent: realdarkskies

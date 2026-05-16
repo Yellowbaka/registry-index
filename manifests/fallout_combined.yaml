@@ -1,0 +1,32 @@
+schema_version: "1.0"
+id: fallout_combined
+display_name: "Fallout: New England Combined"
+short_description: >-
+  Brings the retro-futuristic feel of Fallout series to the Cataclysm. Guns,
+  factions, monsters, craftable items, mutations, food, drinks, locations and
+  even more. Stuff from the Core Region, all the wa
+author:
+  - Tefnut
+  - Jolmar7
+  - WarriorKingBob
+license: ALL-RIGHTS-RESERVED
+homepage: "https://github.com/WarriorKingBob/Fallout_BrightNights"
+version: 0.0.0
+source:
+  type: github_archive
+  url: >-
+    https://github.com/WarriorKingBob/Fallout_BrightNights/archive/refs/heads/main.zip
+  commit_sha: 7010b550fc9f7c60c7a911c963a1f8d70e1cabd6
+description: >-
+  Brings the retro-futuristic feel of Fallout series to the Cataclysm. Guns,
+  factions, monsters, craftable items, mutations, food, drinks, locations and
+  even more. Stuff from the Core Region, all the way to the Commonwealth. Fusion
+  of the two fallout mods by tefnut and Jolmar7.
+categories:
+  - content
+dependencies:
+  bn: ">=0.9.1"
+autoupdate:
+  type: commit
+  branch: main
+last_updated: "2026-05-16T09:25:10.224Z"

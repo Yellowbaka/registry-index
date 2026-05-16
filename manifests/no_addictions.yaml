@@ -1,0 +1,23 @@
+schema_version: "1.0"
+id: no_addictions
+display_name: No Addictions
+short_description: Zeroes out potential for addiction from default comestibles.
+author:
+  - Relgar
+license: ALL-RIGHTS-RESERVED
+homepage: "https://github.com/Relgar/CBN-No-Addictions/tree/main/No_Addictions"
+version: 0.0.0
+source:
+  type: github_archive
+  url: "https://github.com/Relgar/CBN-No-Addictions/archive/refs/heads/main.zip"
+  commit_sha: 70eec8386256b2c154c7a7ad2efe2459972cf7b0
+  extract_path: No_Addictions
+description: Zeroes out potential for addiction from default comestibles.
+categories:
+  - rebalance
+dependencies:
+  bn: ">=0.9.1"
+autoupdate:
+  type: commit
+  branch: main
+last_updated: "2026-05-16T09:24:27.159Z"

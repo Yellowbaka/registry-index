@@ -1,0 +1,22 @@
+schema_version: "1.0"
+id: blazemod_szq_edit
+display_name: Blazemod SzQ edit
+short_description: A lot of vehicle parts and weapons.json
+author:
+  - Blaze-whatdoyoumeanitsalreadytaken
+license: ALL-RIGHTS-RESERVED
+homepage: "https://github.com/SzQ1/blazemod-SzQ-edit"
+version: 0.0.0
+source:
+  type: github_archive
+  url: "https://github.com/SzQ1/blazemod-SzQ-edit/archive/refs/heads/main.zip"
+  commit_sha: b4b8ded0c6dd3e605d26766f5179d0e5a2a3362e
+description: A lot of vehicle parts and weapons.json
+categories:
+  - vehicles
+dependencies:
+  bn: ">=0.9.1"
+autoupdate:
+  type: commit
+  branch: main
+last_updated: "2026-05-16T09:24:17.781Z"

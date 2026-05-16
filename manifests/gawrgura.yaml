@@ -1,0 +1,26 @@
+schema_version: "1.0"
+id: gawrgura
+display_name: Gawr Gura Mutation
+short_description: >-
+  Adds a shark-girl mutation category inspired by Gawr Gura.  Descend from the
+  lost city of Atlantis and embrace your inner apex predator of the seas!
+author:
+  - ihatenumbers
+license: ALL-RIGHTS-RESERVED
+homepage: "https://github.com/ihatenumbers/BN_Gawr_Gura"
+version: 0.0.0
+source:
+  type: github_archive
+  url: "https://github.com/ihatenumbers/BN_Gawr_Gura/archive/refs/heads/main.zip"
+  commit_sha: 50c6627e21bab5455cbc06c7fc990489ccebf16c
+description: >-
+  Adds a shark-girl mutation category inspired by Gawr Gura.  Descend from the
+  lost city of Atlantis and embrace your inner apex predator of the seas!
+categories:
+  - content
+dependencies:
+  bn: ">=0.9.1"
+autoupdate:
+  type: commit
+  branch: main
+last_updated: "2026-05-16T09:25:33.708Z"

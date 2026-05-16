@@ -1,0 +1,22 @@
+schema_version: "1.0"
+id: coke_flavors
+display_name: Lones Soda mod
+short_description: A mod that adds many new flavors of coke to find
+author:
+  - thelonestander
+license: ALL-RIGHTS-RESERVED
+homepage: "https://github.com/thelonestander/Lones-soda-mod"
+version: 0.0.0
+source:
+  type: github_archive
+  url: "https://github.com/thelonestander/Lones-soda-mod/archive/refs/heads/main.zip"
+  commit_sha: fb1125555700f77218df201d08ed34651c23f994
+description: A mod that adds many new flavors of coke to find
+categories:
+  - items
+dependencies:
+  bn: ">=0.9.1"
+autoupdate:
+  type: commit
+  branch: main
+last_updated: "2026-05-16T09:25:32.371Z"

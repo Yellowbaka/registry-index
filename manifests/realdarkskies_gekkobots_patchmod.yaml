@@ -1,0 +1,31 @@
+schema_version: "1.0"
+id: realdarkskies_gekkobots_patchmod
+display_name: Really Dark Skies plus Bio-Synth Robot Expansion
+short_description: >-
+  A patchmod for Really Dark Skies which adds increased support for Bio-Synth
+  Robot Expansion
+author:
+  - Zlorthishen
+license: ALL-RIGHTS-RESERVED
+homepage: >-
+  https://github.com/Zlorthishen/Really_Dark_Skies/tree/main/Patch_mods/RDS_plus_Biosynthetic_Robot
+version: 0.0.0
+source:
+  type: github_archive
+  url: "https://github.com/Zlorthishen/Really_Dark_Skies/archive/refs/heads/main.zip"
+  commit_sha: 4e6abff37d33cfaac6cc43ff1eedcdf5abea17ea
+  extract_path: Patch_mods/RDS_plus_Biosynthetic_Robot
+description: >-
+  A patchmod for Really Dark Skies which adds increased support for Bio-Synth
+  Robot Expansion
+categories:
+  - misc_additions
+dependencies:
+  bn: ">=0.9.1"
+  realdarkskies: "*"
+  gekkobots: "*"
+autoupdate:
+  type: commit
+  branch: main
+last_updated: "2026-05-16T09:24:59.311Z"
+parent: realdarkskies

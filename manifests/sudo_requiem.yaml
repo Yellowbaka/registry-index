@@ -1,0 +1,28 @@
+schema_version: "1.0"
+id: sudo_requiem
+display_name: Sudo's Requiem
+short_description: >-
+  Adds late game items, big bundle of materials and (SoonTM)late game monsters
+  to challenge your demi-god cyber mutant
+author:
+  - leoCottret
+license: ALL-RIGHTS-RESERVED
+homepage: "https://github.com/leoCottret/cbn-leocottret-mods/tree/main/MODS/Sudo_Requiem"
+version: 0.0.0
+source:
+  type: github_archive
+  url: >-
+    https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip
+  commit_sha: 57778ad68c1271f1e7069e5c6a0cebdfd40fa01a
+  extract_path: MODS/Sudo_Requiem
+description: >-
+  Adds late game items, big bundle of materials and (SoonTM)late game monsters
+  to challenge your demi-god cyber mutant
+categories:
+  - content
+dependencies:
+  bn: ">=0.9.1"
+autoupdate:
+  type: commit
+  branch: main
+last_updated: "2026-05-16T09:24:44.645Z"

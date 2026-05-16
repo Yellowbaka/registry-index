@@ -1,0 +1,27 @@
+schema_version: "1.0"
+id: casingcrafting
+display_name: Craftable Bullet Casings
+short_description: >-
+  Adding craft recipes to bullet casings, as well as brass itself. May be OP and
+  unbalanced
+author:
+  - GallantChar
+license: ALL-RIGHTS-RESERVED
+homepage: "https://github.com/Gallant-Char-25/CataclysmBN_Craftable_Casings_Mod"
+version: 0.0.0
+source:
+  type: github_archive
+  url: >-
+    https://github.com/Gallant-Char-25/CataclysmBN_Craftable_Casings_Mod/archive/refs/heads/main.zip
+  commit_sha: bf804b2ab2e456940ca3dca59530d339b19213f8
+description: >-
+  Adding craft recipes to bullet casings, as well as brass itself. May be OP and
+  unbalanced
+categories:
+  - items
+dependencies:
+  bn: ">=0.9.1"
+autoupdate:
+  type: commit
+  branch: main
+last_updated: "2026-05-16T09:24:46.031Z"

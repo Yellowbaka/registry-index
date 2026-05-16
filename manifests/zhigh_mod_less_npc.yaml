@@ -1,0 +1,25 @@
+schema_version: "1.0"
+id: zhigh_mod_less_npc
+display_name: "Zombie Highschool Mod, less NPCs"
+short_description: "Add a weird school with less NPCs and zeds, for mobile devices."
+author:
+  - Another Marius
+license: ALL-RIGHTS-RESERVED
+homepage: "https://github.com/thhoney08/ZombieHighMod_LessNpcs"
+version: 0.0.0
+source:
+  type: github_archive
+  url: >-
+    https://github.com/thhoney08/ZombieHighMod_LessNpcs/archive/refs/heads/main.zip
+  commit_sha: b52e5080b330567c53aaa385f74e4dc0527f2d4a
+description: "Add a weird school with less NPCs and zeds, for mobile devices."
+categories:
+  - content
+dependencies:
+  bn: ">=0.9.1"
+  zhigh_mod: "*"
+autoupdate:
+  type: commit
+  branch: main
+last_updated: "2026-05-16T09:25:11.531Z"
+parent: zhigh_mod

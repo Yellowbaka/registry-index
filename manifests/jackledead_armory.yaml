@@ -1,0 +1,28 @@
+schema_version: "1.0"
+id: jackledead_armory
+display_name: Jackledead Armory
+short_description: >-
+  Adds 12+ new firearms and 46+ gun-mods as well as 10+ professions to showcase
+  them.
+author:
+  - Jackledead
+license: ALL-RIGHTS-RESERVED
+homepage: >-
+  https://github.com/jackledead/jackledead_armory/tree/main/modsBrightNights/jackledead_armory
+version: 0.0.0
+source:
+  type: github_archive
+  url: "https://github.com/jackledead/jackledead_armory/archive/refs/heads/main.zip"
+  commit_sha: 7262ba982a83f37cb1b12cac58e5f053a44a1833
+  extract_path: modsBrightNights/jackledead_armory
+description: >-
+  Adds 12+ new firearms and 46+ gun-mods as well as 10+ professions to showcase
+  them.
+categories:
+  - items
+dependencies:
+  bn: ">=0.9.1"
+autoupdate:
+  type: commit
+  branch: main
+last_updated: "2026-05-16T09:25:04.600Z"

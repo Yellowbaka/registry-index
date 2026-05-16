@@ -1,0 +1,30 @@
+schema_version: "1.0"
+id: realdarkskies_faction_alterations
+display_name: Really Dark Skies blob-faction alterations
+short_description: >-
+  A patchmod for Really Dark Skies which changes the standard zombies to be
+  friendly with the Xenoids.
+author:
+  - Zlorthishen
+license: ALL-RIGHTS-RESERVED
+homepage: >-
+  https://github.com/Zlorthishen/Really_Dark_Skies/tree/main/Patch_mods/RDS_Faction_balance
+version: 0.0.0
+source:
+  type: github_archive
+  url: "https://github.com/Zlorthishen/Really_Dark_Skies/archive/refs/heads/main.zip"
+  commit_sha: 4e6abff37d33cfaac6cc43ff1eedcdf5abea17ea
+  extract_path: Patch_mods/RDS_Faction_balance
+description: >-
+  A patchmod for Really Dark Skies which changes the standard zombies to be
+  friendly with the Xenoids.
+categories:
+  - monster_exclude
+dependencies:
+  bn: ">=0.9.1"
+  realdarkskies: "*"
+autoupdate:
+  type: commit
+  branch: main
+last_updated: "2026-05-16T09:24:59.307Z"
+parent: realdarkskies

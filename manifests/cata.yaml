@@ -1,0 +1,45 @@
+schema_version: "1.0"
+id: cata
+display_name: Cataclysm++
+short_description: >-
+  The unofficial expansion mod for Cataclysm: Bright Nights.
+
+
+  The gigantic jabberwock of a mod that adds a lot of content to the game: new
+  items, buildings, scenarios, monsters, etc. It also reworks and
+author:
+  - Noctifer
+license: ALL-RIGHTS-RESERVED
+homepage: >-
+  https://github.com/Noctifer-de-Mortem/nocts_cata_mod/tree/master/nocts_cata_mod_BN
+version: 0.0.0
+source:
+  type: github_archive
+  url: >-
+    https://github.com/Noctifer-de-Mortem/nocts_cata_mod/archive/refs/heads/master.zip
+  commit_sha: 640477a78597002ffbaa2c9bf52bf3a11edd8c59
+  extract_path: nocts_cata_mod_BN
+description: >-
+  The unofficial expansion mod for Cataclysm: Bright Nights.
+
+
+  The gigantic jabberwock of a mod that adds a lot of content to the game: new
+  items, buildings, scenarios, monsters, etc. It also reworks and adds
+  alternatives to many things from recipes to scenarios. It also adds a
+  pseudo-story and lore on the works.
+
+
+  The Bio-Weapon, Super Soldier, Commandeers, Slave Fighters and the Old World
+  Prepper NPC factions join the world.
+
+
+  Seek the Bio-weapons, find loot, take down new monsters and invest in skills
+  for new craftable items.
+categories:
+  - content
+dependencies:
+  bn: ">=0.9.1"
+autoupdate:
+  type: commit
+  branch: master
+last_updated: "2026-05-16T09:24:12.316Z"

@@ -1,0 +1,27 @@
+schema_version: "1.0"
+id: mst_extra
+display_name: MST Extra
+short_description: >-
+  The sequeal to CDDA's old More Survival Tools mod, adding additional useful
+  innawoods content.
+author:
+  - Chaosvolt
+license: ALL-RIGHTS-RESERVED
+homepage: "https://github.com/chaosvolt/MST_Extra_Mod/tree/master/MST_Extra_BN"
+version: 0.0.0
+source:
+  type: github_archive
+  url: "https://github.com/chaosvolt/MST_Extra_Mod/archive/refs/heads/master.zip"
+  commit_sha: 10770a65561f3ed0a95c6f30f08734de031454cc
+  extract_path: MST_Extra_BN
+description: >-
+  The sequeal to CDDA's old More Survival Tools mod, adding additional useful
+  innawoods content.
+categories:
+  - items
+dependencies:
+  bn: ">=0.9.1"
+autoupdate:
+  type: commit
+  branch: master
+last_updated: "2026-05-16T09:24:06.656Z"

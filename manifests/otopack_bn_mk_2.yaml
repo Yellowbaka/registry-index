@@ -1,0 +1,20 @@
+schema_version: "1.0"
+package_type: soundpack
+id: otopack_bn_mk_2
+display_name: Otopack BN Mk 2
+short_description: "Soundpack maintained for Cataclysm: Bright Nights."
+author:
+  - NarandBD
+license: ALL-RIGHTS-RESERVED
+homepage: "https://github.com/NarandBD/Otopack-BN-Mk-2/releases/tag/sorrynotsorry"
+version: 2026.2.12
+source:
+  type: github_archive
+  url: >-
+    https://github.com/NarandBD/Otopack-BN-Mk-2/archive/refs/tags/sorrynotsorry.zip
+  extract_path: Otopack+ModsUpdates BN
+categories:
+  - sound
+tags:
+  - soundpack
+last_updated: "2026-05-16T09:25:33.709Z"

@@ -1,0 +1,29 @@
+schema_version: "1.0"
+id: npp
+display_name: Nuclear Power Plant
+short_description: >-
+  Adds a Nuclear Power Plant from DDA. Location created by author: 8streets.
+  Done to realism as could.
+author:
+  - 8street
+license: ALL-RIGHTS-RESERVED
+homepage: >-
+  https://github.com/OpsCoretango/Nuclear_Power_Plant_BN/tree/main/Nuclear_Power_Plant
+version: 0.0.0
+source:
+  type: github_archive
+  url: >-
+    https://github.com/OpsCoretango/Nuclear_Power_Plant_BN/archive/refs/heads/main.zip
+  commit_sha: 8ad9d49d2c6e997f3197bc9c400261e842502cc1
+  extract_path: Nuclear_Power_Plant
+description: >-
+  Adds a Nuclear Power Plant from DDA. Location created by author: 8streets.
+  Done to realism as could.
+categories:
+  - buildings
+dependencies:
+  bn: ">=0.9.1"
+autoupdate:
+  type: commit
+  branch: main
+last_updated: "2026-05-16T09:25:01.986Z"

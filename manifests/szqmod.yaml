@@ -1,0 +1,22 @@
+schema_version: "1.0"
+id: szqmod
+display_name: SzQmod
+short_description: "Weapons from Blazemod, pneumatic weapons"
+author:
+  - SzQ
+license: ALL-RIGHTS-RESERVED
+homepage: "https://github.com/SzQ1/SzQmod"
+version: 0.0.0
+source:
+  type: github_archive
+  url: "https://github.com/SzQ1/SzQmod/archive/refs/heads/main.zip"
+  commit_sha: 47f0f33e984545bde85bdd75215c2f3261f8e5f2
+description: "Weapons from Blazemod, pneumatic weapons"
+categories:
+  - vehicles
+dependencies:
+  bn: ">=0.9.1"
+autoupdate:
+  type: commit
+  branch: main
+last_updated: "2026-05-16T09:24:13.767Z"

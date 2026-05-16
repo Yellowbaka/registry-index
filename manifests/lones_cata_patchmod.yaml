@@ -1,0 +1,27 @@
+schema_version: "1.0"
+id: lones_cata_patchmod
+display_name: Lones Cata++ patchmod
+short_description: Patch mod for acs stealth cloak to be used for cata++.
+author:
+  - Thelonestander
+license: ALL-RIGHTS-RESERVED
+homepage: >-
+  https://github.com/thelonestander/Lones-atomic-additions/tree/main/Cata++
+  patch mod
+version: 0.0.0
+source:
+  type: github_archive
+  url: >-
+    https://github.com/thelonestander/Lones-atomic-additions/archive/refs/heads/main.zip
+  commit_sha: c3409e3122101d2daa7470e97351110286074658
+  extract_path: Cata++ patch mod
+description: Patch mod for acs stealth cloak to be used for cata++.
+categories:
+  - content
+dependencies:
+  bn: ">=0.9.1"
+  cata++: "*"
+autoupdate:
+  type: commit
+  branch: main
+last_updated: "2026-05-16T09:25:21.740Z"
