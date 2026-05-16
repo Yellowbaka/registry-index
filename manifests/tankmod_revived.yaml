@@ -8,6 +8,9 @@ license: ALL-RIGHTS-RESERVED
 homepage: >-
   https://github.com/chaosvolt/cdda-tankmod-revived-mod/tree/master/Tankmod_Revived_BN
 version: 0.0.0
+yanked:
+  reason: >-
+    mainlined in Nightly 2026-05-17 (see https://github.com/cataclysmbn/Cataclysm-BN/pull/8894)
 source:
   type: github_archive
   url: >-

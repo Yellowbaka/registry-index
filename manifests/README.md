@@ -36,6 +36,7 @@ source:
 - `homepage`: Repository or documentation URL
 - `dependencies`: List of required mod IDs
 - `conflicts`: List of incompatible mod IDs
+- `yanked.reason`: Reason the mod is no longer recommended for new installs
 - `categories`: Organization categories
 - `tags`: Search tags
 - `iconUrl`: 160x160 PNG icon URL
