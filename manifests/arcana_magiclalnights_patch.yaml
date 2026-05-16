@@ -21,6 +21,8 @@ dependencies:
   bn: ">=0.9.1"
   arcana: "*"
   magicalnights: "*"
+yanked:
+  reason: "Mainlined in Cataclysm: Bright Nights."
 autoupdate:
   type: commit
   branch: master
