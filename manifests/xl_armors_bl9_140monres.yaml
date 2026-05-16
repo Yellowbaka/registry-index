@@ -23,6 +23,7 @@ categories:
   - content
 dependencies:
   bl9_140monres: "*"
+parent: bl9_140monres
 autoupdate:
   type: commit
   branch: main

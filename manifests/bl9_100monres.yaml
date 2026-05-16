@@ -21,6 +21,9 @@ categories:
   - content
 dependencies:
   bn: ">=0.9.1"
+conflicts:
+  bl9_140monres: "*"
+  bl9_175monres: "*"
 autoupdate:
   type: commit
   branch: master
