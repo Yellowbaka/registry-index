@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
+    inputs:
+      mod_id:
+        description: "Optional mod id to update; empty updates all mods"
+        required: false
+        type: string
 
 permissions:
   contents: write
@@ -30,9 +35,21 @@ jobs:
 
       - name: Run autoupdate
         working-directory: registry
-        run: deno run -RW --allow-net --allow-env --allow-run=gh src/scripts/autoupdate.ts ../registry-index/manifests
+        run: |
+          target="../registry-index/manifests"
+          if [ -n "$MOD_ID" ]; then
+            case "$MOD_ID" in
+              *[!A-Za-z0-9_-]*)
+                echo "::error::mod_id can only contain letters, numbers, underscores, and hyphens"
+                exit 1
+                ;;
+            esac
+            target="$target/$MOD_ID.yaml"
+          fi
+          deno run -RW --allow-net --allow-env --allow-run=gh src/scripts/autoupdate.ts "$target"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          MOD_ID: ${{ github.event.inputs.mod_id }}
 
       - name: Regenerate index files
         working-directory: registry
