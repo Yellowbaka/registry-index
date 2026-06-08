@@ -4,27 +4,36 @@ display_name: Hope against the Dark
 short_description: >-
   Magical Girl Content. Adds unique professions with different perks to
   hopefully cater to trying out a different style of play.
+description: >-
+  Magical Girl Content. Adds unique professions with different perks to
+  hopefully cater to trying out a different style of play.
 author:
   - 10taiSenshi
   - ChorusSystem
 license: ALL-RIGHTS-RESERVED
 homepage: "https://github.com/yay855/Hope-in-the-Dark/tree/main/Hope-in-the-dark"
-version: 0.0.0
+version: 2026.6.8-0175d79
+dependencies:
+  magicalnights: "*"
 source:
   type: github_archive
   url: "https://github.com/yay855/Hope-in-the-Dark/archive/refs/heads/main.zip"
   commit_sha: 0175d790dbfe8a239bbd4aeb1821fc5698b434e6
   extract_path: Hope-in-the-dark
-description: >-
-  Magical Girl Content. Adds unique professions with different perks to
-  hopefully cater to trying out a different style of play.
 categories:
   - content
-dependencies:
-  magicalnights: "*"
-modinfo_url: "https://raw.githubusercontent.com/yay855/Hope-in-the-Dark/0175d790dbfe8a239bbd4aeb1821fc5698b434e6/Hope-in-the-dark/modinfo.json"
+modinfo_url: >-
+  https://raw.githubusercontent.com/yay855/Hope-in-the-Dark/0175d790dbfe8a239bbd4aeb1821fc5698b434e6/Hope-in-the-dark/modinfo.json
 uses_lua: false
 autoupdate:
   type: commit
   branch: main
-last_updated: "2026-05-16T09:24:50.377Z"
+last_updated: "2026-06-08T03:02:54.710Z"
+previous_releases:
+  - version: 0.0.0
+    source:
+      type: github_archive
+      url: "https://github.com/yay855/Hope-in-the-Dark/archive/refs/heads/main.zip"
+      commit_sha: 0175d790dbfe8a239bbd4aeb1821fc5698b434e6
+      extract_path: Hope-in-the-dark
+    released_at: "2026-05-16T09:24:50.377Z"

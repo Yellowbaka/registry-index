@@ -9,7 +9,19 @@
   ],
   "license": "ALL-RIGHTS-RESERVED",
   "homepage": "https://github.com/shmakota/birdbox_mod_bn/tree/main/birdbox",
-  "version": "0.0.0",
+  "version": "2026.6.8-b3ac37c",
+  "previous_releases": [
+    {
+      "version": "0.0.0",
+      "source": {
+        "type": "github_archive",
+        "url": "https://github.com/shmakota/birdbox_mod_bn/archive/refs/heads/main.zip",
+        "commit_sha": "b3ac37c1c9be11cbc7e91012d29bc92401d9b927",
+        "extract_path": "birdbox"
+      },
+      "released_at": "2026-05-16T09:25:26.894Z"
+    }
+  ],
   "dependencies": {
     "bn": ">=0.9.1"
   },
@@ -29,5 +41,5 @@
     "type": "commit",
     "branch": "main"
   },
-  "last_updated": "2026-05-16T09:25:26.894Z"
+  "last_updated": "2026-06-08T03:03:02.382Z"
 }

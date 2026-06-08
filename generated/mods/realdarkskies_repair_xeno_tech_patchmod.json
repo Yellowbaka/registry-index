@@ -9,7 +9,19 @@
   ],
   "license": "ALL-RIGHTS-RESERVED",
   "homepage": "https://github.com/Zlorthishen/Really_Dark_Skies/tree/main/Patch_mods/RDS_Repair_Xeno-Tech",
-  "version": "0.0.0",
+  "version": "2026.6.8-4e6abff",
+  "previous_releases": [
+    {
+      "version": "0.0.0",
+      "source": {
+        "type": "github_archive",
+        "url": "https://github.com/Zlorthishen/Really_Dark_Skies/archive/refs/heads/main.zip",
+        "commit_sha": "4e6abff37d33cfaac6cc43ff1eedcdf5abea17ea",
+        "extract_path": "Patch_mods/RDS_Repair_Xeno-Tech"
+      },
+      "released_at": "2026-05-16T09:24:59.309Z"
+    }
+  ],
   "dependencies": {
     "bn": ">=0.9.1",
     "realdarkskies": "*"
@@ -30,5 +42,5 @@
     "branch": "main"
   },
   "parent": "realdarkskies",
-  "last_updated": "2026-05-16T09:24:59.309Z"
+  "last_updated": "2026-06-08T03:02:33.203Z"
 }

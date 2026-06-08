@@ -9,7 +9,18 @@
   ],
   "license": "ALL-RIGHTS-RESERVED",
   "homepage": "https://github.com/thelonestander/Lones-Augmented-Arsenal",
-  "version": "0.0.0",
+  "version": "2026.6.8-2f56566",
+  "previous_releases": [
+    {
+      "version": "0.0.0",
+      "source": {
+        "type": "github_archive",
+        "url": "https://github.com/thelonestander/Lones-Augmented-Arsenal/archive/refs/heads/main.zip",
+        "commit_sha": "5dcd7555205af327d926594071a34291ed5e7748"
+      },
+      "released_at": "2026-05-16T09:25:25.579Z"
+    }
+  ],
   "dependencies": {
     "bn": ">=0.9.1",
     "aftershock": "*",
@@ -18,7 +29,7 @@
   "source": {
     "type": "github_archive",
     "url": "https://github.com/thelonestander/Lones-Augmented-Arsenal/archive/refs/heads/main.zip",
-    "commit_sha": "5dcd7555205af327d926594071a34291ed5e7748"
+    "commit_sha": "2f56566c26c13fcf5f80b69f2dede100f2fd4da2"
   },
   "categories": [
     "content"
@@ -29,5 +40,5 @@
     "type": "commit",
     "branch": "main"
   },
-  "last_updated": "2026-05-16T09:25:25.579Z"
+  "last_updated": "2026-06-08T03:02:32.796Z"
 }

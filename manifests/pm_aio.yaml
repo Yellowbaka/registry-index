@@ -5,28 +5,38 @@ short_description: >-
   The all in one module for my profession mod, adding, replacing, and
   rebalancing several professions to give the player more variety in their
   starts without having to pick a challenge or joke start. Do
-author:
-  - Some Dumbass
-license: ALL-RIGHTS-RESERVED
-homepage: "https://github.com/Shad0wBlad321/Profession-Mod/tree/main/Bobs Professions"
-version: 0.0.0
-source:
-  type: github_archive
-  url: "https://github.com/Shad0wBlad321/Profession-Mod/archive/refs/heads/main.zip"
-  commit_sha: be2f1f958c17fbf2a5dbdff05ca45e690533fce5
-  extract_path: Bobs Professions
 description: >-
   The all in one module for my profession mod, adding, replacing, and
   rebalancing several professions to give the player more variety in their
   starts without having to pick a challenge or joke start. Dont use this
   alongside the standalone ones
-categories:
-  - misc_additions
+author:
+  - Some Dumbass
+license: ALL-RIGHTS-RESERVED
+homepage: "https://github.com/Shad0wBlad321/Profession-Mod/tree/main/Bobs Professions"
+version: 2026.6.8-be2f1f9
 dependencies:
   bn: ">=0.9.1"
-modinfo_url: "https://raw.githubusercontent.com/Shad0wBlad321/Profession-Mod/be2f1f958c17fbf2a5dbdff05ca45e690533fce5/Bobs%20Professions/modinfo.json"
+source:
+  type: github_archive
+  url: "https://github.com/Shad0wBlad321/Profession-Mod/archive/refs/heads/main.zip"
+  commit_sha: be2f1f958c17fbf2a5dbdff05ca45e690533fce5
+  extract_path: Bobs Professions
+categories:
+  - misc_additions
+modinfo_url: >-
+  https://raw.githubusercontent.com/Shad0wBlad321/Profession-Mod/be2f1f958c17fbf2a5dbdff05ca45e690533fce5/Bobs%20Professions/modinfo.json
 uses_lua: false
 autoupdate:
   type: commit
   branch: main
-last_updated: "2026-05-16T09:25:07.173Z"
+last_updated: "2026-06-08T03:03:04.873Z"
+previous_releases:
+  - version: 0.0.0
+    source:
+      type: github_archive
+      url: >-
+        https://github.com/Shad0wBlad321/Profession-Mod/archive/refs/heads/main.zip
+      commit_sha: be2f1f958c17fbf2a5dbdff05ca45e690533fce5
+      extract_path: Bobs Professions
+    released_at: "2026-05-16T09:25:07.173Z"

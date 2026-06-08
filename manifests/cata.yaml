@@ -7,18 +7,6 @@ short_description: >-
 
   The gigantic jabberwock of a mod that adds a lot of content to the game: new
   items, buildings, scenarios, monsters, etc. It also reworks and
-author:
-  - Noctifer
-license: ALL-RIGHTS-RESERVED
-homepage: >-
-  https://github.com/Noctifer-de-Mortem/nocts_cata_mod/tree/master/nocts_cata_mod_BN
-version: 0.0.0
-source:
-  type: github_archive
-  url: >-
-    https://github.com/Noctifer-de-Mortem/nocts_cata_mod/archive/refs/heads/master.zip
-  commit_sha: 640477a78597002ffbaa2c9bf52bf3a11edd8c59
-  extract_path: nocts_cata_mod_BN
 description: >-
   The unofficial expansion mod for Cataclysm: Bright Nights.
 
@@ -35,13 +23,35 @@ description: >-
 
   Seek the Bio-weapons, find loot, take down new monsters and invest in skills
   for new craftable items.
-categories:
-  - content
+author:
+  - Noctifer
+license: ALL-RIGHTS-RESERVED
+homepage: >-
+  https://github.com/Noctifer-de-Mortem/nocts_cata_mod/tree/master/nocts_cata_mod_BN
+version: 2026.6.8-94b18c2
 dependencies:
   bn: ">=0.9.1"
-modinfo_url: "https://raw.githubusercontent.com/Noctifer-de-Mortem/nocts_cata_mod/640477a78597002ffbaa2c9bf52bf3a11edd8c59/nocts_cata_mod_BN/modinfo.json"
+source:
+  type: github_archive
+  url: >-
+    https://github.com/Noctifer-de-Mortem/nocts_cata_mod/archive/refs/heads/master.zip
+  commit_sha: 94b18c22b5770c1ab79034c16bceb722dbeeaac1
+  extract_path: nocts_cata_mod_BN
+categories:
+  - content
+modinfo_url: >-
+  https://raw.githubusercontent.com/Noctifer-de-Mortem/nocts_cata_mod/640477a78597002ffbaa2c9bf52bf3a11edd8c59/nocts_cata_mod_BN/modinfo.json
 uses_lua: false
 autoupdate:
   type: commit
   branch: master
-last_updated: "2026-05-16T09:24:12.316Z"
+last_updated: "2026-06-08T03:03:01.978Z"
+previous_releases:
+  - version: 0.0.0
+    source:
+      type: github_archive
+      url: >-
+        https://github.com/Noctifer-de-Mortem/nocts_cata_mod/archive/refs/heads/master.zip
+      commit_sha: 640477a78597002ffbaa2c9bf52bf3a11edd8c59
+      extract_path: nocts_cata_mod_BN
+    released_at: "2026-05-16T09:24:12.316Z"

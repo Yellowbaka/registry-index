@@ -4,25 +4,33 @@ display_name: "More Bandits, Testing version"
 short_description: >-
   Adds a lot more spawning locations for small groups of bandits making them
   much more frequent.  All code extracted from No_Hope mod by Night_Pryanik
+description: >-
+  Adds a lot more spawning locations for small groups of bandits making them
+  much more frequent.  All code extracted from No_Hope mod by Night_Pryanik
 author:
   - SzQ
 license: ALL-RIGHTS-RESERVED
 homepage: "https://github.com/SzQ1/More-Bandits"
-version: 0.0.0
+version: 2026.6.8-c36d4d8
+dependencies:
+  bn: ">=0.9.1"
 source:
   type: github_archive
   url: "https://github.com/SzQ1/More-Bandits/archive/refs/heads/main.zip"
   commit_sha: c36d4d831c63e91d24c73448333fbf1419da32e4
-description: >-
-  Adds a lot more spawning locations for small groups of bandits making them
-  much more frequent.  All code extracted from No_Hope mod by Night_Pryanik
 categories:
   - content
-dependencies:
-  bn: ">=0.9.1"
-modinfo_url: "https://raw.githubusercontent.com/SzQ1/More-Bandits/c36d4d831c63e91d24c73448333fbf1419da32e4/modinfo.json"
+modinfo_url: >-
+  https://raw.githubusercontent.com/SzQ1/More-Bandits/c36d4d831c63e91d24c73448333fbf1419da32e4/modinfo.json
 uses_lua: false
 autoupdate:
   type: commit
   branch: main
-last_updated: "2026-05-16T09:24:19.115Z"
+last_updated: "2026-06-08T03:02:39.220Z"
+previous_releases:
+  - version: 0.0.0
+    source:
+      type: github_archive
+      url: "https://github.com/SzQ1/More-Bandits/archive/refs/heads/main.zip"
+      commit_sha: c36d4d831c63e91d24c73448333fbf1419da32e4
+    released_at: "2026-05-16T09:24:19.115Z"

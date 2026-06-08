@@ -2,28 +2,38 @@ schema_version: "1.0"
 id: realdarkskies_nohope_patchmod
 display_name: Really Dark Skies plus No Hope
 short_description: A patchmod for Really Dark Skies which adds increased support for No Hope
+description: A patchmod for Really Dark Skies which adds increased support for No Hope
 author:
   - Zlorthishen
 license: ALL-RIGHTS-RESERVED
 homepage: >-
   https://github.com/Zlorthishen/Really_Dark_Skies/tree/main/Patch_mods/RDS_plus_NoHope
-version: 0.0.0
+version: 2026.6.8-4e6abff
+dependencies:
+  bn: ">=0.9.1"
+  realdarkskies: "*"
+  no_hope: "*"
 source:
   type: github_archive
   url: "https://github.com/Zlorthishen/Really_Dark_Skies/archive/refs/heads/main.zip"
   commit_sha: 4e6abff37d33cfaac6cc43ff1eedcdf5abea17ea
   extract_path: Patch_mods/RDS_plus_NoHope
-description: A patchmod for Really Dark Skies which adds increased support for No Hope
 categories:
   - misc_additions
-dependencies:
-  bn: ">=0.9.1"
-  realdarkskies: "*"
-  no_hope: "*"
-modinfo_url: "https://raw.githubusercontent.com/Zlorthishen/Really_Dark_Skies/4e6abff37d33cfaac6cc43ff1eedcdf5abea17ea/Patch_mods/RDS_plus_NoHope/modinfo.json"
+modinfo_url: >-
+  https://raw.githubusercontent.com/Zlorthishen/Really_Dark_Skies/4e6abff37d33cfaac6cc43ff1eedcdf5abea17ea/Patch_mods/RDS_plus_NoHope/modinfo.json
 uses_lua: false
 autoupdate:
   type: commit
   branch: main
-last_updated: "2026-05-16T09:24:59.313Z"
 parent: realdarkskies
+last_updated: "2026-06-08T03:03:06.943Z"
+previous_releases:
+  - version: 0.0.0
+    source:
+      type: github_archive
+      url: >-
+        https://github.com/Zlorthishen/Really_Dark_Skies/archive/refs/heads/main.zip
+      commit_sha: 4e6abff37d33cfaac6cc43ff1eedcdf5abea17ea
+      extract_path: Patch_mods/RDS_plus_NoHope
+    released_at: "2026-05-16T09:24:59.313Z"

@@ -2,28 +2,38 @@ schema_version: "1.0"
 id: xl_armors_makeshift
 display_name: XL Armors for Makeshift Items Mod
 short_description: This is an extension that adds XL armors for the Makeshift Items Mod mod.
+description: This is an extension that adds XL armors for the Makeshift Items Mod mod.
 author:
   - leoCottret
 license: ALL-RIGHTS-RESERVED
 homepage: >-
   https://github.com/leoCottret/cbn-leocottret-mods/tree/main/MODS/XL_ARMORS_BRIGHT_NIGHT/XL_Armors_makeshift
-version: 0.0.0
+version: 2026.6.8-2e94b3e
+yanked:
+  reason: can re-fit armors into XL
+dependencies:
+  makeshift: "*"
 source:
   type: github_archive
   url: >-
     https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip
-  commit_sha: 57778ad68c1271f1e7069e5c6a0cebdfd40fa01a
+  commit_sha: 2e94b3ec069793086efe73923b091a36815c27ae
   extract_path: MODS/XL_ARMORS_BRIGHT_NIGHT/XL_Armors_makeshift
-description: This is an extension that adds XL armors for the Makeshift Items Mod mod.
 categories:
   - content
-dependencies:
-  makeshift: "*"
-yanked:
-  reason: "can re-fit armors into XL"
-modinfo_url: "https://raw.githubusercontent.com/leoCottret/cbn-leocottret-mods/57778ad68c1271f1e7069e5c6a0cebdfd40fa01a/MODS/XL_ARMORS_BRIGHT_NIGHT/XL_Armors_makeshift/modinfo.json"
+modinfo_url: >-
+  https://raw.githubusercontent.com/leoCottret/cbn-leocottret-mods/57778ad68c1271f1e7069e5c6a0cebdfd40fa01a/MODS/XL_ARMORS_BRIGHT_NIGHT/XL_Armors_makeshift/modinfo.json
 uses_lua: false
 autoupdate:
   type: commit
   branch: main
-last_updated: "2026-05-16T09:24:44.648Z"
+last_updated: "2026-06-08T03:02:44.765Z"
+previous_releases:
+  - version: 0.0.0
+    source:
+      type: github_archive
+      url: >-
+        https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip
+      commit_sha: 57778ad68c1271f1e7069e5c6a0cebdfd40fa01a
+      extract_path: MODS/XL_ARMORS_BRIGHT_NIGHT/XL_Armors_makeshift
+    released_at: "2026-05-16T09:24:44.648Z"

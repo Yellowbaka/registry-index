@@ -2,25 +2,34 @@ schema_version: "1.0"
 id: afs_easydocs
 display_name: Aftershock - Easydocs
 short_description: Makes all Autodocs in Aftershock safe
+description: Makes all Autodocs in Aftershock safe
 author:
   - Relgar
 license: ALL-RIGHTS-RESERVED
 homepage: "https://github.com/Relgar/AFS_Easydocs/tree/main/AFS_Easydocs"
-version: 0.0.0
+version: 2026.6.8-922a8a1
+dependencies:
+  bn: ">=0.9.1"
+  aftershock: "*"
 source:
   type: github_archive
   url: "https://github.com/Relgar/AFS_Easydocs/archive/refs/heads/main.zip"
   commit_sha: 922a8a19214466d05de7133070892ff3f90e5bc8
   extract_path: AFS_Easydocs
-description: Makes all Autodocs in Aftershock safe
 categories:
   - rebalance
-dependencies:
-  bn: ">=0.9.1"
-  aftershock: "*"
-modinfo_url: "https://raw.githubusercontent.com/Relgar/AFS_Easydocs/922a8a19214466d05de7133070892ff3f90e5bc8/AFS_Easydocs/modinfo.json"
+modinfo_url: >-
+  https://raw.githubusercontent.com/Relgar/AFS_Easydocs/922a8a19214466d05de7133070892ff3f90e5bc8/AFS_Easydocs/modinfo.json
 uses_lua: false
 autoupdate:
   type: commit
   branch: main
-last_updated: "2026-05-16T09:24:28.541Z"
+last_updated: "2026-06-08T03:02:24.253Z"
+previous_releases:
+  - version: 0.0.0
+    source:
+      type: github_archive
+      url: "https://github.com/Relgar/AFS_Easydocs/archive/refs/heads/main.zip"
+      commit_sha: 922a8a19214466d05de7133070892ff3f90e5bc8
+      extract_path: AFS_Easydocs
+    released_at: "2026-05-16T09:24:28.541Z"

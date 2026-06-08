@@ -9,7 +9,19 @@
   ],
   "license": "ALL-RIGHTS-RESERVED",
   "homepage": "https://github.com/leoCottret/cbn-leocottret-mods/tree/main/MODS/XL_ARMORS_KENAN_MODPACK/XL_Armors_World_On_Fire",
-  "version": "0.0.0",
+  "version": "2026.6.8-2e94b3e",
+  "previous_releases": [
+    {
+      "version": "0.0.0",
+      "source": {
+        "type": "github_archive",
+        "url": "https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip",
+        "commit_sha": "57778ad68c1271f1e7069e5c6a0cebdfd40fa01a",
+        "extract_path": "MODS/XL_ARMORS_KENAN_MODPACK/XL_Armors_World_On_Fire"
+      },
+      "released_at": "2026-05-16T09:24:44.657Z"
+    }
+  ],
   "yanked": {
     "reason": "can re-fit armors into XL"
   },
@@ -19,7 +31,7 @@
   "source": {
     "type": "github_archive",
     "url": "https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip",
-    "commit_sha": "57778ad68c1271f1e7069e5c6a0cebdfd40fa01a",
+    "commit_sha": "2e94b3ec069793086efe73923b091a36815c27ae",
     "extract_path": "MODS/XL_ARMORS_KENAN_MODPACK/XL_Armors_World_On_Fire"
   },
   "categories": [
@@ -31,5 +43,5 @@
     "type": "commit",
     "branch": "main"
   },
-  "last_updated": "2026-05-16T09:24:44.657Z"
+  "last_updated": "2026-06-08T03:02:28.861Z"
 }

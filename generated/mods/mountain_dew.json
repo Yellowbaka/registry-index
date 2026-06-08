@@ -9,7 +9,19 @@
   ],
   "license": "ALL-RIGHTS-RESERVED",
   "homepage": "https://github.com/goldendragon900/cdda-bn-mountain-dew/tree/main/Mountain_dew",
-  "version": "0.0.0",
+  "version": "2026.6.8-90d7109",
+  "previous_releases": [
+    {
+      "version": "0.0.0",
+      "source": {
+        "type": "github_archive",
+        "url": "https://github.com/goldendragon900/cdda-bn-mountain-dew/archive/refs/heads/main.zip",
+        "commit_sha": "90d710957e988bc589cc53677480a1ef4c79aad6",
+        "extract_path": "Mountain_dew"
+      },
+      "released_at": "2026-05-16T09:24:25.841Z"
+    }
+  ],
   "dependencies": {
     "bn": ">=0.9.1"
   },
@@ -28,5 +40,5 @@
     "type": "commit",
     "branch": "main"
   },
-  "last_updated": "2026-05-16T09:24:25.841Z"
+  "last_updated": "2026-06-08T03:02:42.003Z"
 }

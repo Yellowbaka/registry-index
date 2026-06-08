@@ -5,27 +5,35 @@ short_description: >-
   Blob based survival and technology. Adds comprehensive slime-based equipment,
   creatures, and amphibious vehicle parts that can transition seamlessly between
   land and water.
+description: >-
+  Blob based survival and technology. Adds comprehensive slime-based equipment,
+  creatures, and amphibious vehicle parts that can transition seamlessly between
+  land and water.
 author:
   - Dev_Null
   - yowshi
 license: ALL-RIGHTS-RESERVED
 homepage: "https://github.com/yowshi/BlobExpansion"
-version: 0.0.0
+version: 2026.6.8-77b6ae9
+dependencies:
+  bn: ">=0.9.1"
 source:
   type: github_archive
   url: "https://github.com/yowshi/BlobExpansion/archive/refs/heads/master.zip"
-  commit_sha: 37c874f70c6e9278c094853e472d9cdd2a059e23
-description: >-
-  Blob based survival and technology. Adds comprehensive slime-based equipment,
-  creatures, and amphibious vehicle parts that can transition seamlessly between
-  land and water.
+  commit_sha: 77b6ae94ec02f23d1251e160d4f5d540ba7f0999
 categories:
   - content
-dependencies:
-  bn: ">=0.9.1"
-modinfo_url: "https://raw.githubusercontent.com/yowshi/BlobExpansion/37c874f70c6e9278c094853e472d9cdd2a059e23/modinfo.json"
+modinfo_url: >-
+  https://raw.githubusercontent.com/yowshi/BlobExpansion/37c874f70c6e9278c094853e472d9cdd2a059e23/modinfo.json
 uses_lua: false
 autoupdate:
   type: commit
   branch: master
-last_updated: "2026-05-16T09:25:14.202Z"
+last_updated: "2026-06-08T03:02:47.335Z"
+previous_releases:
+  - version: 0.0.0
+    source:
+      type: github_archive
+      url: "https://github.com/yowshi/BlobExpansion/archive/refs/heads/master.zip"
+      commit_sha: 37c874f70c6e9278c094853e472d9cdd2a059e23
+    released_at: "2026-05-16T09:25:14.202Z"

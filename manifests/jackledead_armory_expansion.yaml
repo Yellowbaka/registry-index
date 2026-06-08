@@ -4,29 +4,39 @@ display_name: "Jackledead Armory: Creeps Goons Guns"
 short_description: >-
   Adds creeps, goons, and guns to provide a Survival-FPS-like feel while using
   my armory mod.
+description: >-
+  Adds creeps, goons, and guns to provide a Survival-FPS-like feel while using
+  my armory mod.
 author:
   - Jackledead
 license: ALL-RIGHTS-RESERVED
 homepage: >-
   https://github.com/jackledead/jackledead_armory/tree/main/modsBrightNights/jackledead_armory_expansion
-version: 0.0.0
+version: 2026.6.8-7262ba9
+dependencies:
+  bn: ">=0.9.1"
+  jackledead_armory: "*"
 source:
   type: github_archive
   url: "https://github.com/jackledead/jackledead_armory/archive/refs/heads/main.zip"
   commit_sha: 7262ba982a83f37cb1b12cac58e5f053a44a1833
   extract_path: modsBrightNights/jackledead_armory_expansion
-description: >-
-  Adds creeps, goons, and guns to provide a Survival-FPS-like feel while using
-  my armory mod.
 categories:
   - content
-dependencies:
-  bn: ">=0.9.1"
-  jackledead_armory: "*"
-modinfo_url: "https://raw.githubusercontent.com/jackledead/jackledead_armory/7262ba982a83f37cb1b12cac58e5f053a44a1833/modsBrightNights/jackledead_armory_expansion/modinfo.json"
+modinfo_url: >-
+  https://raw.githubusercontent.com/jackledead/jackledead_armory/7262ba982a83f37cb1b12cac58e5f053a44a1833/modsBrightNights/jackledead_armory_expansion/modinfo.json
 uses_lua: false
 autoupdate:
   type: commit
   branch: main
-last_updated: "2026-05-16T09:25:04.601Z"
 parent: jackledead_armory
+last_updated: "2026-06-08T03:02:52.855Z"
+previous_releases:
+  - version: 0.0.0
+    source:
+      type: github_archive
+      url: >-
+        https://github.com/jackledead/jackledead_armory/archive/refs/heads/main.zip
+      commit_sha: 7262ba982a83f37cb1b12cac58e5f053a44a1833
+      extract_path: modsBrightNights/jackledead_armory_expansion
+    released_at: "2026-05-16T09:25:04.601Z"

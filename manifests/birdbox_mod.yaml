@@ -4,27 +4,36 @@ display_name: Birdbox
 short_description: >-
   Adds a monster that will drive you insane, and cause death upon seeing it.
   Always keep a blindfold on hand, and have a plan to break line of sight.
+description: >-
+  Adds a monster that will drive you insane, and cause death upon seeing it.
+  Always keep a blindfold on hand, and have a plan to break line of sight.
 author:
   - Kota
 license: ALL-RIGHTS-RESERVED
 homepage: "https://github.com/shmakota/birdbox_mod_bn/tree/main/birdbox"
-version: 0.0.0
+version: 2026.6.8-b3ac37c
+dependencies:
+  bn: ">=0.9.1"
 source:
   type: github_archive
   url: "https://github.com/shmakota/birdbox_mod_bn/archive/refs/heads/main.zip"
   commit_sha: b3ac37c1c9be11cbc7e91012d29bc92401d9b927
   extract_path: birdbox
-description: >-
-  Adds a monster that will drive you insane, and cause death upon seeing it.
-  Always keep a blindfold on hand, and have a plan to break line of sight.
 categories:
   - content
-dependencies:
-  bn: ">=0.9.1"
-modinfo_url: "https://raw.githubusercontent.com/shmakota/birdbox_mod_bn/b3ac37c1c9be11cbc7e91012d29bc92401d9b927/birdbox/modinfo.json"
+modinfo_url: >-
+  https://raw.githubusercontent.com/shmakota/birdbox_mod_bn/b3ac37c1c9be11cbc7e91012d29bc92401d9b927/birdbox/modinfo.json
 uses_lua: true
 lua_api_version: 2
 autoupdate:
   type: commit
   branch: main
-last_updated: "2026-05-16T09:25:26.894Z"
+last_updated: "2026-06-08T03:03:02.382Z"
+previous_releases:
+  - version: 0.0.0
+    source:
+      type: github_archive
+      url: "https://github.com/shmakota/birdbox_mod_bn/archive/refs/heads/main.zip"
+      commit_sha: b3ac37c1c9be11cbc7e91012d29bc92401d9b927
+      extract_path: birdbox
+    released_at: "2026-05-16T09:25:26.894Z"

@@ -4,28 +4,37 @@ display_name: No Hope Monster Bandits
 short_description: >-
   No Hope, but bandit npcs are replaced with monster bandits from "Compatible
   Add Bandits" by Malkeus
+description: >-
+  No Hope, but bandit npcs are replaced with monster bandits from "Compatible
+  Add Bandits" by Malkeus
 author:
   - Night_Pryanik
   - echoloth
 license: ALL-RIGHTS-RESERVED
 homepage: "https://github.com/btseytlin/Cataclysm-BN---No-Hope-Monster-Bandits-mod"
-version: 0.0.0
+version: 2026.6.8-13dfa70
+dependencies:
+  bn: ">=0.9.1"
+  gov_bandits: "*"
 source:
   type: github_archive
   url: >-
     https://github.com/btseytlin/Cataclysm-BN---No-Hope-Monster-Bandits-mod/archive/refs/heads/main.zip
   commit_sha: 13dfa70c98063827d03f827629495b7058f8dc1a
-description: >-
-  No Hope, but bandit npcs are replaced with monster bandits from "Compatible
-  Add Bandits" by Malkeus
 categories:
   - content
-dependencies:
-  bn: ">=0.9.1"
-  gov_bandits: "*"
-modinfo_url: "https://raw.githubusercontent.com/btseytlin/Cataclysm-BN---No-Hope-Monster-Bandits-mod/13dfa70c98063827d03f827629495b7058f8dc1a/modinfo.json"
+modinfo_url: >-
+  https://raw.githubusercontent.com/btseytlin/Cataclysm-BN---No-Hope-Monster-Bandits-mod/13dfa70c98063827d03f827629495b7058f8dc1a/modinfo.json
 uses_lua: false
 autoupdate:
   type: commit
   branch: main
-last_updated: "2026-05-16T09:24:24.484Z"
+last_updated: "2026-06-08T03:02:46.661Z"
+previous_releases:
+  - version: 0.0.0
+    source:
+      type: github_archive
+      url: >-
+        https://github.com/btseytlin/Cataclysm-BN---No-Hope-Monster-Bandits-mod/archive/refs/heads/main.zip
+      commit_sha: 13dfa70c98063827d03f827629495b7058f8dc1a
+    released_at: "2026-05-16T09:24:24.484Z"

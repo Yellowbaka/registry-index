@@ -5,27 +5,36 @@ short_description: >-
   Adds spawning locations for dangerous enemies like Flesh golems, Mutants,
   Dogs, Shoggoths, etc.  It seems to work even.  Code based on No_Hope mod by
   Night_Pryanik
+description: >-
+  Adds spawning locations for dangerous enemies like Flesh golems, Mutants,
+  Dogs, Shoggoths, etc.  It seems to work even.  Code based on No_Hope mod by
+  Night_Pryanik
 author:
   - SzQ
 license: ALL-RIGHTS-RESERVED
 homepage: "https://github.com/SzQ1/More-Dangerous-Encounters"
-version: 0.0.0
+version: 2026.6.8-e1f7cd2
+dependencies:
+  bn: ">=0.9.1"
 source:
   type: github_archive
   url: >-
     https://github.com/SzQ1/More-Dangerous-Encounters/archive/refs/heads/main.zip
   commit_sha: e1f7cd2d5dfd3b4db356b67d888d36caaf46c472
-description: >-
-  Adds spawning locations for dangerous enemies like Flesh golems, Mutants,
-  Dogs, Shoggoths, etc.  It seems to work even.  Code based on No_Hope mod by
-  Night_Pryanik
 categories:
   - content
-dependencies:
-  bn: ">=0.9.1"
-modinfo_url: "https://raw.githubusercontent.com/SzQ1/More-Dangerous-Encounters/e1f7cd2d5dfd3b4db356b67d888d36caaf46c472/modinfo.json"
+modinfo_url: >-
+  https://raw.githubusercontent.com/SzQ1/More-Dangerous-Encounters/e1f7cd2d5dfd3b4db356b67d888d36caaf46c472/modinfo.json
 uses_lua: false
 autoupdate:
   type: commit
   branch: main
-last_updated: "2026-05-16T09:24:15.100Z"
+last_updated: "2026-06-08T03:02:32.096Z"
+previous_releases:
+  - version: 0.0.0
+    source:
+      type: github_archive
+      url: >-
+        https://github.com/SzQ1/More-Dangerous-Encounters/archive/refs/heads/main.zip
+      commit_sha: e1f7cd2d5dfd3b4db356b67d888d36caaf46c472
+    released_at: "2026-05-16T09:24:15.100Z"

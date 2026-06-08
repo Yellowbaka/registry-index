@@ -9,7 +9,19 @@
   ],
   "license": "ALL-RIGHTS-RESERVED",
   "homepage": "https://github.com/Lamandus/Stackgeneric/tree/main/mods/Drystack",
-  "version": "0.0.0",
+  "version": "2026.6.8-cdc630f",
+  "previous_releases": [
+    {
+      "version": "0.0.0",
+      "source": {
+        "type": "github_archive",
+        "url": "https://github.com/Lamandus/Stackgeneric/archive/refs/heads/main.zip",
+        "commit_sha": "cdc630f215e9c1726680a27f664bef52b0908581",
+        "extract_path": "mods/Drystack"
+      },
+      "released_at": "2026-05-16T09:24:21.812Z"
+    }
+  ],
   "dependencies": {
     "bn": ">=0.9.1"
   },
@@ -28,5 +40,5 @@
     "type": "commit",
     "branch": "main"
   },
-  "last_updated": "2026-05-16T09:24:21.812Z"
+  "last_updated": "2026-06-08T03:02:52.309Z"
 }

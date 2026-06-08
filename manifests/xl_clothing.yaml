@@ -4,26 +4,35 @@ display_name: XL clothing
 short_description: >-
   Adds a few winter items for mutants and buffs XL variants of armors to normal
   levels.
+description: >-
+  Adds a few winter items for mutants and buffs XL variants of armors to normal
+  levels.
 author:
   - Krwak
 license: ALL-RIGHTS-RESERVED
 homepage: "https://github.com/Krwak/XL-Clothing/tree/main/XL Clothing"
-version: 0.0.0
+version: 2026.6.8-c0ebaf2
+dependencies:
+  bn: ">=0.9.1"
 source:
   type: github_archive
   url: "https://github.com/Krwak/XL-Clothing/archive/refs/heads/main.zip"
   commit_sha: c0ebaf2de67e3a626ae7008867fe503f0f659db4
   extract_path: XL Clothing
-description: >-
-  Adds a few winter items for mutants and buffs XL variants of armors to normal
-  levels.
 categories:
   - items
-dependencies:
-  bn: ">=0.9.1"
-modinfo_url: "https://raw.githubusercontent.com/Krwak/XL-Clothing/c0ebaf2de67e3a626ae7008867fe503f0f659db4/XL%20Clothing/modinfo.json"
+modinfo_url: >-
+  https://raw.githubusercontent.com/Krwak/XL-Clothing/c0ebaf2de67e3a626ae7008867fe503f0f659db4/XL%20Clothing/modinfo.json
 uses_lua: false
 autoupdate:
   type: commit
   branch: main
-last_updated: "2026-05-16T09:24:51.735Z"
+last_updated: "2026-06-08T03:03:00.803Z"
+previous_releases:
+  - version: 0.0.0
+    source:
+      type: github_archive
+      url: "https://github.com/Krwak/XL-Clothing/archive/refs/heads/main.zip"
+      commit_sha: c0ebaf2de67e3a626ae7008867fe503f0f659db4
+      extract_path: XL Clothing
+    released_at: "2026-05-16T09:24:51.735Z"

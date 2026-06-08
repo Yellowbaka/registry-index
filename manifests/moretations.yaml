@@ -5,29 +5,38 @@ short_description: >-
   A variety of mutations to make your thresholds more mobile, flavourful and
   utilitarian. Jumping? Climbing? Digging? Releasing strange substances? Growing
   bizarre apendices? (almost)Everybody gets one!
-author:
-  - tangy
-license: ALL-RIGHTS-RESERVED
-homepage: "https://github.com/bingosta/Moretations---More-unbalanced-mutations"
-version: 0.0.0
-source:
-  type: github_archive
-  url: >-
-    https://github.com/bingosta/Moretations---More-unbalanced-mutations/archive/refs/heads/main.zip
-  commit_sha: 069acb87dffe0e5c4e3c920f990d6ef7c6b318ed
 description: >-
   A variety of mutations to make your thresholds more mobile, flavourful and
   utilitarian. Jumping? Climbing? Digging? Releasing strange substances? Growing
   bizarre apendices? (almost)Everybody gets one! Some vanilla mutations also
   have been modified for a bigger threshold range. Check PDF for specific
   changes.
-categories:
-  - mutations
+author:
+  - tangy
+license: ALL-RIGHTS-RESERVED
+homepage: "https://github.com/bingosta/Moretations---More-unbalanced-mutations"
+version: 2026.6.8-069acb8
 dependencies:
   bn: ">=0.9.1"
-modinfo_url: "https://raw.githubusercontent.com/bingosta/Moretations---More-unbalanced-mutations/069acb87dffe0e5c4e3c920f990d6ef7c6b318ed/modinfo.json"
+source:
+  type: github_archive
+  url: >-
+    https://github.com/bingosta/Moretations---More-unbalanced-mutations/archive/refs/heads/main.zip
+  commit_sha: 069acb87dffe0e5c4e3c920f990d6ef7c6b318ed
+categories:
+  - mutations
+modinfo_url: >-
+  https://raw.githubusercontent.com/bingosta/Moretations---More-unbalanced-mutations/069acb87dffe0e5c4e3c920f990d6ef7c6b318ed/modinfo.json
 uses_lua: false
 autoupdate:
   type: commit
   branch: main
-last_updated: "2026-05-16T09:25:12.885Z"
+last_updated: "2026-06-08T03:02:58.989Z"
+previous_releases:
+  - version: 0.0.0
+    source:
+      type: github_archive
+      url: >-
+        https://github.com/bingosta/Moretations---More-unbalanced-mutations/archive/refs/heads/main.zip
+      commit_sha: 069acb87dffe0e5c4e3c920f990d6ef7c6b318ed
+    released_at: "2026-05-16T09:25:12.885Z"

@@ -7,17 +7,6 @@ short_description: >-
 
   Exhaustive list: aluminum, coal, gold, silver, zinc, tin, lead, copper,
   platinum, bronze, steel, rock, rocksalt, sulfur, limestone, gunpow
-author:
-  - Broken "Spaghetti" Admin
-  - Kota
-license: ALL-RIGHTS-RESERVED
-homepage: "https://github.com/shmakota/Material-Plants/tree/master/Material Plants"
-version: 0.0.0
-source:
-  type: github_archive
-  url: "https://github.com/shmakota/Material-Plants/archive/refs/heads/master.zip"
-  commit_sha: 309366505af01c607bdd2db28d08b5c2fad98bba
-  extract_path: Material Plants
 description: >-
   Adds mutated plants that grow materials like steel and gold.
 
@@ -25,13 +14,34 @@ description: >-
   Exhaustive list: aluminum, coal, gold, silver, zinc, tin, lead, copper,
   platinum, bronze, steel, rock, rocksalt, sulfur, limestone, gunpowder, kevlar,
   plastic, and meat.
-categories:
-  - items
+author:
+  - Broken "Spaghetti" Admin
+  - Kota
+license: ALL-RIGHTS-RESERVED
+homepage: "https://github.com/shmakota/Material-Plants/tree/master/Material Plants"
+version: 2026.6.8-3093665
 dependencies:
   bn: ">=0.9.1"
-modinfo_url: "https://raw.githubusercontent.com/shmakota/Material-Plants/309366505af01c607bdd2db28d08b5c2fad98bba/Material%20Plants/modinfo.json"
+source:
+  type: github_archive
+  url: "https://github.com/shmakota/Material-Plants/archive/refs/heads/master.zip"
+  commit_sha: 309366505af01c607bdd2db28d08b5c2fad98bba
+  extract_path: Material Plants
+categories:
+  - items
+modinfo_url: >-
+  https://raw.githubusercontent.com/shmakota/Material-Plants/309366505af01c607bdd2db28d08b5c2fad98bba/Material%20Plants/modinfo.json
 uses_lua: false
 autoupdate:
   type: commit
   branch: master
-last_updated: "2026-05-16T09:25:08.890Z"
+last_updated: "2026-06-08T03:02:34.293Z"
+previous_releases:
+  - version: 0.0.0
+    source:
+      type: github_archive
+      url: >-
+        https://github.com/shmakota/Material-Plants/archive/refs/heads/master.zip
+      commit_sha: 309366505af01c607bdd2db28d08b5c2fad98bba
+      extract_path: Material Plants
+    released_at: "2026-05-16T09:25:08.890Z"

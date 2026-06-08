@@ -9,7 +9,19 @@
   ],
   "license": "ALL-RIGHTS-RESERVED",
   "homepage": "https://github.com/Shad0wBlad321/Profession-Mod/tree/main/Survivor With A Gun",
-  "version": "0.0.0",
+  "version": "2026.6.8-be2f1f9",
+  "previous_releases": [
+    {
+      "version": "0.0.0",
+      "source": {
+        "type": "github_archive",
+        "url": "https://github.com/Shad0wBlad321/Profession-Mod/archive/refs/heads/main.zip",
+        "commit_sha": "be2f1f958c17fbf2a5dbdff05ca45e690533fce5",
+        "extract_path": "Survivor With A Gun"
+      },
+      "released_at": "2026-05-16T09:25:07.174Z"
+    }
+  ],
   "dependencies": {
     "bn": ">=0.9.1"
   },
@@ -28,5 +40,5 @@
     "type": "commit",
     "branch": "main"
   },
-  "last_updated": "2026-05-16T09:25:07.174Z"
+  "last_updated": "2026-06-08T03:02:37.332Z"
 }

@@ -4,30 +4,41 @@ display_name: XL Armors for Miscellaneous Magiclysm Expansions
 short_description: >-
   This is an extension that adds XL armors for the Miscellaneous Magiclysm
   Expansions mod.
+description: >-
+  This is an extension that adds XL armors for the Miscellaneous Magiclysm
+  Expansions mod.
 author:
   - leoCottret
 license: ALL-RIGHTS-RESERVED
 homepage: >-
   https://github.com/leoCottret/cbn-leocottret-mods/tree/main/MODS/XL_ARMORS_KENAN_MODPACK/XL_Armors_Miscellaneous_Magiclysm_Expansions
-version: 0.0.0
+version: 2026.6.8-2e94b3e
+yanked:
+  reason: can re-fit armors into XL
+dependencies:
+  demon_spider_a: "*"
 source:
   type: github_archive
   url: >-
     https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip
-  commit_sha: 57778ad68c1271f1e7069e5c6a0cebdfd40fa01a
+  commit_sha: 2e94b3ec069793086efe73923b091a36815c27ae
   extract_path: MODS/XL_ARMORS_KENAN_MODPACK/XL_Armors_Miscellaneous_Magiclysm_Expansions
-description: >-
-  This is an extension that adds XL armors for the Miscellaneous Magiclysm
-  Expansions mod.
 categories:
   - content
-dependencies:
-  demon_spider_a: "*"
-yanked:
-  reason: "can re-fit armors into XL"
-modinfo_url: "https://raw.githubusercontent.com/leoCottret/cbn-leocottret-mods/57778ad68c1271f1e7069e5c6a0cebdfd40fa01a/MODS/XL_ARMORS_KENAN_MODPACK/XL_Armors_Miscellaneous_Magiclysm_Expansions/modinfo.json"
+modinfo_url: >-
+  https://raw.githubusercontent.com/leoCottret/cbn-leocottret-mods/57778ad68c1271f1e7069e5c6a0cebdfd40fa01a/MODS/XL_ARMORS_KENAN_MODPACK/XL_Armors_Miscellaneous_Magiclysm_Expansions/modinfo.json
 uses_lua: false
 autoupdate:
   type: commit
   branch: main
-last_updated: "2026-05-16T09:24:44.653Z"
+last_updated: "2026-06-08T03:03:05.699Z"
+previous_releases:
+  - version: 0.0.0
+    source:
+      type: github_archive
+      url: >-
+        https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip
+      commit_sha: 57778ad68c1271f1e7069e5c6a0cebdfd40fa01a
+      extract_path: >-
+        MODS/XL_ARMORS_KENAN_MODPACK/XL_Armors_Miscellaneous_Magiclysm_Expansions
+    released_at: "2026-05-16T09:24:44.653Z"

@@ -9,7 +9,18 @@
   ],
   "license": "ALL-RIGHTS-RESERVED",
   "homepage": "https://github.com/Gallant-Char-25/CataclysmBN_Craftable_Casings_Mod",
-  "version": "0.0.0",
+  "version": "2026.6.8-bf804b2",
+  "previous_releases": [
+    {
+      "version": "0.0.0",
+      "source": {
+        "type": "github_archive",
+        "url": "https://github.com/Gallant-Char-25/CataclysmBN_Craftable_Casings_Mod/archive/refs/heads/main.zip",
+        "commit_sha": "bf804b2ab2e456940ca3dca59530d339b19213f8"
+      },
+      "released_at": "2026-05-16T09:24:46.031Z"
+    }
+  ],
   "dependencies": {
     "bn": ">=0.9.1"
   },
@@ -27,5 +38,5 @@
     "type": "commit",
     "branch": "main"
   },
-  "last_updated": "2026-05-16T09:24:46.031Z"
+  "last_updated": "2026-06-08T03:03:00.171Z"
 }

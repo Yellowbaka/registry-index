@@ -4,27 +4,36 @@ display_name: Chorus's Primitive Living
 short_description: >-
   Mostly things ripped from Primal World, but without sacrificing preexisting
   structures and non-foraged loot. Do not use with Primal World.
+description: >-
+  Mostly things ripped from Primal World, but without sacrificing preexisting
+  structures and non-foraged loot. Do not use with Primal World.
 author:
   - Tyzegt
   - ChorusSystem
 license: ALL-RIGHTS-RESERVED
 homepage: "https://github.com/yay855/ChorusMod/tree/main/Chorus Primitive"
-version: 0.0.0
+version: 2026.6.8-77f71e1
+dependencies:
+  bn: ">=0.9.1"
 source:
   type: github_archive
   url: "https://github.com/yay855/ChorusMod/archive/refs/heads/main.zip"
   commit_sha: 77f71e190c6bb430da393eb06ee49f336221715e
   extract_path: Chorus Primitive
-description: >-
-  Mostly things ripped from Primal World, but without sacrificing preexisting
-  structures and non-foraged loot. Do not use with Primal World.
 categories:
   - content
-dependencies:
-  bn: ">=0.9.1"
-modinfo_url: "https://raw.githubusercontent.com/yay855/ChorusMod/77f71e190c6bb430da393eb06ee49f336221715e/Chorus%20Primitive/modinfo.json"
+modinfo_url: >-
+  https://raw.githubusercontent.com/yay855/ChorusMod/77f71e190c6bb430da393eb06ee49f336221715e/Chorus%20Primitive/modinfo.json
 uses_lua: false
 autoupdate:
   type: commit
   branch: main
-last_updated: "2026-05-16T09:24:48.906Z"
+last_updated: "2026-06-08T03:02:20.244Z"
+previous_releases:
+  - version: 0.0.0
+    source:
+      type: github_archive
+      url: "https://github.com/yay855/ChorusMod/archive/refs/heads/main.zip"
+      commit_sha: 77f71e190c6bb430da393eb06ee49f336221715e
+      extract_path: Chorus Primitive
+    released_at: "2026-05-16T09:24:48.906Z"

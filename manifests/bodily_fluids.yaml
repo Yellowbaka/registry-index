@@ -7,30 +7,40 @@ short_description: >-
 
   NOTE: There is currently no way to interrupt long crafting actions, so you may
   have to pay more attention to the log if you don't want to
-author:
-  - Kota
-license: ALL-RIGHTS-RESERVED
-homepage: "https://github.com/shmakota/bodily_fluids_mod_bn/tree/main/bodily_fluids"
-version: 0.0.0
-source:
-  type: github_archive
-  url: "https://github.com/shmakota/bodily_fluids_mod_bn/archive/refs/heads/main.zip"
-  commit_sha: 3a149705c06a492f5454cedb7d66aa6ddc3d681e
-  extract_path: bodily_fluids
 description: >-
   Adds bodily fluids as well as related mechanics for toilets.
 
 
   NOTE: There is currently no way to interrupt long crafting actions, so you may
   have to pay more attention to the log if you don't want to dirty up your base.
-categories:
-  - rebalance
+author:
+  - Kota
+license: ALL-RIGHTS-RESERVED
+homepage: "https://github.com/shmakota/bodily_fluids_mod_bn/tree/main/bodily_fluids"
+version: 2026.6.8-3a14970
 dependencies:
   bn: ">=0.9.1"
-modinfo_url: "https://raw.githubusercontent.com/shmakota/bodily_fluids_mod_bn/3a149705c06a492f5454cedb7d66aa6ddc3d681e/bodily_fluids/modinfo.json"
+source:
+  type: github_archive
+  url: "https://github.com/shmakota/bodily_fluids_mod_bn/archive/refs/heads/main.zip"
+  commit_sha: 3a149705c06a492f5454cedb7d66aa6ddc3d681e
+  extract_path: bodily_fluids
+categories:
+  - rebalance
+modinfo_url: >-
+  https://raw.githubusercontent.com/shmakota/bodily_fluids_mod_bn/3a149705c06a492f5454cedb7d66aa6ddc3d681e/bodily_fluids/modinfo.json
 uses_lua: true
 lua_api_version: 2
 autoupdate:
   type: commit
   branch: main
-last_updated: "2026-05-16T09:25:28.192Z"
+last_updated: "2026-06-08T03:02:58.165Z"
+previous_releases:
+  - version: 0.0.0
+    source:
+      type: github_archive
+      url: >-
+        https://github.com/shmakota/bodily_fluids_mod_bn/archive/refs/heads/main.zip
+      commit_sha: 3a149705c06a492f5454cedb7d66aa6ddc3d681e
+      extract_path: bodily_fluids
+    released_at: "2026-05-16T09:25:28.192Z"

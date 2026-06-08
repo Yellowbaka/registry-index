@@ -2,24 +2,33 @@ schema_version: "1.0"
 id: wield_wild_weapons
 display_name: 짐승의 무기술
 short_description: 짐승의 자세에서 비롯된 새로운 무기술을 추가합니다. 이 무기술은 특정한 석상을 찾아서 그 비급을 얻을 수 있습니다.
+description: 짐승의 자세에서 비롯된 새로운 무기술을 추가합니다. 이 무기술은 특정한 석상을 찾아서 그 비급을 얻을 수 있습니다.
 author:
   - NappingOcean
 license: ALL-RIGHTS-RESERVED
 homepage: "https://github.com/NappingOcean/Wield_Wild_Weapons"
-version: 0.0.0
+version: 2026.6.8-4f34ea5
+dependencies:
+  bn: ">=0.9.1"
 source:
   type: github_archive
   url: >-
     https://github.com/NappingOcean/Wield_Wild_Weapons/archive/refs/heads/main.zip
   commit_sha: 4f34ea56597cd0b538e7d81aa6a2c4e5cb1c0984
-description: 짐승의 자세에서 비롯된 새로운 무기술을 추가합니다. 이 무기술은 특정한 석상을 찾아서 그 비급을 얻을 수 있습니다.
 categories:
   - misc_additions
-dependencies:
-  bn: ">=0.9.1"
-modinfo_url: "https://raw.githubusercontent.com/NappingOcean/Wield_Wild_Weapons/4f34ea56597cd0b538e7d81aa6a2c4e5cb1c0984/modinfo.json"
+modinfo_url: >-
+  https://raw.githubusercontent.com/NappingOcean/Wield_Wild_Weapons/4f34ea56597cd0b538e7d81aa6a2c4e5cb1c0984/modinfo.json
 uses_lua: false
 autoupdate:
   type: commit
   branch: main
-last_updated: "2026-05-16T09:25:00.642Z"
+last_updated: "2026-06-08T03:03:06.127Z"
+previous_releases:
+  - version: 0.0.0
+    source:
+      type: github_archive
+      url: >-
+        https://github.com/NappingOcean/Wield_Wild_Weapons/archive/refs/heads/main.zip
+      commit_sha: 4f34ea56597cd0b538e7d81aa6a2c4e5cb1c0984
+    released_at: "2026-05-16T09:25:00.642Z"

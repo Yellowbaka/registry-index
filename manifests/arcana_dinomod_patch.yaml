@@ -9,24 +9,34 @@ author:
 license: CC-BY-SA-3.0
 homepage: >-
   https://github.com/chaosvolt/cdda-arcana-mod/tree/master/Patchmods/BN_Arcana_Dinomod_Patch
-version: 0.0.0
-source:
-  type: github_archive
-  url: "https://github.com/chaosvolt/cdda-arcana-mod/archive/refs/heads/master.zip"
-  commit_sha: 37718985431bdbfbee1488e23747edbed3440cbf
-  extract_path: Patchmods/BN_Arcana_Dinomod_Patch
-categories:
-  - misc_additions
+version: 2026.6.8-33bfbbe
+yanked:
+  reason: "Mainlined in Cataclysm: Bright Nights."
 dependencies:
   bn: ">=0.9.1"
   arcana: "*"
   dinomod: "*"
-yanked:
-  reason: "Mainlined in Cataclysm: Bright Nights."
-modinfo_url: "https://raw.githubusercontent.com/chaosvolt/cdda-arcana-mod/37718985431bdbfbee1488e23747edbed3440cbf/Patchmods/BN_Arcana_Dinomod_Patch/modinfo.json"
+source:
+  type: github_archive
+  url: "https://github.com/chaosvolt/cdda-arcana-mod/archive/refs/heads/master.zip"
+  commit_sha: 33bfbbe31cd95575636443b13183e127e19e36d0
+  extract_path: Patchmods/BN_Arcana_Dinomod_Patch
+categories:
+  - misc_additions
+modinfo_url: >-
+  https://raw.githubusercontent.com/chaosvolt/cdda-arcana-mod/37718985431bdbfbee1488e23747edbed3440cbf/Patchmods/BN_Arcana_Dinomod_Patch/modinfo.json
 uses_lua: false
 autoupdate:
   type: commit
   branch: master
-last_updated: "2025-12-08T17:38:23.169Z"
 parent: arcana
+last_updated: "2026-06-08T03:02:20.998Z"
+previous_releases:
+  - version: 0.0.0
+    source:
+      type: github_archive
+      url: >-
+        https://github.com/chaosvolt/cdda-arcana-mod/archive/refs/heads/master.zip
+      commit_sha: 37718985431bdbfbee1488e23747edbed3440cbf
+      extract_path: Patchmods/BN_Arcana_Dinomod_Patch
+    released_at: "2025-12-08T17:38:23.169Z"

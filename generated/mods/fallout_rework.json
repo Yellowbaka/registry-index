@@ -9,7 +9,19 @@
   ],
   "license": "ALL-RIGHTS-RESERVED",
   "homepage": "https://github.com/Tefnut/Fallout-New-England-Remastered/tree/main/FNE-Remastered",
-  "version": "0.0.0",
+  "version": "2026.6.8-4f7b45b",
+  "previous_releases": [
+    {
+      "version": "0.0.0",
+      "source": {
+        "type": "github_archive",
+        "url": "https://github.com/Tefnut/Fallout-New-England-Remastered/archive/refs/heads/main.zip",
+        "commit_sha": "4f7b45b496e7d3ddf6c8fb12a22b21c25c8f1466",
+        "extract_path": "FNE-Remastered"
+      },
+      "released_at": "2026-05-16T09:24:20.452Z"
+    }
+  ],
   "dependencies": {
     "bn": ">=0.9.1"
   },
@@ -28,5 +40,5 @@
     "type": "commit",
     "branch": "main"
   },
-  "last_updated": "2026-05-16T09:24:20.452Z"
+  "last_updated": "2026-06-08T03:02:56.469Z"
 }

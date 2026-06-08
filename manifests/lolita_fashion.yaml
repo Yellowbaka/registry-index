@@ -2,24 +2,32 @@ schema_version: "1.0"
 id: lolita_fashion
 display_name: Lolita Fashion
 short_description: "Adds survivor lolita coords, for all your fancy needs."
+description: "Adds survivor lolita coords, for all your fancy needs."
 author:
   - Alec White
 license: ALL-RIGHTS-RESERVED
 homepage: "https://github.com/AlecWhite/Lolita_Fashion"
-version: 0.0.0
+version: 2026.6.8-933eab0
+dependencies:
+  bn: ">=0.9.1"
 source:
   type: github_archive
   url: "https://github.com/AlecWhite/Lolita_Fashion/archive/refs/heads/main.zip"
   commit_sha: 933eab00c9d546d5d63a94929a9d2fdc70602d04
-description: "Adds survivor lolita coords, for all your fancy needs."
 categories:
   - content
-dependencies:
-  bn: ">=0.9.1"
-modinfo_url: "https://raw.githubusercontent.com/AlecWhite/Lolita_Fashion/933eab00c9d546d5d63a94929a9d2fdc70602d04/modinfo.json"
+modinfo_url: >-
+  https://raw.githubusercontent.com/AlecWhite/Lolita_Fashion/933eab00c9d546d5d63a94929a9d2fdc70602d04/modinfo.json
 uses_lua: true
 lua_api_version: 1
 autoupdate:
   type: commit
   branch: main
-last_updated: "2026-05-16T09:25:17.375Z"
+last_updated: "2026-06-08T03:02:42.734Z"
+previous_releases:
+  - version: 0.0.0
+    source:
+      type: github_archive
+      url: "https://github.com/AlecWhite/Lolita_Fashion/archive/refs/heads/main.zip"
+      commit_sha: 933eab00c9d546d5d63a94929a9d2fdc70602d04
+    released_at: "2026-05-16T09:25:17.375Z"

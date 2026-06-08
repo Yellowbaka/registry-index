@@ -4,25 +4,33 @@ display_name: Visible car roof
 short_description: >-
   Adds additional roof v_parts that occupy on_roof layer, it makes it visible
   when out of vehicle but also blocks installing turrets, solar panels, etc
+description: >-
+  Adds additional roof v_parts that occupy on_roof layer, it makes it visible
+  when out of vehicle but also blocks installing turrets, solar panels, etc
 author:
   - SzQ
 license: ALL-RIGHTS-RESERVED
 homepage: "https://github.com/SzQ1/Visible-car-roofs"
-version: 0.0.0
+version: 2026.6.8-5e66a72
+dependencies:
+  bn: ">=0.9.1"
 source:
   type: github_archive
   url: "https://github.com/SzQ1/Visible-car-roofs/archive/refs/heads/main.zip"
   commit_sha: 5e66a72e9d7aef05de2b6cb81e91cf2bb3deb838
-description: >-
-  Adds additional roof v_parts that occupy on_roof layer, it makes it visible
-  when out of vehicle but also blocks installing turrets, solar panels, etc
 categories:
   - vehicles
-dependencies:
-  bn: ">=0.9.1"
-modinfo_url: "https://raw.githubusercontent.com/SzQ1/Visible-car-roofs/5e66a72e9d7aef05de2b6cb81e91cf2bb3deb838/modinfo.json"
+modinfo_url: >-
+  https://raw.githubusercontent.com/SzQ1/Visible-car-roofs/5e66a72e9d7aef05de2b6cb81e91cf2bb3deb838/modinfo.json
 uses_lua: false
 autoupdate:
   type: commit
   branch: main
-last_updated: "2026-05-16T09:24:16.457Z"
+last_updated: "2026-06-08T03:02:30.318Z"
+previous_releases:
+  - version: 0.0.0
+    source:
+      type: github_archive
+      url: "https://github.com/SzQ1/Visible-car-roofs/archive/refs/heads/main.zip"
+      commit_sha: 5e66a72e9d7aef05de2b6cb81e91cf2bb3deb838
+    released_at: "2026-05-16T09:24:16.457Z"

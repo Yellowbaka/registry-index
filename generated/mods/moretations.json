@@ -9,7 +9,18 @@
   ],
   "license": "ALL-RIGHTS-RESERVED",
   "homepage": "https://github.com/bingosta/Moretations---More-unbalanced-mutations",
-  "version": "0.0.0",
+  "version": "2026.6.8-069acb8",
+  "previous_releases": [
+    {
+      "version": "0.0.0",
+      "source": {
+        "type": "github_archive",
+        "url": "https://github.com/bingosta/Moretations---More-unbalanced-mutations/archive/refs/heads/main.zip",
+        "commit_sha": "069acb87dffe0e5c4e3c920f990d6ef7c6b318ed"
+      },
+      "released_at": "2026-05-16T09:25:12.885Z"
+    }
+  ],
   "dependencies": {
     "bn": ">=0.9.1"
   },
@@ -27,5 +38,5 @@
     "type": "commit",
     "branch": "main"
   },
-  "last_updated": "2026-05-16T09:25:12.885Z"
+  "last_updated": "2026-06-08T03:02:58.989Z"
 }

@@ -9,7 +9,19 @@
   ],
   "license": "ALL-RIGHTS-RESERVED",
   "homepage": "https://github.com/hamatk/CataclysmBN_Mod_MachineBow/tree/main/gun_bow",
-  "version": "0.0.0",
+  "version": "2026.6.8-a7ad0a6",
+  "previous_releases": [
+    {
+      "version": "0.0.0",
+      "source": {
+        "type": "github_archive",
+        "url": "https://github.com/hamatk/CataclysmBN_Mod_MachineBow/archive/refs/heads/main.zip",
+        "commit_sha": "a7ad0a631fb7dfdd07f6de249971c3699d584509",
+        "extract_path": "gun_bow"
+      },
+      "released_at": "2026-05-16T09:25:29.560Z"
+    }
+  ],
   "dependencies": {
     "bn": ">=0.9.1"
   },
@@ -28,5 +40,5 @@
     "type": "commit",
     "branch": "main"
   },
-  "last_updated": "2026-05-16T09:25:29.560Z"
+  "last_updated": "2026-06-08T03:03:03.056Z"
 }

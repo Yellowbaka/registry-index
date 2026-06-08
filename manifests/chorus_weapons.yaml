@@ -4,26 +4,35 @@ display_name: Chorus's Gear
 short_description: >-
   Edits and additions to weaponry, mostly to personal preference and as a
   learning tool.
+description: >-
+  Edits and additions to weaponry, mostly to personal preference and as a
+  learning tool.
 author:
   - ChorusSystem
 license: ALL-RIGHTS-RESERVED
 homepage: "https://github.com/yay855/ChorusMod/tree/main/Chorus Gear"
-version: 0.0.0
+version: 2026.6.8-77f71e1
+dependencies:
+  bn: ">=0.9.1"
 source:
   type: github_archive
   url: "https://github.com/yay855/ChorusMod/archive/refs/heads/main.zip"
   commit_sha: 77f71e190c6bb430da393eb06ee49f336221715e
   extract_path: Chorus Gear
-description: >-
-  Edits and additions to weaponry, mostly to personal preference and as a
-  learning tool.
 categories:
   - content
-dependencies:
-  bn: ">=0.9.1"
-modinfo_url: "https://raw.githubusercontent.com/yay855/ChorusMod/77f71e190c6bb430da393eb06ee49f336221715e/Chorus%20Gear/modinfo.json"
+modinfo_url: >-
+  https://raw.githubusercontent.com/yay855/ChorusMod/77f71e190c6bb430da393eb06ee49f336221715e/Chorus%20Gear/modinfo.json
 uses_lua: false
 autoupdate:
   type: commit
   branch: main
-last_updated: "2026-05-16T09:24:48.905Z"
+last_updated: "2026-06-08T03:02:59.829Z"
+previous_releases:
+  - version: 0.0.0
+    source:
+      type: github_archive
+      url: "https://github.com/yay855/ChorusMod/archive/refs/heads/main.zip"
+      commit_sha: 77f71e190c6bb430da393eb06ee49f336221715e
+      extract_path: Chorus Gear
+    released_at: "2026-05-16T09:24:48.905Z"
