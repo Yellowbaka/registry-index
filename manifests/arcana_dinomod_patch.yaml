@@ -9,7 +9,7 @@ author:
 license: CC-BY-SA-3.0
 homepage: >-
   https://github.com/chaosvolt/cdda-arcana-mod/tree/master/Patchmods/BN_Arcana_Dinomod_Patch
-version: 2026.6.15-33bfbbe
+version: 2026.6.16-33bfbbe
 previous_releases:
   - version: 0.0.0
     source:
@@ -75,6 +75,14 @@ previous_releases:
       commit_sha: 33bfbbe31cd95575636443b13183e127e19e36d0
       extract_path: Patchmods/BN_Arcana_Dinomod_Patch
     released_at: "2026-06-14T02:59:34.927Z"
+  - version: 2026.6.15-33bfbbe
+    source:
+      type: github_archive
+      url: >-
+        https://github.com/chaosvolt/cdda-arcana-mod/archive/refs/heads/master.zip
+      commit_sha: 33bfbbe31cd95575636443b13183e127e19e36d0
+      extract_path: Patchmods/BN_Arcana_Dinomod_Patch
+    released_at: "2026-06-15T03:32:49.710Z"
 yanked:
   reason: "Mainlined in Cataclysm: Bright Nights."
 dependencies:
@@ -95,4 +103,4 @@ autoupdate:
   type: commit
   branch: master
 parent: arcana
-last_updated: "2026-06-15T03:32:49.710Z"
+last_updated: "2026-06-16T03:34:50.009Z"

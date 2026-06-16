@@ -7,7 +7,7 @@ author:
   - Blaze-whatdoyoumeanitsalreadytaken
 license: ALL-RIGHTS-RESERVED
 homepage: "https://github.com/SzQ1/blazemod-SzQ-edit"
-version: 2026.6.15-b4b8ded
+version: 2026.6.16-b4b8ded
 previous_releases:
   - version: 0.0.0
     source:
@@ -57,6 +57,12 @@ previous_releases:
       url: "https://github.com/SzQ1/blazemod-SzQ-edit/archive/refs/heads/main.zip"
       commit_sha: b4b8ded0c6dd3e605d26766f5179d0e5a2a3362e
     released_at: "2026-06-14T02:59:12.837Z"
+  - version: 2026.6.15-b4b8ded
+    source:
+      type: github_archive
+      url: "https://github.com/SzQ1/blazemod-SzQ-edit/archive/refs/heads/main.zip"
+      commit_sha: b4b8ded0c6dd3e605d26766f5179d0e5a2a3362e
+    released_at: "2026-06-15T03:32:40.784Z"
 dependencies:
   bn: ">=0.9.1"
 source:
@@ -71,4 +77,4 @@ uses_lua: false
 autoupdate:
   type: commit
   branch: main
-last_updated: "2026-06-15T03:32:40.784Z"
+last_updated: "2026-06-16T03:34:37.043Z"

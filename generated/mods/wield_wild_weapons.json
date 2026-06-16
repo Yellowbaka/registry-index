@@ -9,7 +9,7 @@
   ],
   "license": "ALL-RIGHTS-RESERVED",
   "homepage": "https://github.com/NappingOcean/Wield_Wild_Weapons",
-  "version": "2026.6.15-4f34ea5",
+  "version": "2026.6.16-4f34ea5",
   "previous_releases": [
     {
       "version": "0.0.0",
@@ -82,6 +82,15 @@
         "commit_sha": "4f34ea56597cd0b538e7d81aa6a2c4e5cb1c0984"
       },
       "released_at": "2026-06-14T02:59:15.134Z"
+    },
+    {
+      "version": "2026.6.15-4f34ea5",
+      "source": {
+        "type": "github_archive",
+        "url": "https://github.com/NappingOcean/Wield_Wild_Weapons/archive/refs/heads/main.zip",
+        "commit_sha": "4f34ea56597cd0b538e7d81aa6a2c4e5cb1c0984"
+      },
+      "released_at": "2026-06-15T03:32:41.275Z"
     }
   ],
   "dependencies": {
@@ -101,5 +110,5 @@
     "type": "commit",
     "branch": "main"
   },
-  "last_updated": "2026-06-15T03:32:41.275Z"
+  "last_updated": "2026-06-16T03:34:38.072Z"
 }

@@ -9,7 +9,7 @@
   ],
   "license": "ALL-RIGHTS-RESERVED",
   "homepage": "https://github.com/Baratan-creates/BN-FinalFantasyMod/tree/main/FinalFantasyMod",
-  "version": "2026.6.15-b206c3f",
+  "version": "2026.6.16-b206c3f",
   "previous_releases": [
     {
       "version": "0.0.0",
@@ -90,6 +90,16 @@
         "extract_path": "FinalFantasyMod"
       },
       "released_at": "2026-06-14T02:58:45.278Z"
+    },
+    {
+      "version": "2026.6.15-b206c3f",
+      "source": {
+        "type": "github_archive",
+        "url": "https://github.com/Baratan-creates/BN-FinalFantasyMod/archive/refs/heads/main.zip",
+        "commit_sha": "b206c3f1eb1f47eddb50cc427658aa2dc61b06a6",
+        "extract_path": "FinalFantasyMod"
+      },
+      "released_at": "2026-06-15T03:32:29.288Z"
     }
   ],
   "dependencies": {
@@ -110,5 +120,5 @@
     "type": "commit",
     "branch": "main"
   },
-  "last_updated": "2026-06-15T03:32:29.288Z"
+  "last_updated": "2026-06-16T03:34:21.219Z"
 }

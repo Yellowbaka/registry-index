@@ -12,7 +12,7 @@ author:
 license: ALL-RIGHTS-RESERVED
 homepage: >-
   https://github.com/leoCottret/cbn-leocottret-mods/tree/main/MODS/XL_ARMORS_KENAN_MODPACK/XL_Armors_BL9-100%_monster_resilience_version
-version: 2026.6.15-53b55a3
+version: 2026.6.16-53b55a3
 previous_releases:
   - version: 0.0.0
     source:
@@ -86,6 +86,15 @@ previous_releases:
       extract_path: >-
         MODS/XL_ARMORS_KENAN_MODPACK/XL_Armors_BL9-100%_monster_resilience_version
     released_at: "2026-06-14T02:58:47.665Z"
+  - version: 2026.6.15-53b55a3
+    source:
+      type: github_archive
+      url: >-
+        https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip
+      commit_sha: 53b55a3b6e7fc2632f50111f560f4a72bdb7d13b
+      extract_path: >-
+        MODS/XL_ARMORS_KENAN_MODPACK/XL_Armors_BL9-100%_monster_resilience_version
+    released_at: "2026-06-15T03:32:30.931Z"
 yanked:
   reason: can re-fit armors into XL
 dependencies:
@@ -105,4 +114,4 @@ autoupdate:
   type: commit
   branch: main
 parent: bl9_100monres
-last_updated: "2026-06-15T03:32:30.931Z"
+last_updated: "2026-06-16T03:34:22.972Z"

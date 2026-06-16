@@ -9,7 +9,7 @@
   ],
   "license": "ALL-RIGHTS-RESERVED",
   "homepage": "https://github.com/leoCottret/cbn-leocottret-mods/tree/main/MODS/XL_ARMORS_BRIGHT_NIGHT/XL_Armors_CRT_EXPANSION",
-  "version": "2026.6.15-53b55a3",
+  "version": "2026.6.16-53b55a3",
   "previous_releases": [
     {
       "version": "0.0.0",
@@ -90,6 +90,16 @@
         "extract_path": "MODS/XL_ARMORS_BRIGHT_NIGHT/XL_Armors_CRT_EXPANSION"
       },
       "released_at": "2026-06-14T02:59:00.293Z"
+    },
+    {
+      "version": "2026.6.15-53b55a3",
+      "source": {
+        "type": "github_archive",
+        "url": "https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip",
+        "commit_sha": "53b55a3b6e7fc2632f50111f560f4a72bdb7d13b",
+        "extract_path": "MODS/XL_ARMORS_BRIGHT_NIGHT/XL_Armors_CRT_EXPANSION"
+      },
+      "released_at": "2026-06-15T03:32:36.477Z"
     }
   ],
   "yanked": {
@@ -113,5 +123,5 @@
     "type": "commit",
     "branch": "main"
   },
-  "last_updated": "2026-06-15T03:32:36.477Z"
+  "last_updated": "2026-06-16T03:34:30.536Z"
 }

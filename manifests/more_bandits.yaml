@@ -11,7 +11,7 @@ author:
   - SzQ
 license: ALL-RIGHTS-RESERVED
 homepage: "https://github.com/SzQ1/More-Bandits"
-version: 2026.6.15-c36d4d8
+version: 2026.6.16-c36d4d8
 previous_releases:
   - version: 0.0.0
     source:
@@ -61,6 +61,12 @@ previous_releases:
       url: "https://github.com/SzQ1/More-Bandits/archive/refs/heads/main.zip"
       commit_sha: c36d4d831c63e91d24c73448333fbf1419da32e4
     released_at: "2026-06-14T02:59:22.503Z"
+  - version: 2026.6.15-c36d4d8
+    source:
+      type: github_archive
+      url: "https://github.com/SzQ1/More-Bandits/archive/refs/heads/main.zip"
+      commit_sha: c36d4d831c63e91d24c73448333fbf1419da32e4
+    released_at: "2026-06-15T03:32:44.586Z"
 dependencies:
   bn: ">=0.9.1"
 source:
@@ -75,4 +81,4 @@ uses_lua: false
 autoupdate:
   type: commit
   branch: main
-last_updated: "2026-06-15T03:32:44.586Z"
+last_updated: "2026-06-16T03:34:42.592Z"

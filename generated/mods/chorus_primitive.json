@@ -10,7 +10,7 @@
   ],
   "license": "ALL-RIGHTS-RESERVED",
   "homepage": "https://github.com/yay855/ChorusMod/tree/main/Chorus Primitive",
-  "version": "2026.6.15-77f71e1",
+  "version": "2026.6.16-77f71e1",
   "previous_releases": [
     {
       "version": "0.0.0",
@@ -91,6 +91,16 @@
         "extract_path": "Chorus Primitive"
       },
       "released_at": "2026-06-14T02:59:32.247Z"
+    },
+    {
+      "version": "2026.6.15-77f71e1",
+      "source": {
+        "type": "github_archive",
+        "url": "https://github.com/yay855/ChorusMod/archive/refs/heads/main.zip",
+        "commit_sha": "77f71e190c6bb430da393eb06ee49f336221715e",
+        "extract_path": "Chorus Primitive"
+      },
+      "released_at": "2026-06-15T03:32:48.216Z"
     }
   ],
   "dependencies": {
@@ -111,5 +121,5 @@
     "type": "commit",
     "branch": "main"
   },
-  "last_updated": "2026-06-15T03:32:48.216Z"
+  "last_updated": "2026-06-16T03:34:48.251Z"
 }

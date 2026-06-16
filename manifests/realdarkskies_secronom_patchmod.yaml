@@ -8,7 +8,7 @@ author:
 license: ALL-RIGHTS-RESERVED
 homepage: >-
   https://github.com/Zlorthishen/Really_Dark_Skies/tree/main/Patch_mods/RDS_plus_Secronom
-version: 2026.6.15-4e6abff
+version: 2026.6.16-4e6abff
 previous_releases:
   - version: 0.0.0
     source:
@@ -74,6 +74,14 @@ previous_releases:
       commit_sha: 4e6abff37d33cfaac6cc43ff1eedcdf5abea17ea
       extract_path: Patch_mods/RDS_plus_Secronom
     released_at: "2026-06-14T02:58:50.172Z"
+  - version: 2026.6.15-4e6abff
+    source:
+      type: github_archive
+      url: >-
+        https://github.com/Zlorthishen/Really_Dark_Skies/archive/refs/heads/main.zip
+      commit_sha: 4e6abff37d33cfaac6cc43ff1eedcdf5abea17ea
+      extract_path: Patch_mods/RDS_plus_Secronom
+    released_at: "2026-06-15T03:32:32.235Z"
 dependencies:
   bn: ">=0.9.1"
   realdarkskies: "*"
@@ -93,4 +101,4 @@ autoupdate:
   type: commit
   branch: main
 parent: realdarkskies
-last_updated: "2026-06-15T03:32:32.235Z"
+last_updated: "2026-06-16T03:34:24.792Z"

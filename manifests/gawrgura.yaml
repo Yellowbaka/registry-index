@@ -11,7 +11,7 @@ author:
   - ihatenumbers
 license: ALL-RIGHTS-RESERVED
 homepage: "https://github.com/ihatenumbers/BN_Gawr_Gura"
-version: 2026.6.15-68daf62
+version: 2026.6.16-68daf62
 previous_releases:
   - version: 0.0.0
     source:
@@ -61,6 +61,12 @@ previous_releases:
       url: "https://github.com/ihatenumbers/BN_Gawr_Gura/archive/refs/heads/main.zip"
       commit_sha: 68daf6210cd729db3663bebfa9766f017654e16f
     released_at: "2026-06-14T02:59:26.974Z"
+  - version: 2026.6.15-68daf62
+    source:
+      type: github_archive
+      url: "https://github.com/ihatenumbers/BN_Gawr_Gura/archive/refs/heads/main.zip"
+      commit_sha: 68daf6210cd729db3663bebfa9766f017654e16f
+    released_at: "2026-06-15T03:32:46.369Z"
 dependencies:
   bn: ">=0.9.1"
 source:
@@ -76,4 +82,4 @@ lua_api_version: 2
 autoupdate:
   type: commit
   branch: main
-last_updated: "2026-06-15T03:32:46.369Z"
+last_updated: "2026-06-16T03:34:45.141Z"
