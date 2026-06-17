@@ -9,7 +9,7 @@
   ],
   "license": "ALL-RIGHTS-RESERVED",
   "homepage": "https://github.com/kingcet/WH40K-Imperial-Armoury/tree/main/WH_40K_Imperial_Armoury",
-  "version": "2026.6.16-f863f21",
+  "version": "2026.6.17-f863f21",
   "previous_releases": [
     {
       "version": "0.0.0",
@@ -100,6 +100,16 @@
         "extract_path": "WH_40K_Imperial_Armoury"
       },
       "released_at": "2026-06-15T03:32:51.641Z"
+    },
+    {
+      "version": "2026.6.16-f863f21",
+      "source": {
+        "type": "github_archive",
+        "url": "https://github.com/kingcet/WH40K-Imperial-Armoury/archive/refs/heads/main.zip",
+        "commit_sha": "f863f21df6a9b72bc1287a28cf8885c8aeeeddc2",
+        "extract_path": "WH_40K_Imperial_Armoury"
+      },
+      "released_at": "2026-06-16T03:34:53.271Z"
     }
   ],
   "dependencies": {
@@ -120,5 +130,5 @@
     "type": "commit",
     "branch": "main"
   },
-  "last_updated": "2026-06-16T03:34:53.271Z"
+  "last_updated": "2026-06-17T03:26:50.598Z"
 }

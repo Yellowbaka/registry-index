@@ -11,7 +11,7 @@ author:
   - ChorusSystem
 license: ALL-RIGHTS-RESERVED
 homepage: "https://github.com/yay855/ChorusMod/tree/main/Chorus Starts"
-version: 2026.6.16-77f71e1
+version: 2026.6.17-9ba39b3
 previous_releases:
   - version: 0.0.0
     source:
@@ -76,6 +76,13 @@ previous_releases:
       commit_sha: 77f71e190c6bb430da393eb06ee49f336221715e
       extract_path: Chorus Starts
     released_at: "2026-06-15T03:32:32.228Z"
+  - version: 2026.6.16-77f71e1
+    source:
+      type: github_archive
+      url: "https://github.com/yay855/ChorusMod/archive/refs/heads/main.zip"
+      commit_sha: 77f71e190c6bb430da393eb06ee49f336221715e
+      extract_path: Chorus Starts
+    released_at: "2026-06-16T03:34:24.755Z"
 dependencies:
   bn: ">=0.9.1"
   chorus_weapons: "*"
@@ -83,7 +90,7 @@ dependencies:
 source:
   type: github_archive
   url: "https://github.com/yay855/ChorusMod/archive/refs/heads/main.zip"
-  commit_sha: 77f71e190c6bb430da393eb06ee49f336221715e
+  commit_sha: 9ba39b3d1a51b4d743fbb8171079645c918a9854
   extract_path: Chorus Starts
 categories:
   - content
@@ -93,4 +100,4 @@ uses_lua: false
 autoupdate:
   type: commit
   branch: main
-last_updated: "2026-06-16T03:34:24.755Z"
+last_updated: "2026-06-17T03:26:29.659Z"

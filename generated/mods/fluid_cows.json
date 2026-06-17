@@ -9,7 +9,7 @@
   ],
   "license": "ALL-RIGHTS-RESERVED",
   "homepage": "https://github.com/shmakota/Material-Plants/tree/master/Fluid Cows",
-  "version": "2026.6.16-3093665",
+  "version": "2026.6.17-3093665",
   "previous_releases": [
     {
       "version": "0.0.0",
@@ -100,6 +100,16 @@
         "extract_path": "Fluid Cows"
       },
       "released_at": "2026-06-15T03:32:51.370Z"
+    },
+    {
+      "version": "2026.6.16-3093665",
+      "source": {
+        "type": "github_archive",
+        "url": "https://github.com/shmakota/Material-Plants/archive/refs/heads/master.zip",
+        "commit_sha": "309366505af01c607bdd2db28d08b5c2fad98bba",
+        "extract_path": "Fluid Cows"
+      },
+      "released_at": "2026-06-16T03:34:52.885Z"
     }
   ],
   "dependencies": {
@@ -120,5 +130,5 @@
     "type": "commit",
     "branch": "master"
   },
-  "last_updated": "2026-06-16T03:34:52.885Z"
+  "last_updated": "2026-06-17T03:26:50.311Z"
 }
