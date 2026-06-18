@@ -9,7 +9,7 @@
   ],
   "license": "ALL-RIGHTS-RESERVED",
   "homepage": "https://github.com/leoCottret/cbn-leocottret-mods/tree/main/MODS/XL_ARMORS_KENAN_MODPACK/XL_Armors_CDDA_Sierra_Madre_mod_bright_nights_version",
-  "version": "2026.6.17-53b55a3",
+  "version": "2026.6.18-53b55a3",
   "previous_releases": [
     {
       "version": "0.0.0",
@@ -110,6 +110,16 @@
         "extract_path": "MODS/XL_ARMORS_KENAN_MODPACK/XL_Armors_CDDA_Sierra_Madre_mod_bright_nights_version"
       },
       "released_at": "2026-06-16T03:34:33.202Z"
+    },
+    {
+      "version": "2026.6.17-53b55a3",
+      "source": {
+        "type": "github_archive",
+        "url": "https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip",
+        "commit_sha": "53b55a3b6e7fc2632f50111f560f4a72bdb7d13b",
+        "extract_path": "MODS/XL_ARMORS_KENAN_MODPACK/XL_Armors_CDDA_Sierra_Madre_mod_bright_nights_version"
+      },
+      "released_at": "2026-06-17T03:26:35.995Z"
     }
   ],
   "yanked": {
@@ -133,5 +143,5 @@
     "type": "commit",
     "branch": "main"
   },
-  "last_updated": "2026-06-17T03:26:35.995Z"
+  "last_updated": "2026-06-18T03:01:24.574Z"
 }

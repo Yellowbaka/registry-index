@@ -7,7 +7,7 @@ author:
   - Relgar
 license: ALL-RIGHTS-RESERVED
 homepage: "https://github.com/Relgar/AFS_Easydocs/tree/main/AFS_Easydocs"
-version: 2026.6.17-922a8a1
+version: 2026.6.18-922a8a1
 previous_releases:
   - version: 0.0.0
     source:
@@ -79,6 +79,13 @@ previous_releases:
       commit_sha: 922a8a19214466d05de7133070892ff3f90e5bc8
       extract_path: AFS_Easydocs
     released_at: "2026-06-16T03:34:31.951Z"
+  - version: 2026.6.17-922a8a1
+    source:
+      type: github_archive
+      url: "https://github.com/Relgar/AFS_Easydocs/archive/refs/heads/main.zip"
+      commit_sha: 922a8a19214466d05de7133070892ff3f90e5bc8
+      extract_path: AFS_Easydocs
+    released_at: "2026-06-17T03:26:35.273Z"
 dependencies:
   bn: ">=0.9.1"
   aftershock: "*"
@@ -95,4 +102,4 @@ uses_lua: false
 autoupdate:
   type: commit
   branch: main
-last_updated: "2026-06-17T03:26:35.273Z"
+last_updated: "2026-06-18T03:01:22.045Z"

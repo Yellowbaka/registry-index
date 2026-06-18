@@ -9,7 +9,7 @@
   ],
   "license": "ALL-RIGHTS-RESERVED",
   "homepage": "https://github.com/Shad0wBlad321/Profession-Mod/tree/main/Militia Rifleman",
-  "version": "2026.6.17-be2f1f9",
+  "version": "2026.6.18-be2f1f9",
   "previous_releases": [
     {
       "version": "0.0.0",
@@ -110,6 +110,16 @@
         "extract_path": "Militia Rifleman"
       },
       "released_at": "2026-06-16T03:34:51.667Z"
+    },
+    {
+      "version": "2026.6.17-be2f1f9",
+      "source": {
+        "type": "github_archive",
+        "url": "https://github.com/Shad0wBlad321/Profession-Mod/archive/refs/heads/main.zip",
+        "commit_sha": "be2f1f958c17fbf2a5dbdff05ca45e690533fce5",
+        "extract_path": "Militia Rifleman"
+      },
+      "released_at": "2026-06-17T03:26:49.534Z"
     }
   ],
   "dependencies": {
@@ -130,5 +140,5 @@
     "type": "commit",
     "branch": "main"
   },
-  "last_updated": "2026-06-17T03:26:49.534Z"
+  "last_updated": "2026-06-18T03:01:53.884Z"
 }

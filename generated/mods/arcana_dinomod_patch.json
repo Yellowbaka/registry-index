@@ -8,7 +8,7 @@
   ],
   "license": "CC-BY-SA-3.0",
   "homepage": "https://github.com/chaosvolt/cdda-arcana-mod/tree/master/Patchmods/BN_Arcana_Dinomod_Patch",
-  "version": "2026.6.17-33bfbbe",
+  "version": "2026.6.18-33bfbbe",
   "previous_releases": [
     {
       "version": "0.0.0",
@@ -109,6 +109,16 @@
         "extract_path": "Patchmods/BN_Arcana_Dinomod_Patch"
       },
       "released_at": "2026-06-16T03:34:50.009Z"
+    },
+    {
+      "version": "2026.6.17-33bfbbe",
+      "source": {
+        "type": "github_archive",
+        "url": "https://github.com/chaosvolt/cdda-arcana-mod/archive/refs/heads/master.zip",
+        "commit_sha": "33bfbbe31cd95575636443b13183e127e19e36d0",
+        "extract_path": "Patchmods/BN_Arcana_Dinomod_Patch"
+      },
+      "released_at": "2026-06-17T03:26:48.519Z"
     }
   ],
   "yanked": {
@@ -135,5 +145,5 @@
     "branch": "master"
   },
   "parent": "arcana",
-  "last_updated": "2026-06-17T03:26:48.519Z"
+  "last_updated": "2026-06-18T03:01:50.625Z"
 }

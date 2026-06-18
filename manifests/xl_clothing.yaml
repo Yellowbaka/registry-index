@@ -11,7 +11,7 @@ author:
   - Krwak
 license: ALL-RIGHTS-RESERVED
 homepage: "https://github.com/Krwak/XL-Clothing/tree/main/XL Clothing"
-version: 2026.6.17-c0ebaf2
+version: 2026.6.18-c0ebaf2
 previous_releases:
   - version: 0.0.0
     source:
@@ -83,6 +83,13 @@ previous_releases:
       commit_sha: c0ebaf2de67e3a626ae7008867fe503f0f659db4
       extract_path: XL Clothing
     released_at: "2026-06-16T03:34:49.692Z"
+  - version: 2026.6.17-c0ebaf2
+    source:
+      type: github_archive
+      url: "https://github.com/Krwak/XL-Clothing/archive/refs/heads/main.zip"
+      commit_sha: c0ebaf2de67e3a626ae7008867fe503f0f659db4
+      extract_path: XL Clothing
+    released_at: "2026-06-17T03:26:48.356Z"
 dependencies:
   bn: ">=0.9.1"
 source:
@@ -98,4 +105,4 @@ uses_lua: false
 autoupdate:
   type: commit
   branch: main
-last_updated: "2026-06-17T03:26:48.356Z"
+last_updated: "2026-06-18T03:01:50.148Z"

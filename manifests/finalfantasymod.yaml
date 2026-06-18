@@ -14,7 +14,7 @@ author:
 license: ALL-RIGHTS-RESERVED
 homepage: >-
   https://github.com/Baratan-creates/BN-FinalFantasyMod/tree/main/FinalFantasyMod
-version: 2026.6.17-b206c3f
+version: 2026.6.18-b206c3f
 previous_releases:
   - version: 0.0.0
     source:
@@ -96,6 +96,14 @@ previous_releases:
       commit_sha: b206c3f1eb1f47eddb50cc427658aa2dc61b06a6
       extract_path: FinalFantasyMod
     released_at: "2026-06-16T03:34:21.219Z"
+  - version: 2026.6.17-b206c3f
+    source:
+      type: github_archive
+      url: >-
+        https://github.com/Baratan-creates/BN-FinalFantasyMod/archive/refs/heads/main.zip
+      commit_sha: b206c3f1eb1f47eddb50cc427658aa2dc61b06a6
+      extract_path: FinalFantasyMod
+    released_at: "2026-06-17T03:26:26.748Z"
 dependencies:
   bn: ">=0.9.1"
 source:
@@ -112,4 +120,4 @@ uses_lua: false
 autoupdate:
   type: commit
   branch: main
-last_updated: "2026-06-17T03:26:26.748Z"
+last_updated: "2026-06-18T03:01:04.577Z"

@@ -7,7 +7,7 @@ author:
   - thelonestander
 license: ALL-RIGHTS-RESERVED
 homepage: "https://github.com/thelonestander/Lones-Used-Cars"
-version: 2026.6.17-6f3584c
+version: 2026.6.18-6f3584c
 previous_releases:
   - version: 0.0.0
     source:
@@ -79,6 +79,13 @@ previous_releases:
         https://github.com/thelonestander/Lones-Used-Cars/archive/refs/heads/main.zip
       commit_sha: 4609d1ed374e6533e8fe9584b4fa5382ad45d70c
     released_at: "2026-06-16T03:34:27.729Z"
+  - version: 2026.6.17-6f3584c
+    source:
+      type: github_archive
+      url: >-
+        https://github.com/thelonestander/Lones-Used-Cars/archive/refs/heads/main.zip
+      commit_sha: 6f3584c053ab4f078f9bbf739f9ce52f8d03c883
+    released_at: "2026-06-17T03:26:32.314Z"
 dependencies:
   bn: ">=0.9.1"
 source:
@@ -94,4 +101,4 @@ uses_lua: false
 autoupdate:
   type: commit
   branch: main
-last_updated: "2026-06-17T03:26:32.314Z"
+last_updated: "2026-06-18T03:01:14.497Z"

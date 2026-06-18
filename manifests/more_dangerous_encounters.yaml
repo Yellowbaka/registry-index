@@ -13,7 +13,7 @@ author:
   - SzQ
 license: ALL-RIGHTS-RESERVED
 homepage: "https://github.com/SzQ1/More-Dangerous-Encounters"
-version: 2026.6.17-e1f7cd2
+version: 2026.6.18-e1f7cd2
 previous_releases:
   - version: 0.0.0
     source:
@@ -85,6 +85,13 @@ previous_releases:
         https://github.com/SzQ1/More-Dangerous-Encounters/archive/refs/heads/main.zip
       commit_sha: e1f7cd2d5dfd3b4db356b67d888d36caaf46c472
     released_at: "2026-06-16T03:34:45.647Z"
+  - version: 2026.6.17-e1f7cd2
+    source:
+      type: github_archive
+      url: >-
+        https://github.com/SzQ1/More-Dangerous-Encounters/archive/refs/heads/main.zip
+      commit_sha: e1f7cd2d5dfd3b4db356b67d888d36caaf46c472
+    released_at: "2026-06-17T03:26:45.123Z"
 dependencies:
   bn: ">=0.9.1"
 source:
@@ -100,4 +107,4 @@ uses_lua: false
 autoupdate:
   type: commit
   branch: main
-last_updated: "2026-06-17T03:26:45.123Z"
+last_updated: "2026-06-18T03:01:43.740Z"

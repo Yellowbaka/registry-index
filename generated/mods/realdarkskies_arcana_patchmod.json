@@ -9,7 +9,7 @@
   ],
   "license": "ALL-RIGHTS-RESERVED",
   "homepage": "https://github.com/Zlorthishen/Really_Dark_Skies/tree/main/Patch_mods/RDS_plus_Arcana",
-  "version": "2026.6.17-4e6abff",
+  "version": "2026.6.18-4e6abff",
   "previous_releases": [
     {
       "version": "0.0.0",
@@ -110,6 +110,16 @@
         "extract_path": "Patch_mods/RDS_plus_Arcana"
       },
       "released_at": "2026-06-16T03:34:52.705Z"
+    },
+    {
+      "version": "2026.6.17-4e6abff",
+      "source": {
+        "type": "github_archive",
+        "url": "https://github.com/Zlorthishen/Really_Dark_Skies/archive/refs/heads/main.zip",
+        "commit_sha": "4e6abff37d33cfaac6cc43ff1eedcdf5abea17ea",
+        "extract_path": "Patch_mods/RDS_plus_Arcana"
+      },
+      "released_at": "2026-06-17T03:26:50.274Z"
     }
   ],
   "dependencies": {
@@ -133,5 +143,5 @@
     "branch": "main"
   },
   "parent": "realdarkskies",
-  "last_updated": "2026-06-17T03:26:50.274Z"
+  "last_updated": "2026-06-18T03:01:56.049Z"
 }

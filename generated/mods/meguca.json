@@ -10,7 +10,7 @@
   ],
   "license": "ALL-RIGHTS-RESERVED",
   "homepage": "https://github.com/yay855/Hope-in-the-Dark/tree/main/Hope-in-the-dark",
-  "version": "2026.6.17-0175d79",
+  "version": "2026.6.18-0175d79",
   "previous_releases": [
     {
       "version": "0.0.0",
@@ -111,6 +111,16 @@
         "extract_path": "Hope-in-the-dark"
       },
       "released_at": "2026-06-16T03:34:52.054Z"
+    },
+    {
+      "version": "2026.6.17-0175d79",
+      "source": {
+        "type": "github_archive",
+        "url": "https://github.com/yay855/Hope-in-the-Dark/archive/refs/heads/main.zip",
+        "commit_sha": "0175d790dbfe8a239bbd4aeb1821fc5698b434e6",
+        "extract_path": "Hope-in-the-dark"
+      },
+      "released_at": "2026-06-17T03:26:49.818Z"
     }
   ],
   "dependencies": {
@@ -131,5 +141,5 @@
     "type": "commit",
     "branch": "main"
   },
-  "last_updated": "2026-06-17T03:26:49.818Z"
+  "last_updated": "2026-06-18T03:01:54.544Z"
 }
