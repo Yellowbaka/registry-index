@@ -11,7 +11,7 @@ author:
   - Kota
 license: ALL-RIGHTS-RESERVED
 homepage: "https://github.com/shmakota/birdbox_mod_bn/tree/main/birdbox"
-version: 2026.6.18-b3ac37c
+version: 2026.6.19-b3ac37c
 previous_releases:
   - version: 0.0.0
     source:
@@ -90,6 +90,13 @@ previous_releases:
       commit_sha: b3ac37c1c9be11cbc7e91012d29bc92401d9b927
       extract_path: birdbox
     released_at: "2026-06-17T03:26:47.373Z"
+  - version: 2026.6.18-b3ac37c
+    source:
+      type: github_archive
+      url: "https://github.com/shmakota/birdbox_mod_bn/archive/refs/heads/main.zip"
+      commit_sha: b3ac37c1c9be11cbc7e91012d29bc92401d9b927
+      extract_path: birdbox
+    released_at: "2026-06-18T03:01:48.874Z"
 dependencies:
   bn: ">=0.9.1"
 source:
@@ -106,4 +113,4 @@ lua_api_version: 2
 autoupdate:
   type: commit
   branch: main
-last_updated: "2026-06-18T03:01:48.874Z"
+last_updated: "2026-06-19T03:56:15.944Z"

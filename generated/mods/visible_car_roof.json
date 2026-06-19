@@ -9,7 +9,7 @@
   ],
   "license": "ALL-RIGHTS-RESERVED",
   "homepage": "https://github.com/SzQ1/Visible-car-roofs",
-  "version": "2026.6.18-5e66a72",
+  "version": "2026.6.19-5e66a72",
   "previous_releases": [
     {
       "version": "0.0.0",
@@ -109,6 +109,15 @@
         "commit_sha": "5e66a72e9d7aef05de2b6cb81e91cf2bb3deb838"
       },
       "released_at": "2026-06-17T03:26:38.492Z"
+    },
+    {
+      "version": "2026.6.18-5e66a72",
+      "source": {
+        "type": "github_archive",
+        "url": "https://github.com/SzQ1/Visible-car-roofs/archive/refs/heads/main.zip",
+        "commit_sha": "5e66a72e9d7aef05de2b6cb81e91cf2bb3deb838"
+      },
+      "released_at": "2026-06-18T03:01:29.540Z"
     }
   ],
   "dependencies": {
@@ -128,5 +137,5 @@
     "type": "commit",
     "branch": "main"
   },
-  "last_updated": "2026-06-18T03:01:29.540Z"
+  "last_updated": "2026-06-19T03:55:57.067Z"
 }
