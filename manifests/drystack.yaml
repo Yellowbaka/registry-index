@@ -13,7 +13,7 @@ author:
   - Viss Valdyr
 license: ALL-RIGHTS-RESERVED
 homepage: "https://github.com/Lamandus/Stackgeneric/tree/main/mods/Drystack"
-version: 2026.6.19-cdc630f
+version: 2026.6.20-cdc630f
 previous_releases:
   - version: 0.0.0
     source:
@@ -99,6 +99,13 @@ previous_releases:
       commit_sha: cdc630f215e9c1726680a27f664bef52b0908581
       extract_path: mods/Drystack
     released_at: "2026-06-18T03:01:18.770Z"
+  - version: 2026.6.19-cdc630f
+    source:
+      type: github_archive
+      url: "https://github.com/Lamandus/Stackgeneric/archive/refs/heads/main.zip"
+      commit_sha: cdc630f215e9c1726680a27f664bef52b0908581
+      extract_path: mods/Drystack
+    released_at: "2026-06-19T03:55:46.112Z"
 dependencies:
   bn: ">=0.9.1"
 source:
@@ -114,4 +121,4 @@ uses_lua: false
 autoupdate:
   type: commit
   branch: main
-last_updated: "2026-06-19T03:55:46.112Z"
+last_updated: "2026-06-20T02:48:49.810Z"

@@ -9,7 +9,7 @@
   ],
   "license": "ALL-RIGHTS-RESERVED",
   "homepage": "https://github.com/AlecWhite/Metal_Scrap_Walls",
-  "version": "2026.6.19-b383940",
+  "version": "2026.6.20-b383940",
   "previous_releases": [
     {
       "version": "0.0.0",
@@ -118,6 +118,15 @@
         "commit_sha": "b38394082f0e63588f59d229f00424f0e65c8cf8"
       },
       "released_at": "2026-06-18T03:01:20.908Z"
+    },
+    {
+      "version": "2026.6.19-b383940",
+      "source": {
+        "type": "github_archive",
+        "url": "https://github.com/AlecWhite/Metal_Scrap_Walls/archive/refs/heads/main.zip",
+        "commit_sha": "b38394082f0e63588f59d229f00424f0e65c8cf8"
+      },
+      "released_at": "2026-06-19T03:55:48.300Z"
     }
   ],
   "dependencies": {
@@ -137,5 +146,5 @@
     "type": "commit",
     "branch": "main"
   },
-  "last_updated": "2026-06-19T03:55:48.300Z"
+  "last_updated": "2026-06-20T02:48:50.743Z"
 }

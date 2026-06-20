@@ -7,7 +7,7 @@ author:
   - Goldendragon
 license: ALL-RIGHTS-RESERVED
 homepage: "https://github.com/goldendragon900/cdda-bn-mountain-dew/tree/main/Mountain_dew"
-version: 2026.6.19-90d7109
+version: 2026.6.20-90d7109
 previous_releases:
   - version: 0.0.0
     source:
@@ -105,6 +105,14 @@ previous_releases:
       commit_sha: 90d710957e988bc589cc53677480a1ef4c79aad6
       extract_path: Mountain_dew
     released_at: "2026-06-18T03:01:40.034Z"
+  - version: 2026.6.19-90d7109
+    source:
+      type: github_archive
+      url: >-
+        https://github.com/goldendragon900/cdda-bn-mountain-dew/archive/refs/heads/main.zip
+      commit_sha: 90d710957e988bc589cc53677480a1ef4c79aad6
+      extract_path: Mountain_dew
+    released_at: "2026-06-19T03:56:07.312Z"
 dependencies:
   bn: ">=0.9.1"
 source:
@@ -121,4 +129,4 @@ uses_lua: false
 autoupdate:
   type: commit
   branch: main
-last_updated: "2026-06-19T03:56:07.312Z"
+last_updated: "2026-06-20T02:49:01.898Z"

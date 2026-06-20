@@ -9,7 +9,7 @@
   ],
   "license": "ALL-RIGHTS-RESERVED",
   "homepage": "https://github.com/leoCottret/cbn-leocottret-mods/tree/main/MODS/XL_ARMORS_KENAN_MODPACK/XL_Armors_ProjectAPEX",
-  "version": "2026.6.19-53b55a3",
+  "version": "2026.6.20-53b55a3",
   "previous_releases": [
     {
       "version": "0.0.0",
@@ -130,6 +130,16 @@
         "extract_path": "MODS/XL_ARMORS_KENAN_MODPACK/XL_Armors_ProjectAPEX"
       },
       "released_at": "2026-06-18T03:01:33.197Z"
+    },
+    {
+      "version": "2026.6.19-53b55a3",
+      "source": {
+        "type": "github_archive",
+        "url": "https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip",
+        "commit_sha": "53b55a3b6e7fc2632f50111f560f4a72bdb7d13b",
+        "extract_path": "MODS/XL_ARMORS_KENAN_MODPACK/XL_Armors_ProjectAPEX"
+      },
+      "released_at": "2026-06-19T03:56:00.640Z"
     }
   ],
   "yanked": {
@@ -153,5 +163,5 @@
     "type": "commit",
     "branch": "main"
   },
-  "last_updated": "2026-06-19T03:56:00.640Z"
+  "last_updated": "2026-06-20T02:48:57.926Z"
 }

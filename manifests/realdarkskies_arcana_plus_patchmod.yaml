@@ -12,7 +12,7 @@ author:
 license: ALL-RIGHTS-RESERVED
 homepage: >-
   https://github.com/Zlorthishen/Really_Dark_Skies/tree/main/Patch_mods/RDS_plus_Arcana_plus
-version: 2026.6.19-4e6abff
+version: 2026.6.20-4e6abff
 previous_releases:
   - version: 0.0.0
     source:
@@ -110,6 +110,14 @@ previous_releases:
       commit_sha: 4e6abff37d33cfaac6cc43ff1eedcdf5abea17ea
       extract_path: Patch_mods/RDS_plus_Arcana_plus
     released_at: "2026-06-18T03:01:52.516Z"
+  - version: 2026.6.19-4e6abff
+    source:
+      type: github_archive
+      url: >-
+        https://github.com/Zlorthishen/Really_Dark_Skies/archive/refs/heads/main.zip
+      commit_sha: 4e6abff37d33cfaac6cc43ff1eedcdf5abea17ea
+      extract_path: Patch_mods/RDS_plus_Arcana_plus
+    released_at: "2026-06-19T03:56:19.653Z"
 dependencies:
   bn: ">=0.9.1"
   realdarkskies: "*"
@@ -132,4 +140,4 @@ autoupdate:
   type: commit
   branch: main
 parent: realdarkskies
-last_updated: "2026-06-19T03:56:19.653Z"
+last_updated: "2026-06-20T02:49:09.125Z"

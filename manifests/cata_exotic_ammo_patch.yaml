@@ -9,7 +9,7 @@ author:
 license: CC-BY-SA-3.0
 homepage: >-
   https://github.com/Noctifer-de-Mortem/nocts_cata_mod/tree/master/Patchmods/BN_Cata++_ExoticAmmo_Patch
-version: 2026.6.19-5b3e539
+version: 2026.6.20-5b3e539
 previous_releases:
   - version: 0.0.0
     source:
@@ -107,6 +107,14 @@ previous_releases:
       commit_sha: 5b3e539dcbee962526c11aab5bc6177b10a4bf5a
       extract_path: Patchmods/BN_Cata++_ExoticAmmo_Patch
     released_at: "2026-06-18T03:01:36.260Z"
+  - version: 2026.6.19-5b3e539
+    source:
+      type: github_archive
+      url: >-
+        https://github.com/Noctifer-de-Mortem/nocts_cata_mod/archive/refs/heads/master.zip
+      commit_sha: 5b3e539dcbee962526c11aab5bc6177b10a4bf5a
+      extract_path: Patchmods/BN_Cata++_ExoticAmmo_Patch
+    released_at: "2026-06-19T03:56:03.618Z"
 dependencies:
   bn: ">=0.9.1"
   cata++: "*"
@@ -126,4 +134,4 @@ autoupdate:
   type: commit
   branch: master
 parent: cata
-last_updated: "2026-06-19T03:56:03.618Z"
+last_updated: "2026-06-20T02:48:59.729Z"

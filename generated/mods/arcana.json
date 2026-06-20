@@ -8,7 +8,7 @@
   ],
   "license": "CC-BY-SA-3.0",
   "homepage": "https://github.com/chaosvolt/cdda-arcana-mod/tree/master/Arcana_BN",
-  "version": "2026.6.19-33bfbbe",
+  "version": "2026.6.20-33bfbbe",
   "previous_releases": [
     {
       "version": "0.0.0",
@@ -129,6 +129,16 @@
         "extract_path": "Arcana_BN"
       },
       "released_at": "2026-06-18T03:01:11.160Z"
+    },
+    {
+      "version": "2026.6.19-33bfbbe",
+      "source": {
+        "type": "github_archive",
+        "url": "https://github.com/chaosvolt/cdda-arcana-mod/archive/refs/heads/master.zip",
+        "commit_sha": "33bfbbe31cd95575636443b13183e127e19e36d0",
+        "extract_path": "Arcana_BN"
+      },
+      "released_at": "2026-06-19T03:55:38.713Z"
     }
   ],
   "yanked": {
@@ -152,5 +162,5 @@
     "type": "commit",
     "branch": "master"
   },
-  "last_updated": "2026-06-19T03:55:38.713Z"
+  "last_updated": "2026-06-20T02:48:45.201Z"
 }

@@ -12,7 +12,7 @@ author:
 license: ALL-RIGHTS-RESERVED
 homepage: >-
   https://github.com/OpsCoretango/Nuclear_Power_Plant_BN/tree/main/Nuclear_Power_Plant
-version: 2026.6.19-8ad9d49
+version: 2026.6.20-8ad9d49
 previous_releases:
   - version: 0.0.0
     source:
@@ -110,6 +110,14 @@ previous_releases:
       commit_sha: 8ad9d49d2c6e997f3197bc9c400261e842502cc1
       extract_path: Nuclear_Power_Plant
     released_at: "2026-06-18T03:01:37.256Z"
+  - version: 2026.6.19-8ad9d49
+    source:
+      type: github_archive
+      url: >-
+        https://github.com/OpsCoretango/Nuclear_Power_Plant_BN/archive/refs/heads/main.zip
+      commit_sha: 8ad9d49d2c6e997f3197bc9c400261e842502cc1
+      extract_path: Nuclear_Power_Plant
+    released_at: "2026-06-19T03:56:04.608Z"
 dependencies:
   bn: ">=0.9.1"
 source:
@@ -126,4 +134,4 @@ uses_lua: false
 autoupdate:
   type: commit
   branch: main
-last_updated: "2026-06-19T03:56:04.608Z"
+last_updated: "2026-06-20T02:49:00.178Z"

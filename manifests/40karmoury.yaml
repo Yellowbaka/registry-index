@@ -12,7 +12,7 @@ author:
 license: ALL-RIGHTS-RESERVED
 homepage: >-
   https://github.com/kingcet/WH40K-Imperial-Armoury/tree/main/WH_40K_Imperial_Armoury
-version: 2026.6.19-f863f21
+version: 2026.6.20-f863f21
 previous_releases:
   - version: 0.0.0
     source:
@@ -110,6 +110,14 @@ previous_releases:
       commit_sha: f863f21df6a9b72bc1287a28cf8885c8aeeeddc2
       extract_path: WH_40K_Imperial_Armoury
     released_at: "2026-06-18T03:01:57.242Z"
+  - version: 2026.6.19-f863f21
+    source:
+      type: github_archive
+      url: >-
+        https://github.com/kingcet/WH40K-Imperial-Armoury/archive/refs/heads/main.zip
+      commit_sha: f863f21df6a9b72bc1287a28cf8885c8aeeeddc2
+      extract_path: WH_40K_Imperial_Armoury
+    released_at: "2026-06-19T03:56:24.245Z"
 dependencies:
   bn: ">=0.9.1"
 source:
@@ -126,4 +134,4 @@ uses_lua: false
 autoupdate:
   type: commit
   branch: main
-last_updated: "2026-06-19T03:56:24.245Z"
+last_updated: "2026-06-20T02:49:11.177Z"

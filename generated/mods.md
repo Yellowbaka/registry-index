@@ -10,17 +10,17 @@ This is an automatically generated list of mods in the registry.
 | ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)                 | [Adurnsyl's Assorted Arms and Armour](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip) | Adurnsyl                                  | 0.0.0             | This addon adds more real-world military equipment into the game. Blacklist removed due to Malkeus' Greed.                                                                                               |
 | ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)                 | [Advanced Gear](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip)                       | Shard                                     | 0.0.0             | Extremely high-end items mod based around nanotech crafting and 3D printing, with basic materials that can be found in labs, mutations to be added later.                                                |
 | ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)                 | [Advanced Technologies](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip)               | Kane,MechMaster2.0                        | 0.0.0             | Adds advanced craftable vehicle parts, mech parts to craft vehicle mechs, craftable blob cyborgs, some new robots, some new armors, weapons and crafting.                                                |
-| ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)                 | [Aftershock - Easydocs](https://github.com/Relgar/AFS_Easydocs/archive/refs/heads/main.zip)                                               | Relgar                                    | 2026.6.19-922a8a1 | Makes all Autodocs in Aftershock safe                                                                                                                                                                    |
+| ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)                 | [Aftershock - Easydocs](https://github.com/Relgar/AFS_Easydocs/archive/refs/heads/main.zip)                                               | Relgar                                    | 2026.6.20-922a8a1 | Makes all Autodocs in Aftershock safe                                                                                                                                                                    |
 | ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)                 | [Alexs Mutant Power Armor](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip)            | Alexandreiah                              | 0.0.0             | Adds Power Armor usable by all mutations lines, to make mutations a little less suckier                                                                                                                  |
 | ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)                 | [Alternative Basement Layouts](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip)        | RogueYun, Malkeus                         | 0.0.0             | RogueYun's work on fleshing out basements, in mod form. Adds 3 new flavors of basement.                                                                                                                  |
 | ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)                 | [Amplified @'s Features](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip)              | Zetsukaze                                 | 0.0.0             | Attempt to bring more stuff into appearance traits, including NPC support. PS.: Don't mix cute with default :D                                                                                           |
 | ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)                 | [Animatronic Monsters](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip)                | Lanceo90                                  | 0.0.0             | Adds a chain of bankrupt pizzerias, with still functioning animatronics inside.                                                                                                                          |
-| ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)                 | [Arcana and Magic Items](https://github.com/chaosvolt/cdda-arcana-mod/archive/refs/heads/master.zip)                                      | Chaosvolt                                 | 2026.6.19-33bfbbe | Adds a host of craftable magic items and spells, centered around the use of Arcana skill to research and exploit otherworldly monsters and anomalies.                                                    |
-| ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)                 | [Arcana/Aftershock Patchmod](https://github.com/chaosvolt/cdda-arcana-mod/archive/refs/heads/master.zip)                                  | Chaosvolt                                 | 2026.6.19-33bfbbe | Optional patch mod that allows content in Arcana and Aftershock to interact with each other.                                                                                                             |
-| ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)                 | [Arcana/C.R.I.T. Patchmod](https://github.com/chaosvolt/cdda-arcana-mod/archive/refs/heads/master.zip)                                    | Chaosvolt                                 | 2026.6.19-33bfbbe | Optional patch mod that allows content in Arcana and C.R.I.T. to interact with each other.                                                                                                               |
-| ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)                 | [Arcana/Cata++ Patchmod](https://github.com/Noctifer-de-Mortem/nocts_cata_mod/archive/refs/heads/master.zip)                              | Chaosvolt,Noctifer                        | 2026.6.19-5b3e539 | Optional patch mod that allows content in Arcana and Cataclysm++ to interact with each other.                                                                                                            |
-| ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)                 | [Arcana/DinoMod Patchmod](https://github.com/chaosvolt/cdda-arcana-mod/archive/refs/heads/master.zip)                                     | Chaosvolt                                 | 2026.6.19-33bfbbe | Optional patch mod that allows content in Arcana and DinoMod to interact with each other.                                                                                                                |
-| ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)                 | [Arcana/Magical Nights Patchmod](https://github.com/chaosvolt/cdda-arcana-mod/archive/refs/heads/master.zip)                              | Chaosvolt                                 | 2026.6.19-33bfbbe | Optional patch mod that allows content in Arcana and Magical Nights to interact with each other.                                                                                                         |
+| ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)                 | [Arcana and Magic Items](https://github.com/chaosvolt/cdda-arcana-mod/archive/refs/heads/master.zip)                                      | Chaosvolt                                 | 2026.6.20-33bfbbe | Adds a host of craftable magic items and spells, centered around the use of Arcana skill to research and exploit otherworldly monsters and anomalies.                                                    |
+| ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)                 | [Arcana/Aftershock Patchmod](https://github.com/chaosvolt/cdda-arcana-mod/archive/refs/heads/master.zip)                                  | Chaosvolt                                 | 2026.6.20-33bfbbe | Optional patch mod that allows content in Arcana and Aftershock to interact with each other.                                                                                                             |
+| ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)                 | [Arcana/C.R.I.T. Patchmod](https://github.com/chaosvolt/cdda-arcana-mod/archive/refs/heads/master.zip)                                    | Chaosvolt                                 | 2026.6.20-33bfbbe | Optional patch mod that allows content in Arcana and C.R.I.T. to interact with each other.                                                                                                               |
+| ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)                 | [Arcana/Cata++ Patchmod](https://github.com/Noctifer-de-Mortem/nocts_cata_mod/archive/refs/heads/master.zip)                              | Chaosvolt,Noctifer                        | 2026.6.20-5b3e539 | Optional patch mod that allows content in Arcana and Cataclysm++ to interact with each other.                                                                                                            |
+| ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)                 | [Arcana/DinoMod Patchmod](https://github.com/chaosvolt/cdda-arcana-mod/archive/refs/heads/master.zip)                                     | Chaosvolt                                 | 2026.6.20-33bfbbe | Optional patch mod that allows content in Arcana and DinoMod to interact with each other.                                                                                                                |
+| ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)                 | [Arcana/Magical Nights Patchmod](https://github.com/chaosvolt/cdda-arcana-mod/archive/refs/heads/master.zip)                              | Chaosvolt                                 | 2026.6.20-33bfbbe | Optional patch mod that allows content in Arcana and Magical Nights to interact with each other.                                                                                                         |
 | ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)                 | [Arsenal Breach](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip)                      | Rooki1,community                          | 0.0.0             | Adds futuristic weapons                                                                                                                                                                                  |
 | ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)                 | [Artyoms' Gun Emporium - Reloaded](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip)    | Artyom177, Leon713, and /u/chieflean      | 0.0.0             | Adds all the guns that YOU need to survive the Cataclysm                                                                                                                                                 |
 | ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)                 | [Autodoc Harmless and Perfect](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip)        | Mrsecretguy1/Kenan                        | 0.0.0             | The surgeries that are performed with the Autodoc are now perfect and absolutely harmless with no risks involved at all.                                                                                 |
@@ -30,18 +30,18 @@ This is an automatically generated list of mods in the registry.
 | PLEASE, SET 'Monster evolution scaling factor' DURING IN-GAME WORLD GENERATION AROUND 5.00 FOR PROPER GAMEPLAY EXP |                                                                                                                                           |                                           |                   |                                                                                                                                                                                                          |
 | ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)                 | [BL9-175%-monster-resilience-version](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip) | Mrsecretguy1/Kenan, Axema Vales, Goat-God | 0.0.0             | Gigantic sci-fi action adventure expansion mod                                                                                                                                                           |
 | PLEASE, SET 'Monster evolution scaling factor' DURING IN-GAME WORLD GENERATION AROUND 5.00 FOR PROPER GAMEPLAY EXP |                                                                                                                                           |                                           |                   |                                                                                                                                                                                                          |
-| ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)                 | [BN Talk](https://github.com/yct1998/BN_Talk_AI/archive/refs/heads/main.zip)                                                              | Cline                                     | 2026.6.19-8e8255f | Pure Lua prototype for RimTalk-like NPC dialogue routing in Cataclysm BN. Includes memory, context routing, and a local OpenAI-compatible provider shape.                                                |
+| ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)                 | [BN Talk](https://github.com/yct1998/BN_Talk_AI/archive/refs/heads/main.zip)                                                              | Cline                                     | 2026.6.20-8e8255f | Pure Lua prototype for RimTalk-like NPC dialogue routing in Cataclysm BN. Includes memory, context routing, and a local OpenAI-compatible provider shape.                                                |
 | ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)                 | [Battle Maid Redux](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip)                   | Vermilion                                 | 0.0.0             | Translated and tweaked version of the original Battle Maid mod, newly revamped. Adds a friendly Shoggoth maid NPC along with lots of maid related gear. See README.md for details                        |
 | ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)                 | [Bens GF recipes](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip)                     | TechyBen                                  | 0.0.0             | Adds lots of simple gluten free and lactose free alternative recipe options. NOT EXHAUSTIVE.                                                                                                             |
 | ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)                 | [Bio-Synth Robot expansion](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip)           | Jolmar7                                   | 0.0.0             | Adds electronic and biosynthetic robot enemies along with new robots related locations along with some new gear to the game.                                                                             |
 | ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)                 | [BioCo Content](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip)                       | Poragon                                   | 0.0.0             | Adds many bionic centric items, curtosey of BioCo                                                                                                                                                        |
 | ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)                 | [Bionic Space Expander](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip)               | Leon                                      | 0.0.0             | Introduces four new bionic implants that increase the available space for bionic implementations. They're hard to find and expansive to build.                                                           |
 | ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)                 | [Bionics Systems Recipes](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip)             | Chalne                                    | 0.0.0             | Adds Autodoc, Autodoc couch to construction menu and Anesthethics to Chem crafting                                                                                                                       |
-| ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)                 | [Birdbox](https://github.com/shmakota/birdbox_mod_bn/archive/refs/heads/main.zip)                                                         | Kota                                      | 2026.6.19-b3ac37c | Adds a monster that will drive you insane, and cause death upon seeing it. Always keep a blindfold on hand, and have a plan to break line of sight.                                                      |
+| ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)                 | [Birdbox](https://github.com/shmakota/birdbox_mod_bn/archive/refs/heads/main.zip)                                                         | Kota                                      | 2026.6.20-b3ac37c | Adds a monster that will drive you insane, and cause death upon seeing it. Always keep a blindfold on hand, and have a plan to break line of sight.                                                      |
 | ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)                 | [Blazemod - Vehicle Additions Pack](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip)   | Blaze-whatdoyoumeanitsalreadytaken        | 0.0.0             | Gigantic vehicle parts additions mod. Adds lots of regular along with blob vehicle parts which includes new custom turrets, engines along with other vehicle parts, which are craftable.                 |
-| ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)                 | [Blazemod SzQ edit](https://github.com/SzQ1/blazemod-SzQ-edit/archive/refs/heads/main.zip)                                                | Blaze-whatdoyoumeanitsalreadytaken        | 2026.6.19-b4b8ded | A lot of vehicle parts and weapons.json                                                                                                                                                                  |
-| ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)                 | [Bob's Professions Mod](https://github.com/Shad0wBlad321/Profession-Mod/archive/refs/heads/main.zip)                                      | Some Dumbass                              | 2026.6.19-be2f1f9 | The all in one module for my profession mod, adding, replacing, and rebalancing several professions to give the player more variety in their starts without having to pick a challenge or joke start. Do |
-| ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)                 | [Bodily Fluids](https://github.com/shmakota/bodily_fluids_mod_bn/archive/refs/heads/main.zip)                                             | Kota                                      | 2026.6.19-3a14970 | Adds bodily fluids as well as related mechanics for toilets.                                                                                                                                             |
+| ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)                 | [Blazemod SzQ edit](https://github.com/SzQ1/blazemod-SzQ-edit/archive/refs/heads/main.zip)                                                | Blaze-whatdoyoumeanitsalreadytaken        | 2026.6.20-b4b8ded | A lot of vehicle parts and weapons.json                                                                                                                                                                  |
+| ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)                 | [Bob's Professions Mod](https://github.com/Shad0wBlad321/Profession-Mod/archive/refs/heads/main.zip)                                      | Some Dumbass                              | 2026.6.20-be2f1f9 | The all in one module for my profession mod, adding, replacing, and rebalancing several professions to give the player more variety in their starts without having to pick a challenge or joke start. Do |
+| ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)                 | [Bodily Fluids](https://github.com/shmakota/bodily_fluids_mod_bn/archive/refs/heads/main.zip)                                             | Kota                                      | 2026.6.20-3a14970 | Adds bodily fluids as well as related mechanics for toilets.                                                                                                                                             |
 
 NOTE: There is currently no way to interrupt long crafting actions, so you may
 have to pay more attention to the log if you don't want to | |
@@ -88,12 +88,12 @@ supplies. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Cata++/Exotic ammo types Patchmod](https://github.com/Noctifer-de-Mortem/nocts_cata_mod/archive/refs/heads/master.zip)
-| Chaosvolt | 2026.6.19-5b3e539 | Optional patch mod that allows content in
+| Chaosvolt | 2026.6.20-5b3e539 | Optional patch mod that allows content in
 Cataclysm++ and Exotic ammo types to interact with each other. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Cataclysm++](https://github.com/Noctifer-de-Mortem/nocts_cata_mod/archive/refs/heads/master.zip)
-| Noctifer | 2026.6.19-5b3e539 | The unofficial expansion mod for Cataclysm:
+| Noctifer | 2026.6.20-5b3e539 | The unofficial expansion mod for Cataclysm:
 Bright Nights.
 
 The gigantic jabberwock of a mod that adds a lot of content to the game: new
@@ -101,33 +101,33 @@ items, buildings, scenarios, monsters, etc. It also reworks and | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Chorus's Arcana Addon](https://github.com/yay855/ChorusMod/archive/refs/heads/main.zip)
-| ChorusSystem | 2026.6.19-9ba39b3 | Various things added to Arcana, some pulled
+| ChorusSystem | 2026.6.20-9ba39b3 | Various things added to Arcana, some pulled
 from other mods. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Chorus's CBMs](https://github.com/yay855/ChorusMod/archive/refs/heads/main.zip)
-| ChorusSystem | 2026.6.19-9ba39b3 | Edits and additions to CBM content, mostly
+| ChorusSystem | 2026.6.20-9ba39b3 | Edits and additions to CBM content, mostly
 to personal preference and as a learning tool. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Chorus's Gear](https://github.com/yay855/ChorusMod/archive/refs/heads/main.zip)
-| ChorusSystem | 2026.6.19-9ba39b3 | Edits and additions to weaponry, mostly to
+| ChorusSystem | 2026.6.20-9ba39b3 | Edits and additions to weaponry, mostly to
 personal preference and as a learning tool. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Chorus's Martial Arts](https://github.com/yay855/ChorusMod/archive/refs/heads/main.zip)
-| ChorusSystem | 2026.6.19-9ba39b3 | Custom martial arts styles. Perhaps not the
+| ChorusSystem | 2026.6.20-9ba39b3 | Custom martial arts styles. Perhaps not the
 most realistic! Finally balanced a bit better. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Chorus's Primitive Living](https://github.com/yay855/ChorusMod/archive/refs/heads/main.zip)
-| Tyzegt,ChorusSystem | 2026.6.19-9ba39b3 | Mostly things ripped from Primal
+| Tyzegt,ChorusSystem | 2026.6.20-9ba39b3 | Mostly things ripped from Primal
 World, but without sacrificing preexisting structures and non-foraged loot. Do
 not use with Primal World. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Chorus's Starts](https://github.com/yay855/ChorusMod/archive/refs/heads/main.zip)
-| ChorusSystem | 2026.6.19-9ba39b3 | New starts, mostly based around characters
+| ChorusSystem | 2026.6.20-9ba39b3 | New starts, mostly based around characters
 I like from other series. Probably OP. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
@@ -147,7 +147,7 @@ upgrades or alternatives to existing stuff | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Craftable Bullet Casings](https://github.com/Gallant-Char-25/CataclysmBN_Craftable_Casings_Mod/archive/refs/heads/main.zip)
-| GallantChar | 2026.6.19-bf804b2 | Adding craft recipes to bullet casings, as
+| GallantChar | 2026.6.20-bf804b2 | Adding craft recipes to bullet casings, as
 well as brass itself. May be OP and unbalanced | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
@@ -211,13 +211,13 @@ ones. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Fallout New England Remastered](https://github.com/Tefnut/Fallout-New-England-Remastered/archive/refs/heads/main.zip)
-| Tefnut | 2026.6.19-4f7b45b | Brings a little bit of that retro-futuristic
+| Tefnut | 2026.6.20-4f7b45b | Brings a little bit of that retro-futuristic
 class to the Cataclysm. Guns, beasts, and more. Stuff from the Core Region, all
 the way to the Commonwealth. Remade from scratch | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Fallout: New England Combined](https://github.com/WarriorKingBob/Fallout_BrightNights/archive/refs/heads/main.zip)
-| Tefnut,Jolmar7,WarriorKingBob | 2026.6.19-7d74a43 | Brings the
+| Tefnut,Jolmar7,WarriorKingBob | 2026.6.20-7d74a43 | Brings the
 retro-futuristic feel of Fallout series to the Cataclysm. Guns, factions,
 monsters, craftable items, mutations, food, drinks, locations and even more.
 Stuff from the Core Region, all the wa | |
@@ -229,13 +229,13 @@ instead of one-sixth. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [FinalFantasyMod](https://github.com/Baratan-creates/BN-FinalFantasyMod/archive/refs/heads/main.zip)
-| Unknown | 2026.6.19-b206c3f | Adds Final Fantasy creatures. When the Catacylsm
+| Unknown | 2026.6.20-b206c3f | Adds Final Fantasy creatures. When the Catacylsm
 struck, portals to the Final Fantasy Franchise opened, and creatures crossed
 though. Some friendly, some enemy. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Fluid Cows](https://github.com/shmakota/Material-Plants/archive/refs/heads/master.zip)
-| Kota | 2026.6.19-3093665 | Adds mutated cows that produce exotic fluids
+| Kota | 2026.6.20-3093665 | Adds mutated cows that produce exotic fluids
 obtained through catalyst cows. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
@@ -249,7 +249,7 @@ foldable, and adds foldable quarterboards. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Gawr Gura Mutation](https://github.com/ihatenumbers/BN_Gawr_Gura/archive/refs/heads/main.zip)
-| ihatenumbers | 2026.6.19-68daf62 | Adds a shark-girl mutation category
+| ihatenumbers | 2026.6.20-68daf62 | Adds a shark-girl mutation category
 inspired by Gawr Gura. Descend from the lost city of Atlantis and embrace your
 inner apex predator of the seas! | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
@@ -273,7 +273,7 @@ herbs. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Gunbow](https://github.com/hamatk/CataclysmBN_Mod_MachineBow/archive/refs/heads/main.zip)
-| hamatk | 2026.6.19-a7ad0a6 | adds one rare bow with custom-made sound fx | |
+| hamatk | 2026.6.20-a7ad0a6 | adds one rare bow with custom-made sound fx | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Gunslinger Mod](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip)
@@ -293,7 +293,7 @@ gas. Intended to help combat and balance cdda's fungal fa | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Hope against the Dark](https://github.com/yay855/Hope-in-the-Dark/archive/refs/heads/main.zip)
-| 10taiSenshi,ChorusSystem | 2026.6.19-0175d79 | Magical Girl Content. Adds
+| 10taiSenshi,ChorusSystem | 2026.6.20-0175d79 | Magical Girl Content. Adds
 unique professions with different perks to hopefully cater to trying out a
 different style of play. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
@@ -310,16 +310,16 @@ firearms in your life? Add this mod today! | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Infinite Night](https://github.com/Fentanylreactor/CBN-INFPerks/archive/refs/heads/main.zip)
-| fentoid | 2026.6.19-9387fb9 | testing | |
+| fentoid | 2026.6.20-9387fb9 | testing | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Jackledead Armory](https://github.com/jackledead/jackledead_armory/archive/refs/heads/main.zip)
-| Jackledead | 2026.6.19-7262ba9 | Adds 12+ new firearms and 46+ gun-mods as
+| Jackledead | 2026.6.20-7262ba9 | Adds 12+ new firearms and 46+ gun-mods as
 well as 10+ professions to showcase them. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Jackledead Armory: Creeps Goons Guns](https://github.com/jackledead/jackledead_armory/archive/refs/heads/main.zip)
-| Jackledead | 2026.6.19-7262ba9 | Adds creeps, goons, and guns to provide a
+| Jackledead | 2026.6.20-7262ba9 | Adds creeps, goons, and guns to provide a
 Survival-FPS-like feel while using my armory mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
@@ -342,30 +342,30 @@ Secret Service. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Lolita Fashion](https://github.com/AlecWhite/Lolita_Fashion/archive/refs/heads/main.zip)
-| Alec White | 2026.6.19-933eab0 | Adds survivor lolita coords, for all your
+| Alec White | 2026.6.20-933eab0 | Adds survivor lolita coords, for all your
 fancy needs. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Lones Atomic additions](https://github.com/thelonestander/Lones-atomic-additions/archive/refs/heads/main.zip)
-| Thelonestander | 2026.6.19-e50dcbd | Adds many new atomic gears to BN! | |
+| Thelonestander | 2026.6.20-e50dcbd | Adds many new atomic gears to BN! | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Lones Augmented Arsenal](https://github.com/thelonestander/Lones-Augmented-Arsenal/archive/refs/heads/main.zip)
-| Thelonestander | 2026.6.19-6c36469 | Adds many new atomic gears to BN! | |
+| Thelonestander | 2026.6.20-3a39625 | Adds many new atomic gears to BN! | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Lones Cata++ patchmod](https://github.com/thelonestander/Lones-atomic-additions/archive/refs/heads/main.zip)
-| Thelonestander | 2026.6.19-e50dcbd | Patch mod for acs stealth cloak to be
+| Thelonestander | 2026.6.20-e50dcbd | Patch mod for acs stealth cloak to be
 used for cata++. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Lones Soda mod](https://github.com/thelonestander/Lones-soda-mod/archive/refs/heads/main.zip)
-| thelonestander | 2026.6.19-398cef4 | A mod that adds many new flavors of coke
+| thelonestander | 2026.6.20-398cef4 | A mod that adds many new flavors of coke
 to find | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Lones used cars](https://github.com/thelonestander/Lones-Used-Cars/archive/refs/heads/main.zip)
-| thelonestander | 2026.6.19-6f3584c | A mod that adds new cars to BN! | |
+| thelonestander | 2026.6.20-6f3584c | A mod that adds new cars to BN! | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [MOD to grow tea leaves](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip)
@@ -374,13 +374,13 @@ new types of tea leaves and tea. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [MOREtations](https://github.com/bingosta/Moretations---More-unbalanced-mutations/archive/refs/heads/main.zip)
-| tangy | 2026.6.19-069acb8 | A variety of mutations to make your thresholds
+| tangy | 2026.6.20-069acb8 | A variety of mutations to make your thresholds
 more mobile, flavourful and utilitarian. Jumping? Climbing? Digging? Releasing
 strange substances? Growing bizarre apendices? (almost)Everybody gets one! | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [MST Extra](https://github.com/chaosvolt/MST_Extra_Mod/archive/refs/heads/master.zip)
-| Chaosvolt | 2026.6.19-e36d516 | The sequeal to CDDA's old More Survival Tools
+| Chaosvolt | 2026.6.20-e36d516 | The sequeal to CDDA's old More Survival Tools
 mod, adding additional useful innawoods content. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
@@ -399,7 +399,7 @@ existing ones. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Material Plants](https://github.com/shmakota/Material-Plants/archive/refs/heads/master.zip)
-| Broken "Spaghetti" Admin,Kota | 2026.6.19-3093665 | Adds mutated plants that
+| Broken "Spaghetti" Admin,Kota | 2026.6.20-3093665 | Adds mutated plants that
 grow materials like steel and gold.
 
 Exhaustive list: aluminum, coal, gold, silver, zinc, tin, lead, copper,
@@ -407,7 +407,7 @@ platinum, bronze, steel, rock, rocksalt, sulfur, limestone, gunpow | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Medieval Mod Reborn](https://github.com/chaosvolt/cdda_medieval_mod_reborn/archive/refs/heads/master.zip)
-| Chaosvolt | 2026.6.19-859c295 | The official replacement for and expansion of
+| Chaosvolt | 2026.6.20-859c295 | The official replacement for and expansion of
 the Medieval and Historic Content mod, Bright Nights version. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
@@ -439,13 +439,13 @@ mutated characters, but there are a few new ones too. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [More Bandits, Testing version](https://github.com/SzQ1/More-Bandits/archive/refs/heads/main.zip)
-| SzQ | 2026.6.19-c36d4d8 | Adds a lot more spawning locations for small groups
+| SzQ | 2026.6.20-c36d4d8 | Adds a lot more spawning locations for small groups
 of bandits making them much more frequent. All code extracted from No_Hope mod
 by Night_Pryanik | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [More Dangerous Encounters](https://github.com/SzQ1/More-Dangerous-Encounters/archive/refs/heads/main.zip)
-| SzQ | 2026.6.19-e1f7cd2 | Adds spawning locations for dangerous enemies like
+| SzQ | 2026.6.20-e1f7cd2 | Adds spawning locations for dangerous enemies like
 Flesh golems, Mutants, Dogs, Shoggoths, etc. It seems to work even. Code based
 on No_Hope mod by Night_Pryanik | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
@@ -476,7 +476,7 @@ subways and sewers. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Moutain dew](https://github.com/goldendragon900/cdda-bn-mountain-dew/archive/refs/heads/main.zip)
-| Goldendragon | 2026.6.19-90d7109 | A mod that add mountain dew to the game | |
+| Goldendragon | 2026.6.20-90d7109 | A mod that add mountain dew to the game | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Mug NPCs](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip)
@@ -542,6 +542,12 @@ near it if processing power is relatively low so use it i | |
 mutations and enemies appearing in Nechronica: the Long Long Sequel. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
+[Nechronica: Bright Sequel](https://github.com/YukariMindGap/Nechronica_Bright_Sequel/archive/refs/heads/master.zip)
+| YukariMindGap,Malkeus (Original Creator),Yunder (Original Creator) |
+2026.6.20-6ebcf1e | Become an undead DOLL and fight monstrosities in the mod
+based on the Japanese TTRPG, Nechronica: the Long Long Sequel. | |
+![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
+|
 [Necromancy](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip)
 | dambuk1 | 0.0.0 | Adds the ability to revive creatures as minions. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
@@ -558,12 +564,12 @@ other toys. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [No Addictions](https://github.com/Relgar/CBN-No-Addictions/archive/refs/heads/main.zip)
-| Relgar | 2026.6.19-70eec83 | Zeroes out potential for addiction from default
+| Relgar | 2026.6.20-70eec83 | Zeroes out potential for addiction from default
 comestibles. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [No Hope Monster Bandits](https://github.com/btseytlin/Cataclysm-BN---No-Hope-Monster-Bandits-mod/archive/refs/heads/main.zip)
-| Night_Pryanik,echoloth | 2026.6.19-13dfa70 | No Hope, but bandit npcs are
+| Night_Pryanik,echoloth | 2026.6.20-13dfa70 | No Hope, but bandit npcs are
 replaced with monster bandits from "Compatible Add Bandits" by Malkeus | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
@@ -573,7 +579,7 @@ WILDLIFE category. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Nuclear Power Plant](https://github.com/OpsCoretango/Nuclear_Power_Plant_BN/archive/refs/heads/main.zip)
-| 8street | 2026.6.19-8ad9d49 | Adds a Nuclear Power Plant from DDA. Location
+| 8street | 2026.6.20-8ad9d49 | Adds a Nuclear Power Plant from DDA. Location
 created by author: 8streets. Done to realism as could. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
@@ -592,21 +598,21 @@ changes and mutagen accumulation. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [PM-Militia Rifleman](https://github.com/Shad0wBlad321/Profession-Mod/archive/refs/heads/main.zip)
-| Some Dumbass | 2026.6.19-be2f1f9 | A civilian militia rifleman, lower tier
+| Some Dumbass | 2026.6.20-be2f1f9 | A civilian militia rifleman, lower tier
 than a proper soldier. dont use with the all in one variant | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [PM-Preppers](https://github.com/Shad0wBlad321/Profession-Mod/archive/refs/heads/main.zip)
-| Some Dumbass | 2026.6.19-be2f1f9 | Rebalance bionic prepper and add a normal
+| Some Dumbass | 2026.6.20-be2f1f9 | Rebalance bionic prepper and add a normal
 one, dont use alongside all in one | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [PM-RV](https://github.com/Shad0wBlad321/Profession-Mod/archive/refs/heads/main.zip)
-| Some Dumbass | 2026.6.19-be2f1f9 | Replace Shotgun Hunter With RV Owner | |
+| Some Dumbass | 2026.6.20-be2f1f9 | Replace Shotgun Hunter With RV Owner | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [PM-Survivor With A Gun](https://github.com/Shad0wBlad321/Profession-Mod/archive/refs/heads/main.zip)
-| Some Dumbass | 2026.6.19-be2f1f9 | Just a variant of survivor who wasnt so
+| Some Dumbass | 2026.6.20-be2f1f9 | Just a variant of survivor who wasnt so
 abysmally unprepared, got himself a strap before evac. Dont use with the all in
 one variant. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
@@ -649,109 +655,109 @@ layout. Less realistic looking but more variety. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Really Dark Skies](https://github.com/Zlorthishen/Really_Dark_Skies/archive/refs/heads/main.zip)
-| Zlorthishen | 2026.6.19-4e6abff | A supplement mod that increments the
+| Zlorthishen | 2026.6.20-4e6abff | A supplement mod that increments the
 Cataclysm Bright Nights experience by adding an inscrutable evil,
 extra-terrestrial humanoid paramilitary expeditionary force to your typical
 survival scenario. /n | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Really Dark Skies - Robots Reprogrammed](https://github.com/Zlorthishen/Really_Dark_Skies/archive/refs/heads/main.zip)
-| Zlorthishen | 2026.6.19-4e6abff | A patchmod for Really Dark Skies which
+| Zlorthishen | 2026.6.20-4e6abff | A patchmod for Really Dark Skies which
 changes all robots to be neutral to the Xenoid Invaders. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Really Dark Skies - Stray Casualties](https://github.com/Zlorthishen/Really_Dark_Skies/archive/refs/heads/main.zip)
-| Zlorthishen | 2026.6.19-4e6abff | A patchmod for Really Dark Skies which
+| Zlorthishen | 2026.6.20-4e6abff | A patchmod for Really Dark Skies which
 changes the bio-crystal 'Stray' zombies to be hostile to the Xenoids. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Really Dark Skies Repair Xeno-Tech](https://github.com/Zlorthishen/Really_Dark_Skies/archive/refs/heads/main.zip)
-| Zlorthishen | 2026.6.19-4e6abff | A patchmod for Really Dark Skies which
+| Zlorthishen | 2026.6.20-4e6abff | A patchmod for Really Dark Skies which
 allows the player to repair Xeno-Tech | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Really Dark Skies blob-faction alterations](https://github.com/Zlorthishen/Really_Dark_Skies/archive/refs/heads/main.zip)
-| Zlorthishen | 2026.6.19-4e6abff | A patchmod for Really Dark Skies which
+| Zlorthishen | 2026.6.20-4e6abff | A patchmod for Really Dark Skies which
 changes the standard zombies to be friendly with the Xenoids. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Really Dark Skies plus Advanced Technologies](https://github.com/Zlorthishen/Really_Dark_Skies/archive/refs/heads/main.zip)
-| Zlorthishen | 2026.6.19-4e6abff | A patchmod for Really Dark Skies which adds
+| Zlorthishen | 2026.6.20-4e6abff | A patchmod for Really Dark Skies which adds
 increased support for Advanced Technologies mod | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Really Dark Skies plus Arcana](https://github.com/Zlorthishen/Really_Dark_Skies/archive/refs/heads/main.zip)
-| Zlorthishen | 2026.6.19-4e6abff | A patchmod for Really Dark Skies which adds
+| Zlorthishen | 2026.6.20-4e6abff | A patchmod for Really Dark Skies which adds
 increased support for Arcana | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Really Dark Skies plus Arcana's patchmods](https://github.com/Zlorthishen/Really_Dark_Skies/archive/refs/heads/main.zip)
-| Zlorthishen | 2026.6.19-4e6abff | A patchmod for Really Dark Skies which adds
+| Zlorthishen | 2026.6.20-4e6abff | A patchmod for Really Dark Skies which adds
 increased support for Arcana, and its numerous patchmods | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Really Dark Skies plus Bio-Synth Robot Expansion](https://github.com/Zlorthishen/Really_Dark_Skies/archive/refs/heads/main.zip)
-| Zlorthishen | 2026.6.19-4e6abff | A patchmod for Really Dark Skies which adds
+| Zlorthishen | 2026.6.20-4e6abff | A patchmod for Really Dark Skies which adds
 increased support for Bio-Synth Robot Expansion | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Really Dark Skies plus C.R.I.T.](https://github.com/Zlorthishen/Really_Dark_Skies/archive/refs/heads/main.zip)
-| Zlorthishen | 2026.6.19-4e6abff | A patchmod for Really Dark Skies which adds
+| Zlorthishen | 2026.6.20-4e6abff | A patchmod for Really Dark Skies which adds
 increased support for C.R.I.T. mod | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Really Dark Skies plus Cataclysm++](https://github.com/Zlorthishen/Really_Dark_Skies/archive/refs/heads/main.zip)
-| Zlorthishen | 2026.6.19-4e6abff | A patchmod for Really Dark Skies which adds
+| Zlorthishen | 2026.6.20-4e6abff | A patchmod for Really Dark Skies which adds
 increased support for Cataclysm++ mod | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Really Dark Skies plus DinoMod](https://github.com/Zlorthishen/Really_Dark_Skies/archive/refs/heads/main.zip)
-| Zlorthishen | 2026.6.19-4e6abff | A patchmod for Really Dark Skies which adds
+| Zlorthishen | 2026.6.20-4e6abff | A patchmod for Really Dark Skies which adds
 increased support for Dino mod | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Really Dark Skies plus Magical Nights](https://github.com/Zlorthishen/Really_Dark_Skies/archive/refs/heads/main.zip)
-| Zlorthishen | 2026.6.19-4e6abff | A patchmod for Really Dark Skies which adds
+| Zlorthishen | 2026.6.20-4e6abff | A patchmod for Really Dark Skies which adds
 increased support for Magical Nights | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Really Dark Skies plus Morlock Village](https://github.com/Zlorthishen/Really_Dark_Skies/archive/refs/heads/main.zip)
-| Zlorthishen | 2026.6.19-4e6abff | A patchmod for Really Dark Skies which adds
+| Zlorthishen | 2026.6.20-4e6abff | A patchmod for Really Dark Skies which adds
 increased support for the Morlock village mod | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Really Dark Skies plus No Hope](https://github.com/Zlorthishen/Really_Dark_Skies/archive/refs/heads/main.zip)
-| Zlorthishen | 2026.6.19-4e6abff | A patchmod for Really Dark Skies which adds
+| Zlorthishen | 2026.6.20-4e6abff | A patchmod for Really Dark Skies which adds
 increased support for No Hope | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Really Dark Skies plus Secronom](https://github.com/Zlorthishen/Really_Dark_Skies/archive/refs/heads/main.zip)
-| Zlorthishen | 2026.6.19-4e6abff | A patchmod for Really Dark Skies which adds
+| Zlorthishen | 2026.6.20-4e6abff | A patchmod for Really Dark Skies which adds
 increased support for Secronom | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Really Dark Skies plus Thog's Vehicles](https://github.com/Zlorthishen/Really_Dark_Skies/archive/refs/heads/main.zip)
-| Zlorthishen | 2026.6.19-4e6abff | A patchmod for Really Dark Skies which adds
+| Zlorthishen | 2026.6.20-4e6abff | A patchmod for Really Dark Skies which adds
 increased support for Thog's Vehicles mod | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Really Dark Skies plus more Biocrystal Zombies](https://github.com/Zlorthishen/Really_Dark_Skies/archive/refs/heads/main.zip)
-| Zlorthishen | 2026.6.19-4e6abff | A patchmod for Really Dark Skies that adds
+| Zlorthishen | 2026.6.20-4e6abff | A patchmod for Really Dark Skies that adds
 more monsters spawns for the biocrystal "Stray" zombies | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Really Dark Skies with reviving Xenoids](https://github.com/Zlorthishen/Really_Dark_Skies/archive/refs/heads/main.zip)
-| Zlorthishen | 2026.6.19-4e6abff | A patchmod for Really Dark Skies which makes
+| Zlorthishen | 2026.6.20-4e6abff | A patchmod for Really Dark Skies which makes
 Xenoids revive like zombies | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Really Dark Skies without reviving Biocrystal zombies](https://github.com/Zlorthishen/Really_Dark_Skies/archive/refs/heads/main.zip)
-| Zlorthishen | 2026.6.19-4e6abff | A patchmod for Really Dark Skies which
+| Zlorthishen | 2026.6.20-4e6abff | A patchmod for Really Dark Skies which
 prevents the reviving of the biocrystal zombies, known as 'Strays' | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Really Dark Skies without the Biocrystal type zombies](https://github.com/Zlorthishen/Really_Dark_Skies/archive/refs/heads/main.zip)
-| Zlorthishen | 2026.6.19-4e6abff | A patchmod for Really Dark Skies which
+| Zlorthishen | 2026.6.20-4e6abff | A patchmod for Really Dark Skies which
 removes the biocrystal zombies, known as 'Strays' | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
@@ -762,7 +768,7 @@ WACKINESS OR ONLY IF YOU ARE TESTING | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Return Of The Blob](https://github.com/yowshi/BlobExpansion/archive/refs/heads/master.zip)
-| Dev_Null,yowshi | 2026.6.19-470de1c | Blob based survival and technology. Adds
+| Dev_Null,yowshi | 2026.6.20-470de1c | Blob based survival and technology. Adds
 comprehensive slime-based equipment, creatures, and amphibious vehicle parts
 that can transition seamlessly between land and water. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
@@ -792,7 +798,7 @@ broken robots into functioning companions. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Scrap Walls](https://github.com/AlecWhite/Metal_Scrap_Walls/archive/refs/heads/main.zip)
-| Alec White | 2026.6.19-b383940 | Adds metal scrap walls | |
+| Alec White | 2026.6.20-b383940 | Adds metal scrap walls | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Secronom](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip)
@@ -828,7 +834,7 @@ please. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Stackable Dried Items and Generic Fruits/Berries](https://github.com/Lamandus/Stackgeneric/archive/refs/heads/main.zip)
-| Viss Valdyr | 2026.6.19-cdc630f | This makes dried veggies, fruits, mushrooms,
+| Viss Valdyr | 2026.6.20-cdc630f | This makes dried veggies, fruits, mushrooms,
 eggs and flour stackable, also unperishable. Also all berries and fruits are
 migrated into one item respectively. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
@@ -839,7 +845,7 @@ inspired by the Arcanum crpg. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Sudo's Requiem](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.19-53b55a3 | Adds late game items, big bundle of materials
+| leoCottret | 2026.6.20-53b55a3 | Adds late game items, big bundle of materials
 and (SoonTM)late game monsters to challenge your demi-god cyber mutant | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
@@ -852,7 +858,7 @@ and (SoonTM)late game monsters to challenge your demi-god cyber mutant | |
 dropped from the bushes | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 | [SzQmod](https://github.com/SzQ1/SzQmod/archive/refs/heads/main.zip) | SzQ |
-2026.6.19-47f0f33 | Weapons from Blazemod, pneumatic weapons | |
+2026.6.20-47f0f33 | Weapons from Blazemod, pneumatic weapons | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [THRESHOLD](https://github.com/Zlorthishen/BrightNights-Structured-Kenan-Modpack/archive/refs/heads/master.zip)
@@ -927,7 +933,7 @@ new contents and features. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Visible car roof](https://github.com/SzQ1/Visible-car-roofs/archive/refs/heads/main.zip)
-| SzQ | 2026.6.19-5e66a72 | Adds additional roof v_parts that occupy on_roof
+| SzQ | 2026.6.20-5e66a72 | Adds additional roof v_parts that occupy on_roof
 layer, it makes it visible when out of vehicle but also blocks installing
 turrets, solar panels, etc | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
@@ -939,7 +945,7 @@ information. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Warhammer 40K Imperial Armoury](https://github.com/kingcet/WH40K-Imperial-Armoury/archive/refs/heads/main.zip)
-| Kingcat | 2026.6.19-f863f21 | Adds Imperial weapons from the Warhammer 40K
+| Kingcat | 2026.6.20-f863f21 | Adds Imperial weapons from the Warhammer 40K
 universe. It was originally made by Wulfle, or so the modinfo says. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
@@ -986,247 +992,247 @@ encumbrance), a new knife (better butchering, impression damage) and | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.19-53b55a3 | This is the main XL armors mod, that adds XL
+| leoCottret | 2026.6.20-53b55a3 | This is the main XL armors mod, that adds XL
 armors for vanilla. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for Adurnsyl's Assorted Arms and Armour](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.19-53b55a3 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.20-53b55a3 | This is an extension that adds XL armors for
 the Adurnsyl's Assorted Arms and Armour mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for Advanced Technologies](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.19-53b55a3 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.20-53b55a3 | This is an extension that adds XL armors for
 the Advanced Technologies mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for Aftershock](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.19-53b55a3 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.20-53b55a3 | This is an extension that adds XL armors for
 the Aftershock mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for Armor Up! Survivor Expansion](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.19-53b55a3 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.20-53b55a3 | This is an extension that adds XL armors for
 the Armor Up! Survivor Expansion mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for BL9-100%-monster-resilience-version](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.19-53b55a3 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.20-53b55a3 | This is an extension that adds XL armors for
 the BL9-100%-monster-resilience-version mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for BL9-140%-monster-resilience-version](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.19-53b55a3 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.20-53b55a3 | This is an extension that adds XL armors for
 the BL9-140%-monster-resilience-version mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for BL9-175%-monster-resilience-version](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.19-53b55a3 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.20-53b55a3 | This is an extension that adds XL armors for
 the BL9-175%-monster-resilience-version mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for Battle Maid Redux](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.19-53b55a3 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.20-53b55a3 | This is an extension that adds XL armors for
 the Battle Maid Redux mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for Bio-Synth Robot expansion](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.19-53b55a3 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.20-53b55a3 | This is an extension that adds XL armors for
 the Bio-Synth Robot expansion mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for C.R.I.T Expansion Mod](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.19-53b55a3 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.20-53b55a3 | This is an extension that adds XL armors for
 the C.R.I.T Expansion Mod mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for CBM Equipment](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.19-53b55a3 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.20-53b55a3 | This is an extension that adds XL armors for
 the CBM Equipment mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for Cataclysm++](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.19-53b55a3 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.20-53b55a3 | This is an extension that adds XL armors for
 the Cataclysm++ mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for Cataclysm: Second Chance](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.19-53b55a3 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.20-53b55a3 | This is an extension that adds XL armors for
 the Cataclysm: Second Chance mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for Compatible Ninja MOD](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.19-53b55a3 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.20-53b55a3 | This is an extension that adds XL armors for
 the Compatible Ninja MOD mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for Fallout New England](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.19-53b55a3 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.20-53b55a3 | This is an extension that adds XL armors for
 the Fallout New England mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for Fallout New England Expansion](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.19-53b55a3 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.20-53b55a3 | This is an extension that adds XL armors for
 the Fallout New England Expansion mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for Kingsman Umbrella](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.19-53b55a3 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.20-53b55a3 | This is an extension that adds XL armors for
 the Kingsman Umbrella mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for Magiclysm](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.19-53b55a3 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.20-53b55a3 | This is an extension that adds XL armors for
 the Magiclysm mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for Makeshift Items Mod](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.19-53b55a3 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.20-53b55a3 | This is an extension that adds XL armors for
 the Makeshift Items Mod mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for Merchant Mod](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.19-53b55a3 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.20-53b55a3 | This is an extension that adds XL armors for
 the Merchant Mod mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for Miscellaneous Magiclysm Expansions](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.19-53b55a3 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.20-53b55a3 | This is an extension that adds XL armors for
 the Miscellaneous Magiclysm Expansions mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for More Makeshift Stuff](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.19-53b55a3 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.20-53b55a3 | This is an extension that adds XL armors for
 the More Makeshift Stuff mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for More Survival Tools](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.19-53b55a3 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.20-53b55a3 | This is an extension that adds XL armors for
 the More Survival Tools mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for More Survivor Stuff](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.19-53b55a3 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.20-53b55a3 | This is an extension that adds XL armors for
 the More Survivor Stuff mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for No Hope](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.19-53b55a3 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.20-53b55a3 | This is an extension that adds XL armors for
 the No Hope mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for PKs Rebalancing](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.19-53b55a3 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.20-53b55a3 | This is an extension that adds XL armors for
 the PKs Rebalancing mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for Pora's Complilation](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.19-53b55a3 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.20-53b55a3 | This is an extension that adds XL armors for
 the Pora's Complilation mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for Project APEX](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.19-53b55a3 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.20-53b55a3 | This is an extension that adds XL armors for
 the Project APEX mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for ProjectKawaii](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.19-53b55a3 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.20-53b55a3 | This is an extension that adds XL armors for
 the ProjectKawaii mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for Real Dark Skies](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.19-53b55a3 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.20-53b55a3 | This is an extension that adds XL armors for
 the Real Dark Skies mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for Secronom](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret,LucioFurnari | 2026.6.19-53b55a3 | This is the main XL armors mod,
+| leoCottret,LucioFurnari | 2026.6.20-53b55a3 | This is the main XL armors mod,
 that adds XL armors for secronom. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for Secronom expansion](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret,LucioFurnari | 2026.6.19-53b55a3 | This is the main XL armors mod,
+| leoCottret,LucioFurnari | 2026.6.20-53b55a3 | This is the main XL armors mod,
 that adds XL armors for secronom. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for Shinigami](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.19-53b55a3 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.20-53b55a3 | This is an extension that adds XL armors for
 the Shinigami mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for Sierra Madre](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.19-53b55a3 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.20-53b55a3 | This is an extension that adds XL armors for
 the Sierra Madre mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for Steampunk Mod](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.19-53b55a3 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.20-53b55a3 | This is an extension that adds XL armors for
 the Steampunk Mod mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for Survivor's Lost item](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.19-53b55a3 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.20-53b55a3 | This is an extension that adds XL armors for
 the Survivor's Lost item mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for The Vermilion Mod](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.19-53b55a3 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.20-53b55a3 | This is an extension that adds XL armors for
 the The Vermilion Mod mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for Thermal Electric UPS](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.19-53b55a3 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.20-53b55a3 | This is an extension that adds XL armors for
 the Thermal Electric UPS mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for UnderrailMetro Mod](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.19-53b55a3 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.20-53b55a3 | This is an extension that adds XL armors for
 the UnderrailMetro Mod mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for Valkyria Chronicles Mod](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.19-53b55a3 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.20-53b55a3 | This is an extension that adds XL armors for
 the Valkyria Chronicles Mod mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for Vampiric Stuff](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.19-53b55a3 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.20-53b55a3 | This is an extension that adds XL armors for
 the Vampiric Stuff mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for Wild Living](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.19-53b55a3 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.20-53b55a3 | This is an extension that adds XL armors for
 the Wild Living mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for World on Fire](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.19-53b55a3 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.20-53b55a3 | This is an extension that adds XL armors for
 the World on Fire mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for XEAS](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.19-53b55a3 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.20-53b55a3 | This is an extension that adds XL armors for
 the XEAS mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for ZSFIXED_C:DDA Extra Professions & Gears](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.19-53b55a3 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.20-53b55a3 | This is an extension that adds XL armors for
 the ZSFIXED_C:DDA Extra Professions & Gears mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for [Demo] Doomsday Reserve Box](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.19-53b55a3 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.20-53b55a3 | This is an extension that adds XL armors for
 the [Demo] Doomsday Reserve Box mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for vorpal weapons](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.19-53b55a3 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.20-53b55a3 | This is an extension that adds XL armors for
 the vorpal weapons mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL clothing](https://github.com/Krwak/XL-Clothing/archive/refs/heads/main.zip)
-| Krwak | 2026.6.19-c0ebaf2 | Adds a few winter items for mutants and buffs XL
+| Krwak | 2026.6.20-c0ebaf2 | Adds a few winter items for mutants and buffs XL
 variants of armors to normal levels. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
@@ -1266,7 +1272,7 @@ zombies, adding weapons, and moar, still WIP. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Zombie Highschool Mod, less NPCs](https://github.com/thhoney08/ZombieHighMod_LessNpcs/archive/refs/heads/main.zip)
-| Another Marius | 2026.6.19-b52e508 | Add a weird school with less NPCs and
+| Another Marius | 2026.6.20-b52e508 | Add a weird school with less NPCs and
 zeds, for mobile devices. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
@@ -1280,7 +1286,7 @@ translated from Japanese. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [짐승의 무기술](https://github.com/NappingOcean/Wield_Wild_Weapons/archive/refs/heads/main.zip)
-| NappingOcean | 2026.6.19-4f34ea5 | 짐승의 자세에서 비롯된 새로운 무기술을
+| NappingOcean | 2026.6.20-4f34ea5 | 짐승의 자세에서 비롯된 새로운 무기술을
 추가합니다. 이 무기술은 특정한 석상을 찾아서 그 비급을 얻을 수 있습니다. | |
 ![Icon](https://raw.githubusercontent.com/NobleJake/ProjectPackRat/8682733b32eda1b463e9ea58245aaae68cd1a733/ProjectSquirrel/icon.png)
 |

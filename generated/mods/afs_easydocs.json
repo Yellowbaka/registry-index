@@ -9,7 +9,7 @@
   ],
   "license": "ALL-RIGHTS-RESERVED",
   "homepage": "https://github.com/Relgar/AFS_Easydocs/tree/main/AFS_Easydocs",
-  "version": "2026.6.19-922a8a1",
+  "version": "2026.6.20-922a8a1",
   "previous_releases": [
     {
       "version": "0.0.0",
@@ -130,6 +130,16 @@
         "extract_path": "AFS_Easydocs"
       },
       "released_at": "2026-06-18T03:01:22.045Z"
+    },
+    {
+      "version": "2026.6.19-922a8a1",
+      "source": {
+        "type": "github_archive",
+        "url": "https://github.com/Relgar/AFS_Easydocs/archive/refs/heads/main.zip",
+        "commit_sha": "922a8a19214466d05de7133070892ff3f90e5bc8",
+        "extract_path": "AFS_Easydocs"
+      },
+      "released_at": "2026-06-19T03:55:49.471Z"
     }
   ],
   "dependencies": {
@@ -151,5 +161,5 @@
     "type": "commit",
     "branch": "main"
   },
-  "last_updated": "2026-06-19T03:55:49.471Z"
+  "last_updated": "2026-06-20T02:48:51.353Z"
 }

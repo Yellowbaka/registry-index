@@ -11,7 +11,7 @@ author:
   - ChorusSystem
 license: ALL-RIGHTS-RESERVED
 homepage: "https://github.com/yay855/ChorusMod/tree/main/Chorus CBMs"
-version: 2026.6.19-9ba39b3
+version: 2026.6.20-9ba39b3
 previous_releases:
   - version: 0.0.0
     source:
@@ -97,6 +97,13 @@ previous_releases:
       commit_sha: 9ba39b3d1a51b4d743fbb8171079645c918a9854
       extract_path: Chorus CBMs
     released_at: "2026-06-18T03:01:25.799Z"
+  - version: 2026.6.19-9ba39b3
+    source:
+      type: github_archive
+      url: "https://github.com/yay855/ChorusMod/archive/refs/heads/main.zip"
+      commit_sha: 9ba39b3d1a51b4d743fbb8171079645c918a9854
+      extract_path: Chorus CBMs
+    released_at: "2026-06-19T03:55:53.220Z"
 dependencies:
   bn: ">=0.9.1"
   chorus_weapons: "*"
@@ -113,4 +120,4 @@ uses_lua: false
 autoupdate:
   type: commit
   branch: main
-last_updated: "2026-06-19T03:55:53.220Z"
+last_updated: "2026-06-20T02:48:53.332Z"

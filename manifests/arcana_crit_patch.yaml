@@ -9,7 +9,7 @@ author:
 license: CC-BY-SA-3.0
 homepage: >-
   https://github.com/chaosvolt/cdda-arcana-mod/tree/master/Patchmods/BN_Arcana_Crit_Patch
-version: 2026.6.19-33bfbbe
+version: 2026.6.20-33bfbbe
 previous_releases:
   - version: 0.0.0
     source:
@@ -107,6 +107,14 @@ previous_releases:
       commit_sha: 33bfbbe31cd95575636443b13183e127e19e36d0
       extract_path: Patchmods/BN_Arcana_Crit_Patch
     released_at: "2026-06-18T03:01:14.961Z"
+  - version: 2026.6.19-33bfbbe
+    source:
+      type: github_archive
+      url: >-
+        https://github.com/chaosvolt/cdda-arcana-mod/archive/refs/heads/master.zip
+      commit_sha: 33bfbbe31cd95575636443b13183e127e19e36d0
+      extract_path: Patchmods/BN_Arcana_Crit_Patch
+    released_at: "2026-06-19T03:55:42.318Z"
 yanked:
   reason: "Mainlined in Cataclysm: Bright Nights."
 dependencies:
@@ -127,4 +135,4 @@ autoupdate:
   type: commit
   branch: master
 parent: arcana
-last_updated: "2026-06-19T03:55:42.318Z"
+last_updated: "2026-06-20T02:48:47.713Z"

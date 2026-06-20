@@ -9,7 +9,7 @@
   ],
   "license": "ALL-RIGHTS-RESERVED",
   "homepage": "https://github.com/Shad0wBlad321/Profession-Mod/tree/main/Bobs Professions",
-  "version": "2026.6.19-be2f1f9",
+  "version": "2026.6.20-be2f1f9",
   "previous_releases": [
     {
       "version": "0.0.0",
@@ -130,6 +130,16 @@
         "extract_path": "Bobs Professions"
       },
       "released_at": "2026-06-18T03:01:53.673Z"
+    },
+    {
+      "version": "2026.6.19-be2f1f9",
+      "source": {
+        "type": "github_archive",
+        "url": "https://github.com/Shad0wBlad321/Profession-Mod/archive/refs/heads/main.zip",
+        "commit_sha": "be2f1f958c17fbf2a5dbdff05ca45e690533fce5",
+        "extract_path": "Bobs Professions"
+      },
+      "released_at": "2026-06-19T03:56:20.807Z"
     }
   ],
   "dependencies": {
@@ -150,5 +160,5 @@
     "type": "commit",
     "branch": "main"
   },
-  "last_updated": "2026-06-19T03:56:20.807Z"
+  "last_updated": "2026-06-20T02:49:09.529Z"
 }

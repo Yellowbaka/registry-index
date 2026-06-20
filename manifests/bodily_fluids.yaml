@@ -17,7 +17,7 @@ author:
   - Kota
 license: ALL-RIGHTS-RESERVED
 homepage: "https://github.com/shmakota/bodily_fluids_mod_bn/tree/main/bodily_fluids"
-version: 2026.6.19-3a14970
+version: 2026.6.20-3a14970
 previous_releases:
   - version: 0.0.0
     source:
@@ -115,6 +115,14 @@ previous_releases:
       commit_sha: 3a149705c06a492f5454cedb7d66aa6ddc3d681e
       extract_path: bodily_fluids
     released_at: "2026-06-18T03:01:41.344Z"
+  - version: 2026.6.19-3a14970
+    source:
+      type: github_archive
+      url: >-
+        https://github.com/shmakota/bodily_fluids_mod_bn/archive/refs/heads/main.zip
+      commit_sha: 3a149705c06a492f5454cedb7d66aa6ddc3d681e
+      extract_path: bodily_fluids
+    released_at: "2026-06-19T03:56:08.626Z"
 dependencies:
   bn: ">=0.9.1"
 source:
@@ -131,4 +139,4 @@ lua_api_version: 2
 autoupdate:
   type: commit
   branch: main
-last_updated: "2026-06-19T03:56:08.626Z"
+last_updated: "2026-06-20T02:49:02.528Z"

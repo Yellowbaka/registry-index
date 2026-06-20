@@ -7,7 +7,7 @@ author:
   - Another Marius
 license: ALL-RIGHTS-RESERVED
 homepage: "https://github.com/thhoney08/ZombieHighMod_LessNpcs"
-version: 2026.6.19-b52e508
+version: 2026.6.20-b52e508
 previous_releases:
   - version: 0.0.0
     source:
@@ -93,6 +93,13 @@ previous_releases:
         https://github.com/thhoney08/ZombieHighMod_LessNpcs/archive/refs/heads/main.zip
       commit_sha: b52e5080b330567c53aaa385f74e4dc0527f2d4a
     released_at: "2026-06-18T03:01:27.198Z"
+  - version: 2026.6.19-b52e508
+    source:
+      type: github_archive
+      url: >-
+        https://github.com/thhoney08/ZombieHighMod_LessNpcs/archive/refs/heads/main.zip
+      commit_sha: b52e5080b330567c53aaa385f74e4dc0527f2d4a
+    released_at: "2026-06-19T03:55:54.762Z"
 dependencies:
   bn: ">=0.9.1"
   zhigh_mod: "*"
@@ -110,4 +117,4 @@ autoupdate:
   type: commit
   branch: main
 parent: zhigh_mod
-last_updated: "2026-06-19T03:55:54.762Z"
+last_updated: "2026-06-20T02:48:54.206Z"

@@ -7,7 +7,7 @@ author:
   - Relgar
 license: ALL-RIGHTS-RESERVED
 homepage: "https://github.com/Relgar/CBN-No-Addictions/tree/main/No_Addictions"
-version: 2026.6.19-70eec83
+version: 2026.6.20-70eec83
 previous_releases:
   - version: 0.0.0
     source:
@@ -93,6 +93,13 @@ previous_releases:
       commit_sha: 70eec8386256b2c154c7a7ad2efe2459972cf7b0
       extract_path: No_Addictions
     released_at: "2026-06-18T03:01:52.128Z"
+  - version: 2026.6.19-70eec83
+    source:
+      type: github_archive
+      url: "https://github.com/Relgar/CBN-No-Addictions/archive/refs/heads/main.zip"
+      commit_sha: 70eec8386256b2c154c7a7ad2efe2459972cf7b0
+      extract_path: No_Addictions
+    released_at: "2026-06-19T03:56:19.280Z"
 dependencies:
   bn: ">=0.9.1"
 source:
@@ -108,4 +115,4 @@ uses_lua: false
 autoupdate:
   type: commit
   branch: main
-last_updated: "2026-06-19T03:56:19.280Z"
+last_updated: "2026-06-20T02:49:08.888Z"
