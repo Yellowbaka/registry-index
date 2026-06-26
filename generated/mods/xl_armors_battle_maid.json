@@ -9,7 +9,7 @@
   ],
   "license": "ALL-RIGHTS-RESERVED",
   "homepage": "https://github.com/leoCottret/cbn-leocottret-mods/tree/main/MODS/XL_ARMORS_KENAN_MODPACK/XL_Armors_Battle_Maid_Redux",
-  "version": "2026.6.25-2a87768",
+  "version": "2026.6.26-a504540",
   "previous_releases": [
     {
       "version": "0.0.0",
@@ -150,6 +150,16 @@
         "extract_path": "MODS/XL_ARMORS_KENAN_MODPACK/XL_Armors_Battle_Maid_Redux"
       },
       "released_at": "2026-06-20T02:48:56.450Z"
+    },
+    {
+      "version": "2026.6.25-2a87768",
+      "source": {
+        "type": "github_archive",
+        "url": "https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip",
+        "commit_sha": "2a877689a9c119da012e84146b1355f325c3a0bd",
+        "extract_path": "MODS/XL_ARMORS_KENAN_MODPACK/XL_Armors_Battle_Maid_Redux"
+      },
+      "released_at": "2026-06-25T02:41:20.176Z"
     }
   ],
   "yanked": {
@@ -161,7 +171,7 @@
   "source": {
     "type": "github_archive",
     "url": "https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip",
-    "commit_sha": "2a877689a9c119da012e84146b1355f325c3a0bd",
+    "commit_sha": "a50454009dbc93614728d335760283237b719b8c",
     "extract_path": "MODS/XL_ARMORS_KENAN_MODPACK/XL_Armors_Battle_Maid_Redux"
   },
   "categories": [
@@ -173,5 +183,5 @@
     "type": "commit",
     "branch": "main"
   },
-  "last_updated": "2026-06-25T02:41:20.176Z"
+  "last_updated": "2026-06-26T02:45:13.523Z"
 }

@@ -853,7 +853,7 @@ inspired by the Arcanum crpg. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [Sudo's Requiem](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.25-2a87768 | Adds late game items, big bundle of materials
+| leoCottret | 2026.6.26-a504540 | Adds late game items, big bundle of materials
 and (SoonTM)late game monsters to challenge your demi-god cyber mutant | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
@@ -1000,242 +1000,242 @@ encumbrance), a new knife (better butchering, impression damage) and | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.25-2a87768 | This is the main XL armors mod, that adds XL
+| leoCottret | 2026.6.26-a504540 | This is the main XL armors mod, that adds XL
 armors for vanilla. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for Adurnsyl's Assorted Arms and Armour](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.25-2a87768 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.26-a504540 | This is an extension that adds XL armors for
 the Adurnsyl's Assorted Arms and Armour mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for Advanced Technologies](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.25-2a87768 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.26-a504540 | This is an extension that adds XL armors for
 the Advanced Technologies mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for Aftershock](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.25-2a87768 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.26-a504540 | This is an extension that adds XL armors for
 the Aftershock mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for Armor Up! Survivor Expansion](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.25-2a87768 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.26-a504540 | This is an extension that adds XL armors for
 the Armor Up! Survivor Expansion mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for BL9-100%-monster-resilience-version](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.25-2a87768 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.26-a504540 | This is an extension that adds XL armors for
 the BL9-100%-monster-resilience-version mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for BL9-140%-monster-resilience-version](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.25-2a87768 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.26-a504540 | This is an extension that adds XL armors for
 the BL9-140%-monster-resilience-version mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for BL9-175%-monster-resilience-version](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.25-2a87768 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.26-a504540 | This is an extension that adds XL armors for
 the BL9-175%-monster-resilience-version mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for Battle Maid Redux](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.25-2a87768 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.26-a504540 | This is an extension that adds XL armors for
 the Battle Maid Redux mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for Bio-Synth Robot expansion](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.25-2a87768 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.26-a504540 | This is an extension that adds XL armors for
 the Bio-Synth Robot expansion mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for C.R.I.T Expansion Mod](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.25-2a87768 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.26-a504540 | This is an extension that adds XL armors for
 the C.R.I.T Expansion Mod mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for CBM Equipment](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.25-2a87768 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.26-a504540 | This is an extension that adds XL armors for
 the CBM Equipment mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for Cataclysm++](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.25-2a87768 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.26-a504540 | This is an extension that adds XL armors for
 the Cataclysm++ mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for Cataclysm: Second Chance](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.25-2a87768 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.26-a504540 | This is an extension that adds XL armors for
 the Cataclysm: Second Chance mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for Compatible Ninja MOD](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.25-2a87768 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.26-a504540 | This is an extension that adds XL armors for
 the Compatible Ninja MOD mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for Fallout New England](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.25-2a87768 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.26-a504540 | This is an extension that adds XL armors for
 the Fallout New England mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for Fallout New England Expansion](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.25-2a87768 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.26-a504540 | This is an extension that adds XL armors for
 the Fallout New England Expansion mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for Kingsman Umbrella](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.25-2a87768 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.26-a504540 | This is an extension that adds XL armors for
 the Kingsman Umbrella mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for Magiclysm](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.25-2a87768 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.26-a504540 | This is an extension that adds XL armors for
 the Magiclysm mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for Makeshift Items Mod](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.25-2a87768 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.26-a504540 | This is an extension that adds XL armors for
 the Makeshift Items Mod mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for Merchant Mod](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.25-2a87768 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.26-a504540 | This is an extension that adds XL armors for
 the Merchant Mod mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for Miscellaneous Magiclysm Expansions](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.25-2a87768 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.26-a504540 | This is an extension that adds XL armors for
 the Miscellaneous Magiclysm Expansions mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for More Makeshift Stuff](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.25-2a87768 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.26-a504540 | This is an extension that adds XL armors for
 the More Makeshift Stuff mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for More Survival Tools](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.25-2a87768 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.26-a504540 | This is an extension that adds XL armors for
 the More Survival Tools mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for More Survivor Stuff](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.25-2a87768 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.26-a504540 | This is an extension that adds XL armors for
 the More Survivor Stuff mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for No Hope](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.25-2a87768 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.26-a504540 | This is an extension that adds XL armors for
 the No Hope mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for PKs Rebalancing](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.25-2a87768 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.26-a504540 | This is an extension that adds XL armors for
 the PKs Rebalancing mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for Pora's Complilation](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.25-2a87768 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.26-a504540 | This is an extension that adds XL armors for
 the Pora's Complilation mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for Project APEX](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.25-2a87768 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.26-a504540 | This is an extension that adds XL armors for
 the Project APEX mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for ProjectKawaii](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.25-2a87768 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.26-a504540 | This is an extension that adds XL armors for
 the ProjectKawaii mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for Real Dark Skies](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.25-2a87768 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.26-a504540 | This is an extension that adds XL armors for
 the Real Dark Skies mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for Secronom](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret,LucioFurnari | 2026.6.25-2a87768 | This is the main XL armors mod,
+| leoCottret,LucioFurnari | 2026.6.26-a504540 | This is the main XL armors mod,
 that adds XL armors for secronom. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for Secronom expansion](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret,LucioFurnari | 2026.6.25-2a87768 | This is the main XL armors mod,
+| leoCottret,LucioFurnari | 2026.6.26-a504540 | This is the main XL armors mod,
 that adds XL armors for secronom. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for Shinigami](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.25-2a87768 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.26-a504540 | This is an extension that adds XL armors for
 the Shinigami mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for Sierra Madre](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.25-2a87768 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.26-a504540 | This is an extension that adds XL armors for
 the Sierra Madre mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for Steampunk Mod](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.25-2a87768 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.26-a504540 | This is an extension that adds XL armors for
 the Steampunk Mod mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for Survivor's Lost item](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.25-2a87768 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.26-a504540 | This is an extension that adds XL armors for
 the Survivor's Lost item mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for The Vermilion Mod](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.25-2a87768 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.26-a504540 | This is an extension that adds XL armors for
 the The Vermilion Mod mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for Thermal Electric UPS](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.25-2a87768 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.26-a504540 | This is an extension that adds XL armors for
 the Thermal Electric UPS mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for UnderrailMetro Mod](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.25-2a87768 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.26-a504540 | This is an extension that adds XL armors for
 the UnderrailMetro Mod mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for Valkyria Chronicles Mod](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.25-2a87768 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.26-a504540 | This is an extension that adds XL armors for
 the Valkyria Chronicles Mod mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for Vampiric Stuff](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.25-2a87768 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.26-a504540 | This is an extension that adds XL armors for
 the Vampiric Stuff mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for Wild Living](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.25-2a87768 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.26-a504540 | This is an extension that adds XL armors for
 the Wild Living mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for World on Fire](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.25-2a87768 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.26-a504540 | This is an extension that adds XL armors for
 the World on Fire mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for XEAS](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.25-2a87768 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.26-a504540 | This is an extension that adds XL armors for
 the XEAS mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for ZSFIXED_C:DDA Extra Professions & Gears](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.25-2a87768 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.26-a504540 | This is an extension that adds XL armors for
 the ZSFIXED_C:DDA Extra Professions & Gears mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for [Demo] Doomsday Reserve Box](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.25-2a87768 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.26-a504540 | This is an extension that adds XL armors for
 the [Demo] Doomsday Reserve Box mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |
 [XL Armors for vorpal weapons](https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip)
-| leoCottret | 2026.6.25-2a87768 | This is an extension that adds XL armors for
+| leoCottret | 2026.6.26-a504540 | This is an extension that adds XL armors for
 the vorpal weapons mod. | |
 ![Icon](https://raw.githubusercontent.com/cataclysmbn/Cataclysm-BN/main/gfx/app_icon/app-icon.svg)
 |

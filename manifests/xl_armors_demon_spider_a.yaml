@@ -12,7 +12,7 @@ author:
 license: ALL-RIGHTS-RESERVED
 homepage: >-
   https://github.com/leoCottret/cbn-leocottret-mods/tree/main/MODS/XL_ARMORS_KENAN_MODPACK/XL_Armors_Miscellaneous_Magiclysm_Expansions
-version: 2026.6.25-2a87768
+version: 2026.6.26-a504540
 previous_releases:
   - version: 0.0.0
     source:
@@ -140,6 +140,15 @@ previous_releases:
       extract_path: >-
         MODS/XL_ARMORS_KENAN_MODPACK/XL_Armors_Miscellaneous_Magiclysm_Expansions
     released_at: "2026-06-20T02:49:01.545Z"
+  - version: 2026.6.25-2a87768
+    source:
+      type: github_archive
+      url: >-
+        https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip
+      commit_sha: 2a877689a9c119da012e84146b1355f325c3a0bd
+      extract_path: >-
+        MODS/XL_ARMORS_KENAN_MODPACK/XL_Armors_Miscellaneous_Magiclysm_Expansions
+    released_at: "2026-06-25T02:41:23.712Z"
 yanked:
   reason: can re-fit armors into XL
 dependencies:
@@ -148,7 +157,7 @@ source:
   type: github_archive
   url: >-
     https://github.com/leoCottret/cbn-leocottret-mods/archive/refs/heads/main.zip
-  commit_sha: 2a877689a9c119da012e84146b1355f325c3a0bd
+  commit_sha: a50454009dbc93614728d335760283237b719b8c
   extract_path: MODS/XL_ARMORS_KENAN_MODPACK/XL_Armors_Miscellaneous_Magiclysm_Expansions
 categories:
   - content
@@ -158,4 +167,4 @@ uses_lua: false
 autoupdate:
   type: commit
   branch: main
-last_updated: "2026-06-25T02:41:23.712Z"
+last_updated: "2026-06-26T02:45:20.785Z"
