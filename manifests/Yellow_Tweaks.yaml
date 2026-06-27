@@ -1,0 +1,28 @@
+schema_version: "1.0"
+id: YELLOW_TWEAKS
+display_name: Yellow Tweaks
+short_description: >-
+  Quick and dirty mod to revert changes made by dedmemdev. Specifically readds
+  SWAT Zombies and gets rid of the enemies in the dead squad of soldiers special
+description: >-
+  Reverts a couple of changes I don't like. Re-adds the SWAT Zombie and makes
+  the cop zombie have the riot gear again. Swat Truck specials still exist but
+  have normal SWAT zombies in them. The dead soldier special acts as it did
+  prior to being changed. This makes it much more similar to old Cataclysm which
+  is what I like personally
+author:
+  - YellowbakaFan
+license: AGPL-3.0-or-later
+homepage: "https://github.com/Yellowbaka/Yellow-Tweaks/tree/main/Yellow_Tweaks"
+version: 0.0.0
+dependencies:
+  bn: ">=0.9.1"
+source:
+  type: github_archive
+  url: "https://github.com/Yellowbaka/Yellow-Tweaks/archive/refs/heads/main.zip"
+  commit_sha: 271b388b793fac5dff524dad379887268c504bbd
+  extract_path: Yellow-Tweaks-main/Yellow_Tweaks
+categories:
+  - qol
+autoupdate:
+  type: tag
