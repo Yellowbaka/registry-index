@@ -1,5 +1,5 @@
 schema_version: "1.0"
-id: YELLOW_TWEAKS
+id: yellow_tweaks
 display_name: Yellow Tweaks
 short_description: >-
   Quick and dirty mod to revert changes made by dedmemdev. Specifically readds
